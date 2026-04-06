@@ -48,7 +48,7 @@ Hook: "97 de cada 100 leads que recibe su inmobiliaria... se pierden."
 "Primer. No el mejor. No el mas barato. El primero."
 "Son las 2am. Su lead pregunto por un apartamento."
 [Show bot responding with property info]
-"Alguien le respondio en 5 segundos."
+"Alguien le respondió en menos de 2 minutos."
 ```
 
 **Video 3: "62% llegan fuera de horario"** (15-20s)
