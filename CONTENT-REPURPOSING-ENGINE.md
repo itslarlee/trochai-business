@@ -1,134 +1,160 @@
 # AI Content Repurposing Engine
 
-> One pillar piece of content per week → 25+ pieces across all platforms.
+> One topic per week → pillar post + 25 pieces across all platforms. No recording needed.
 
 ## The Pipeline
 
 ```
-RECORD (30 min)
+TOPIC (pick from backlog or current events)
     ↓
-TRANSCRIBE (Whisper)
+GENERATE PILLAR (Claude Code writes the long-form post)
     ↓
 REPURPOSE (Claude Code commands)
     ├── /repurpose-to-tweets      → 5 tweets
-    ├── /repurpose-to-linkedin    → 2 LinkedIn posts  
+    ├── /repurpose-to-linkedin    → 2 LinkedIn posts
     ├── /repurpose-to-blog        → 1 blog article (ES + EN)
     ├── /repurpose-to-video-scripts → 3 short-form video scripts
     ├── /repurpose-to-newsletter  → 1 newsletter edition
-    └── /repurpose-all            → runs all of the above + calendar
+    └── /repurpose-all            → all of the above + calendar
     ↓
-RENDER VIDEOS (trochai-videos Remotion pipeline)
+OUTPUT FOLDER
+    trochai-business/content/week-of-YYYY-MM-DD/
+    ├── pillar.md            (source long-form post)
+    ├── calendar.md          (daily checklist — what to post when)
+    ├── tweets.md            (5 tweets + thread suggestion)
+    ├── linkedin-1.md        (LinkedIn post 1)
+    ├── linkedin-2.md        (LinkedIn post 2)
+    ├── video-1.md           (video script 1 + captions)
+    ├── video-2.md           (video script 2 + captions)
+    ├── video-3.md           (video script 3 + captions)
+    ├── newsletter.md        (newsletter edition + subject lines)
+    ├── stories.md           (3 Instagram Story slides)
+    ├── whatsapp-status.md   (2 WhatsApp status updates)
+    └── blog-reference.md    (link to MDX files in trochai-landing)
     ↓
-PUBLISH (Metricool API → Instagram, TikTok, YouTube)
+RENDER VIDEOS (trochai-videos Remotion pipeline — optional)
     ↓
-TRACK (Metricool analytics)
+POST MANUALLY (open calendar.md each morning, copy-paste, check off)
 ```
 
 ## Weekly Ritual
 
 | Day | Activity | Time |
 |-----|----------|------|
-| **Monday** | Record pillar content (video/voice memo) | 30 min |
-| **Monday** | Transcribe + run `/repurpose-all` | 15 min |
-| **Tuesday** | Review and edit generated content | 30 min |
-| **Tuesday** | Render video scripts with Remotion | 15 min |
-| **Wed-Fri** | Publish per calendar (automated via Metricool) | 5 min/day |
-| **Weekend** | Review analytics, note what worked | 15 min |
+| **Monday** | Run `/repurpose-all` with this week's topic | 15 min |
+| **Monday** | Skim generated files, tweak anything that sounds off | 15 min |
+| **Tuesday** | Render video scripts with Remotion (if using) | 15 min |
+| **Tue-Fri** | Open `calendar.md`, post what's listed, check it off | 10 min/day |
+| **Weekend** | Review: what got engagement? Note for next week | 10 min |
 
-**Total weekly time: ~2-3 hours for 25+ pieces of content.**
+**Total weekly time: ~1.5-2 hours for 25+ pieces of content.**
+
+## How to Use
+
+### The One Command
+
+```
+/repurpose-all
+```
+
+When prompted, give it a topic. Examples:
+- "Why 97% of real estate leads are wasted"
+- "The 5-minute rule agencies ignore"
+- "WhatsApp is broken for teams"
+
+It generates the pillar post + all repurposed content + a weekly calendar with checkboxes. Everything lands in `trochai-business/content/week-of-YYYY-MM-DD/`.
+
+### Individual Channels
+
+If you only need one format:
+
+```
+/repurpose-to-tweets        # just tweets
+/repurpose-to-linkedin      # just LinkedIn posts
+/repurpose-to-blog          # just blog article (ES + EN MDX files)
+/repurpose-to-video-scripts # just video scripts
+/repurpose-to-newsletter    # just newsletter
+```
+
+Each one saves to the same weekly folder.
+
+### Posting Workflow
+
+1. Open `trochai-business/content/week-of-YYYY-MM-DD/calendar.md`
+2. It looks like this:
+   ```
+   ## Monday
+   - [ ] **Instagram Reel:** video-1 → open `video-1.md`, use caption
+   - [ ] **Tweet:** Tweet #1 from `tweets.md`
+   ```
+3. Open the referenced file, copy the content, paste into the platform
+4. Check the box in `calendar.md`
+5. Done. Next item tomorrow.
+
+### Rendering Videos (Optional)
+
+If you want to turn video scripts into actual Remotion videos:
+
+```bash
+cd trochai-videos
+npm run dev          # preview in Remotion studio
+/new-video           # create composition from script
+/generate-voiceover  # ElevenLabs voiceover
+/render-video        # render to MP4
+```
+
+Otherwise, use the video scripts as content for CapCut / Instagram Edits / direct-to-camera recordings.
 
 ## Claude Code Commands
 
 All commands are in `/.claude/commands/` at the monorepo root:
 
-| Command | Output | Platform |
+| Command | Output | Saves To |
 |---------|--------|----------|
-| `/repurpose-to-tweets` | 5 standalone tweets | Twitter/X |
-| `/repurpose-to-linkedin` | 2 LinkedIn posts (founder-led) | LinkedIn |
-| `/repurpose-to-blog` | 1 MDX article (ES + EN) | trochai.com/blog |
-| `/repurpose-to-video-scripts` | 3 Remotion-ready video scripts | Reels/TikTok/Shorts |
-| `/repurpose-to-newsletter` | 1 newsletter edition | Email |
-| `/repurpose-all` | All of the above + content calendar | All platforms |
+| `/repurpose-all` | Pillar + all formats + calendar | `content/week-of-*/` (full folder) |
+| `/repurpose-to-tweets` | 5 standalone tweets | `tweets.md` |
+| `/repurpose-to-linkedin` | 2 LinkedIn posts | `linkedin-1.md`, `linkedin-2.md` |
+| `/repurpose-to-blog` | 1 MDX article (ES + EN) | `trochai-landing/content/blog/` |
+| `/repurpose-to-video-scripts` | 3 video scripts | `video-1.md`, `video-2.md`, `video-3.md` |
+| `/repurpose-to-newsletter` | 1 newsletter edition | `newsletter.md` |
 
 ## Pillar Content Ideas (12-Week Backlog)
 
-| Week | Topic | Format | Angle |
-|------|-------|--------|-------|
-| 1 | Why 97% of real estate leads are wasted | Voice memo | Pain point → data → solution |
-| 2 | I built an AI that sells houses at 2AM | Video (screen record) | Founder story → demo |
-| 3 | The 5-minute rule agencies ignore | Voice memo | Urgency → framework |
-| 4 | WhatsApp is broken for teams | Video | Problem → solution comparison |
-| 5 | We graded 50 agencies' response times | Voice memo | Original research |
-| 6 | How expats actually search in CR | Voice memo | Buyer psychology |
-| 7 | The $10K mistake every month | Voice memo | Revenue impact math |
-| 8 | Building Trochai: week in the life | Video (vlog) | Behind-the-scenes |
-| 9 | AI in real estate: what works | Voice memo | Industry analysis |
-| 10 | The perfect WhatsApp sales flow | Screen record | Framework + templates |
-| 11 | Why WhatsApp Business is losing you money | Voice memo | Comparison + upgrade |
-| 12 | Our first 10 customers: lessons | Video | Social proof + learnings |
-
-## How to Use
-
-### Quick Start (One Command)
-
-```bash
-# In the Trochai monorepo root, with Claude Code:
-# Paste your transcript and run:
-/repurpose-all
-```
-
-### Individual Channels
-
-```bash
-# Just need tweets?
-/repurpose-to-tweets
-
-# Just need a blog post?
-/repurpose-to-blog
-
-# Just need video scripts for Remotion?
-/repurpose-to-video-scripts
-```
-
-### Rendering Videos
-
-After generating video scripts, go to trochai-videos and use:
-
-```bash
-cd trochai-videos
-# Create new video composition from script
-/new-video
-
-# Generate voiceover audio
-/generate-voiceover
-
-# Render to MP4
-/render-video
-
-# Publish to social media
-/publish-video
-```
+| Week | Topic | Angle |
+|------|-------|-------|
+| 1 | Why 97% of real estate leads are wasted | Pain point → data → solution |
+| 2 | I built an AI that sells houses at 2AM | Founder story → demo |
+| 3 | The 5-minute rule agencies ignore | Urgency → framework |
+| 4 | WhatsApp is broken for teams | Problem → solution comparison |
+| 5 | We graded 50 agencies' response times | Original research |
+| 6 | How expats actually search in CR | Buyer psychology |
+| 7 | The $10K mistake every month | Revenue impact math |
+| 8 | Building Trochai: week in the life | Behind-the-scenes |
+| 9 | AI in real estate: what works | Industry analysis |
+| 10 | The perfect WhatsApp sales flow | Framework + templates |
+| 11 | Why WhatsApp Business is losing you money | Comparison + upgrade |
+| 12 | Our first 10 customers: lessons | Social proof + learnings |
 
 ## Output Per Week (Target)
 
-| Platform | Content Type | Qty | Source |
-|----------|-------------|-----|--------|
-| Instagram Reels | 9:16 video | 3 | `/repurpose-to-video-scripts` → Remotion |
-| TikTok | 9:16 video | 2 | Same renders, different captions |
+| Platform | Content Type | Qty | Source File |
+|----------|-------------|-----|-------------|
+| Instagram Reels | 9:16 video | 3 | `video-1.md`, `video-2.md`, `video-3.md` |
+| TikTok | 9:16 video | 2 | Same scripts, different captions |
 | YouTube Shorts | 9:16 video | 2 | Same renders |
-| Twitter/X | Tweets | 5 | `/repurpose-to-tweets` |
-| LinkedIn | Posts | 2 | `/repurpose-to-linkedin` |
-| trochai.com | Blog article | 1 | `/repurpose-to-blog` |
-| Email | Newsletter | 1 | `/repurpose-to-newsletter` |
-| Instagram Stories | Story slides | 3 | Repurpose from blog/tweets |
-| WhatsApp Status | Updates | 2 | Repurpose best performers |
+| Twitter/X | Tweets | 5 | `tweets.md` |
+| LinkedIn | Posts | 2 | `linkedin-1.md`, `linkedin-2.md` |
+| trochai.com | Blog article | 1 | `trochai-landing/content/blog/` |
+| Email | Newsletter | 1 | `newsletter.md` |
+| Instagram Stories | Story slides | 3 | `stories.md` |
+| WhatsApp Status | Updates | 2 | `whatsapp-status.md` |
 | **Total** | | **~21** | |
 
 ## Quality Control
 
 ### Anti-Slop Checklist
 
-Before publishing any generated content:
+Before posting any generated content:
 
 - [ ] Does it sound like a human wrote it? (no corporate filler, no "in today's fast-paced world")
 - [ ] Is the hook strong enough to stop someone scrolling?
@@ -145,7 +171,7 @@ Keep these consistent across all content:
 - **Voice:** Confident expert, not salesy. Data-first, story-second.
 - **Language:** Spanish (ustedeo) for Instagram/TikTok/Twitter. English for LinkedIn/blog.
 - **Visual:** Dark backgrounds, brand green (#20A06F), Inter font, no emojis in formal content.
-- **CTA:** Always soft — "learn more", "see how", never "BUY NOW" or "LIMITED OFFER".
+- **CTA:** Always soft — "conozca más", "vea cómo", never "COMPRE AHORA" or "OFERTA LIMITADA".
 
 ## Tracking & Iteration
 
@@ -153,11 +179,11 @@ Keep these consistent across all content:
 
 | Metric | Where | Target |
 |--------|-------|--------|
-| Impressions per post | Metricool | 500+ |
-| Engagement rate | Metricool | >3% |
+| Impressions per post | Platform analytics | 500+ |
+| Engagement rate | Platform analytics | >3% |
 | Profile visits from content | Instagram/TikTok analytics | 50+ per week |
 | Blog organic traffic | Google Search Console | 100+ visits/month |
-| AI citations | Otterly.ai / manual | 5+ per month |
+| AI citations | Manual checks | 5+ per month |
 | Newsletter open rate | Email platform | >30% |
 | Leads from content | UTM tracking | 5+ per month |
 

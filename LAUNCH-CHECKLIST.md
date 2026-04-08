@@ -179,20 +179,22 @@ Follow in order. Each step has where to find the info.
 
 ## Phase 7: Content Repurposing Engine (Week 2+)
 
-- [ ] **Record first pillar content**
-  - Topic suggestion: "Why 97% of real estate leads are wasted"
-  - Format: 30-min voice memo or video on your phone
-  
-- [ ] **Run the repurposing pipeline**
+- [ ] **Run `/repurpose-all` with your first topic**
   ```bash
   # In the Trochai monorepo root, with Claude Code:
   /repurpose-all
-  # Paste your transcript when prompted
+  # When prompted, give it a topic like: "Why 97% of real estate leads are wasted"
   ```
-  This generates: 5 tweets, 2 LinkedIn posts, 1 blog article, 3 video scripts, 1 newsletter
+  This generates: pillar post + 5 tweets + 2 LinkedIn posts + 1 blog article + 3 video scripts + 1 newsletter + stories + WhatsApp statuses + content calendar
 
-- [ ] **Schedule repurposed content in Metricool**
-  - Follow the content calendar in: `trochai-business/CONTENT-REPURPOSING-ENGINE.md`
+- [ ] **Review the output**
+  - Open `trochai-business/content/week-of-YYYY-MM-DD/`
+  - Skim the pillar and generated content, tweak anything that sounds off
+  - The `calendar.md` file is your daily posting checklist
+
+- [ ] **Start posting from the calendar**
+  - Each morning, open `calendar.md`, copy content from the referenced files, paste into platforms, check off
+  - See `CONTENT-REPURPOSING-ENGINE.md` for the full weekly ritual
 
 ---
 
@@ -200,15 +202,14 @@ Follow in order. Each step has where to find the info.
 
 | Day | Action | Time |
 |-----|--------|------|
-| Mon | Record pillar content (voice memo or video) | 30 min |
-| Mon | Run `/repurpose-all`, review output | 15 min |
-| Tue | Edit generated content, render any video scripts | 30 min |
+| Mon | Run `/repurpose-all` with this week's topic, review output | 30 min |
+| Tue | Tweak generated content, render any video scripts (optional) | 15 min |
 | Tue | Send 10-15 LinkedIn connection requests | 15 min |
-| Wed-Fri | Publish per calendar (Metricool auto-posts) | 5 min/day |
+| Tue-Fri | Open `calendar.md`, post what's listed, check it off | 10 min/day |
 | Thu | DM 5 prospect agencies with value (tool link, tip, etc.) | 20 min |
-| Sat | Review analytics: what worked, what didn't | 15 min |
+| Sat | Review analytics: what worked, what didn't | 10 min |
 
-**Total weekly commitment: ~3 hours**
+**Total weekly commitment: ~2 hours**
 
 ---
 
@@ -226,6 +227,7 @@ Follow in order. Each step has where to find the info.
 | Distribution strategies (all 7) | `trochai-business/DISTRIBUTION-STRATEGIES.md` |
 | Content repurposing workflow | `trochai-business/CONTENT-REPURPOSING-ENGINE.md` |
 | Repurposing commands | `/.claude/commands/repurpose-*.md` |
+| Weekly content output | `trochai-business/content/week-of-YYYY-MM-DD/` |
 | Video compositions (Remotion) | `trochai-videos/src/compositions/TemplateLibrary*.tsx` |
 | Voiceover scripts (#11, #12) | `trochai-videos/VOICEOVER-SCRIPTS.md` |
 | Render command | `cd trochai-videos && npx tsx src/scripts/render-video.ts --id <ID>` |
