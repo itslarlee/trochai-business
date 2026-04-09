@@ -11,7 +11,7 @@ This repo holds all non-code business documents:
 | `MARKETING.md` | GTM strategy — ICP, Manifesto, Broadway Show framework |
 | `MARKETING-TODO.md` | Action items and progress tracking for marketing execution |
 | `PROSPECT-LIST.md` | Target agency list with contacts, discovery call script |
-| `CONTENT-MARKETING-STRATEGY.md` | Instagram/TikTok content strategy |
+| `CONTENT-MARKETING-STRATEGY.md` | LinkedIn-first content strategy (daily posting, 360 Brew, content buckets) |
 | `VIDEO-SCRIPTS.md` | Short-form video scripts for social media |
 | `PARTNERSHIP-PREP.md` | Partnership research and preparation notes |
 | `VIBE-MARKETING.md` | Vibe marketing system — Remotion, Claude Code skills, MCPs, workflow |

@@ -1,6 +1,6 @@
 # AI Content Repurposing Engine
 
-> One topic per week → pillar post + ~12 pieces across 4 channels + Remotion videos. No recording needed. All in Spanish.
+> One topic per week → pillar post + 7 LinkedIn posts (daily, each with visual) + 3 video scripts + 1 blog article + LinkedIn newsletter. All in Spanish.
 
 ## The Pipeline
 
@@ -10,115 +10,127 @@ TOPIC (pick from backlog or current events)
 GENERATE PILLAR (Claude Code writes the long-form post, Spanish)
     ↓
 REPURPOSE (Claude Code commands)
-    ├── /repurpose-to-linkedin       → 4 LinkedIn posts (Spanish)
+    ├── /repurpose-to-linkedin       → 7 LinkedIn posts with visuals (Spanish)
     ├── /repurpose-to-blog           → 1 blog article (ES + EN)
     ├── /repurpose-to-video-scripts  → 3 short-form video scripts (Spanish)
-    ├── /repurpose-to-newsletter     → 1 newsletter edition (Spanish)
+    ├── /repurpose-to-newsletter     → 1 newsletter edition (Spanish) + LinkedIn newsletter
     └── /repurpose-all               → all of the above + Remotion compositions + calendar
     ↓
 OUTPUT FOLDER
     trochai-business/content/week-of-YYYY-MM-DD/
-    ├── pillar.md            (source long-form post, Spanish)
-    ├── calendar.md          (daily checklist — what to post when)
-    ├── linkedin-1.md        (LinkedIn post 1, Spanish)
-    ├── linkedin-2.md        (LinkedIn post 2, Spanish)
-    ├── linkedin-3.md        (LinkedIn post 3, Spanish)
-    ├── linkedin-4.md        (LinkedIn post 4, Spanish)
-    ├── video-1.md           (video script 1 + IG/TikTok captions + StatReveal props)
-    ├── video-2.md           (video script 2 + IG/TikTok captions + StatReveal props)
-    ├── video-3.md           (video script 3 + IG/TikTok captions + StatReveal props)
-    ├── newsletter.md        (newsletter edition + subject lines)
-    └── blog-reference.md    (link to MDX files in trochai-landing)
+    ├── pillar.md                 (source long-form post, Spanish)
+    ├── calendar.md               (daily checklist — what to post when)
+    ├── monday-newsletter.md      (LinkedIn newsletter + carousel)
+    ├── tuesday-growth.md         (brandjack/newsjack + infographic)
+    ├── wednesday-authority.md    (educational framework carousel)
+    ├── thursday-growth.md        (hot take + infographic)
+    ├── friday-conversion.md      (product/results carousel or video)
+    ├── saturday-authority.md     (deep-dive carousel)
+    ├── sunday-personal.md        (founder journey infographic)
+    ├── video-1.md                (video script 1 + captions + StatReveal props)
+    ├── video-2.md                (video script 2 + captions + StatReveal props)
+    ├── video-3.md                (video script 3 + captions + StatReveal props)
+    └── blog-reference.md         (link to MDX files in trochai-landing)
     ↓
 REMOTION COMPOSITIONS (auto-created in trochai-videos/)
-    ├── src/compositions/{Video}.tsx       (3 video compositions)
-    ├── src/compositions/linkedin/         (stat cards + pillar carousels)
-    ├── src/compositions/carousel/         (newsletter carousels)
+    ├── src/compositions/{Video}.tsx                  (3 video compositions)
+    ├── src/compositions/linkedin/{Infographic}.tsx    (7 infographics/carousels for LinkedIn posts)
+    ├── src/compositions/carousel/                     (newsletter carousels)
     └── registered in src/Root.tsx
     ↓
 RENDER ASSETS:
     cd trochai-videos
-    npx tsx src/scripts/render-video.ts --id <ID> --quality social   # MP4 videos
-    npx tsx scripts/render-carousel.ts <slug>                        # Newsletter carousel PNGs + LinkedIn PDF
-    npx remotion still <CompositionId> --output=out/file.png         # Individual stills (stat cards, thumbnails)
+    npx tsx src/scripts/render-video.ts --id <ID> --quality social    # MP4 videos
+    npx tsx scripts/render-carousel.ts <slug>                         # Newsletter carousel PNGs + LinkedIn PDF
+    npx remotion still <CompositionId> --output=out/file.png          # Infographics, stat cards, thumbnails
     ↓
 POST MANUALLY (open calendar.md each morning, copy-paste, check off)
 ```
 
 ## Channels
 
-| Channel | Output | Language |
-|---------|--------|----------|
-| **LinkedIn** | 4 posts/week (founder perspective) + stat card images + pillar carousel PDFs | Spanish (ustedeo) |
-| **Blog** | 1 article/week (trochai.com) | ES primary + EN translation |
-| **Video** | 3 scripts/week (Reels + TikTok) → Remotion compositions + custom thumbnails | Spanish (ustedeo) |
-| **Newsletter** | 1 edition/week (via MailerLite) + Instagram/LinkedIn carousel | Spanish (ustedeo) |
+| Channel | Output | Frequency | Language |
+|---------|--------|-----------|----------|
+| **LinkedIn** | 7 posts/week (daily, each with carousel/infographic) + LinkedIn Newsletter | Daily | Spanish (ustedeo) |
+| **LinkedIn Newsletter** | Trochai Insights weekly edition (pushes notification to all followers) | Monday | Spanish (ustedeo) |
+| **Blog** | 1 article/week (trochai.com) | Weekly | ES primary + EN translation |
+| **Instagram** | 2-3 cross-posts/week (LinkedIn carousels + 1-2 Reels) | 2-3x/week | Spanish (ustedeo) |
+| **Video** | 3 scripts/week → Remotion compositions | As rendered | Spanish (ustedeo) |
+
+## Daily Theme Structure
+
+Every post gets a visual (carousel or infographic). No text-only posts. Visuals rendered via Remotion + Unsplash.
+
+| Day | Bucket | Theme | Format | File |
+|-----|--------|-------|--------|------|
+| **Monday** | Authority | Trochai Insights newsletter | Carousel + LinkedIn Newsletter article | `monday-newsletter.md` |
+| **Tuesday** | Growth | Brandjacking / Newsjacking | Infographic + text | `tuesday-growth.md` |
+| **Wednesday** | Authority | Educational framework | Multi-slide carousel | `wednesday-authority.md` |
+| **Thursday** | Growth | Hot take / Contrarian | Infographic + text | `thursday-growth.md` |
+| **Friday** | Conversion | Product demo / Results | Carousel or video + carousel | `friday-conversion.md` |
+| **Saturday** | Authority | Deep-dive / Case study | Carousel + long text | `saturday-authority.md` |
+| **Sunday** | Personal | Founder journey (generic) | Infographic | `sunday-personal.md` |
+
+## Content Buckets (40/30/20/10)
+
+| Bucket | % | Posts/Week | What |
+|--------|---|-----------|------|
+| **Growth** | 40% | ~3 (Tue, Thu, + mix) | Brandjacking, newsjacking, namejacking, hot takes |
+| **Authority** | 30% | ~2-3 (Mon, Wed, Sat) | Frameworks, data, case studies, educational carousels |
+| **Conversion** | 20% | ~1 (Fri) | Product demos, customer results, testimonials |
+| **Personal** | 10% | ~1 (Sun) | Founder journey — generic, relatable, no deep personal stories |
 
 ## Weekly Ritual
 
 | Day | Activity | Time |
 |-----|----------|------|
-| **Monday** | Run `/repurpose-all` with this week's topic | 15 min |
+| **Monday** | Run `/monday-content` — generates all content + renders visuals | 30 min |
 | **Monday** | Skim generated files, tweak anything that sounds off | 15 min |
-| **Tuesday** | Render video scripts with Remotion (if using) | 15 min |
-| **Tue-Fri** | Open `calendar.md`, post what's listed, check it off | 10 min/day |
-| **Weekend** | Review: what got engagement? Note for next week | 10 min |
+| **Monday** | Schedule all 7 posts for the week (Metricool or native scheduling) | 15 min |
+| **Daily** | 30 min comment flywheel (engage on ICP accounts) | 30 min/day |
+| **Daily** | Reply to all comments on your posts | 10 min/day |
+| **Weekend** | Review: what got engagement? What got saves? Note for next week | 10 min |
 
-**Total weekly time: ~1.5-2 hours for ~12 pieces of content across 4 channels + rendered videos.**
+**Total weekly time: ~2 hours setup Monday + 40 min/day engagement = ~5.5 hours/week for daily LinkedIn presence.**
 
 ## How to Use
 
 ### The One Command
 
 ```
-/repurpose-all
+/monday-content
 ```
 
-When prompted, give it a topic. Examples:
-- "Why 97% of real estate leads are wasted"
-- "The 5-minute rule agencies ignore"
-- "WhatsApp is broken for teams"
+When prompted, give it a pillar topic and week number. It generates:
+1. Newsletter (web research + blog MDX + carousel)
+2. 7 LinkedIn posts with daily theme assignments
+3. 3 video scripts with Remotion compositions
+4. Blog article (ES + EN)
+5. All Remotion visual compositions (infographics, carousels)
+6. Daily calendar with checkboxes
 
-It generates the pillar post + all repurposed content + a weekly calendar with checkboxes. Everything lands in `trochai-business/content/week-of-YYYY-MM-DD/`.
+Everything lands in `trochai-business/content/week-of-YYYY-MM-DD/`.
 
 ### Individual Channels
 
 If you only need one format:
 
 ```
-/repurpose-to-linkedin      # just LinkedIn posts (4, Spanish)
-/repurpose-to-blog          # just blog article (ES + EN MDX files)
-/repurpose-to-video-scripts # just video scripts (Spanish)
-/repurpose-to-newsletter    # just newsletter edition (Spanish)
+/repurpose-to-linkedin      # 7 LinkedIn posts with daily themes + visual specs
+/repurpose-to-blog          # blog article (ES + EN MDX files)
+/repurpose-to-video-scripts # 3 video scripts (Spanish)
+/repurpose-to-newsletter    # newsletter edition + LinkedIn newsletter
 ```
 
 Each one saves to the same weekly folder.
 
 ### Posting Workflow
 
-1. Open `trochai-business/content/week-of-YYYY-MM-DD/calendar.md`
-2. It looks like this:
-   ```
-   ## Monday
-   - [ ] **Instagram Reel:** video-1 → open `video-1.md`, use caption
-   ```
-3. Open the referenced file, copy the content, paste into the platform
-4. Check the box in `calendar.md`
-5. Done. Next item tomorrow.
-
-### Rendering Videos (Optional)
-
-If you want to turn video scripts into actual Remotion videos:
-
-```bash
-cd trochai-videos
-npm run dev          # preview in Remotion studio
-/new-video           # create composition from script
-/generate-voiceover  # ElevenLabs voiceover
-/render-video        # render to MP4
-```
-
-Otherwise, use the video scripts as content for CapCut / Instagram Edits / direct-to-camera recordings.
+1. Run `/monday-content` Monday morning
+2. Review and tweak generated content (~15 min)
+3. Schedule all 7 posts for the week using Metricool or LinkedIn's native scheduler
+4. Each morning: 30 min comment flywheel + reply to your own post comments
+5. Weekend: review analytics, note what worked
 
 ### Rendering Visual Assets (Remotion)
 
@@ -131,29 +143,35 @@ cd trochai-videos
 npx tsx scripts/fetch-unsplash.ts trochai-insights-2026-s15   # Fetch background images
 npx tsx scripts/render-carousel.ts trochai-insights-2026-s15  # Render PNGs + PDF in one go
 
-# LinkedIn stat cards (single images to accompany LinkedIn posts)
+# LinkedIn infographics (one per daily post)
+npx remotion still LI-Infographic-Tue-W15 --output=out/linkedin/tue-w15.png --image-format=png
+
+# LinkedIn stat cards (single images to accompany stat-driven posts)
 npx remotion still LI-Card-97-Leads --output=out/linkedin/card-97.png --image-format=png
 
-# Pillar carousel (LinkedIn PDF from topic content)
-# Render all slides, then convert to PDF:
+# Pillar carousel PDF (multi-slide educational content)
 for i in Cover Slide-1 Slide-2 Slide-3 Slide-4 Slide-5 CTA; do
-  npx remotion still "Pillar-97-$i" --output="out/linkedin/pillar-$i.png" --image-format=png
+  npx remotion still "Pillar-W15-$i" --output="out/linkedin/pillar-$i.png" --image-format=png
 done
-npx tsx scripts/carousel-to-pdf.ts pillar-97  # (after moving PNGs to out/carousel/pillar-97/)
+npx tsx scripts/carousel-to-pdf.ts pillar-w15
 
-# Video thumbnails (custom covers for Reels/TikTok)
-npx remotion still Thumb-97-Leads --output=out/thumbnails/thumb-97.png --image-format=png
+# Videos (MP4 for LinkedIn video posts + Instagram Reels)
+npx tsx src/scripts/render-video.ts --id <ID> --quality social
+
+# Video thumbnails
+npx remotion still Thumb-<id> --output=out/thumbnails/<name>.png --image-format=png
 ```
 
 **Remotion composition types:**
 
 | Composition | Format | Use Case |
 |-------------|--------|----------|
-| `LinkedInCard` | 1080×1350 (4:5) | Single stat card image for LinkedIn posts |
-| `PillarCarousel` | 1080×1350 (4:5) | Multi-slide carousel from pillar content → PDF for LinkedIn |
-| `NewsletterCarousel` | 1080×1350 (4:5) | Weekly newsletter carousel → PNGs (Instagram) + PDF (LinkedIn) |
-| `VideoThumbnail` | 1080×1920 (9:16) | Custom cover image for Reels/TikTok videos |
-| `StatReveal` | 1080×1920 (9:16) | Parametric stat video (short-form) |
+| `LinkedInCard` | 1080x1350 (4:5) | Single stat card image for LinkedIn posts |
+| `LinkedInInfographic` | 1080x1350 (4:5) | Daily infographic (brandjack, hot take, personal) |
+| `PillarCarousel` | 1080x1350 (4:5) | Multi-slide carousel from pillar content → PDF for LinkedIn |
+| `NewsletterCarousel` | 1080x1350 (4:5) | Weekly newsletter carousel → PNGs (Instagram) + PDF (LinkedIn) |
+| `VideoThumbnail` | 1080x1920 (9:16) | Custom cover image for video posts |
+| `StatReveal` | 1080x1920 (9:16) | Parametric stat video (short-form) |
 
 ## Claude Code Commands
 
@@ -162,42 +180,40 @@ All commands are in `/.claude/commands/` at the monorepo root:
 | Command | Output | Saves To |
 |---------|--------|----------|
 | `/repurpose-all` | Pillar + all formats + Remotion compositions + calendar | `content/week-of-*/` + `trochai-videos/src/compositions/` |
-| `/repurpose-to-linkedin` | 4 LinkedIn posts (Spanish) | `linkedin-1.md` through `linkedin-4.md` |
+| `/repurpose-to-linkedin` | 7 LinkedIn posts with daily themes (Spanish) | `monday-newsletter.md` through `sunday-personal.md` |
 | `/repurpose-to-blog` | 1 MDX article (ES + EN) | `trochai-landing/content/blog/` |
 | `/repurpose-to-video-scripts` | 3 video scripts (Spanish) | `video-1.md`, `video-2.md`, `video-3.md` |
-| `/repurpose-to-newsletter` | 1 newsletter edition (Spanish) | `newsletter.md` |
+| `/repurpose-to-newsletter` | 1 newsletter edition + LinkedIn newsletter (Spanish) | `newsletter.md` |
 
 ## Pillar Content Ideas (12-Week Backlog)
 
-| Week | Topic | Angle |
-|------|-------|-------|
-| 1 | Why 97% of real estate leads are wasted | Pain point → data → solution |
-| 2 | I built an AI that sells houses at 2AM | Founder story → demo |
-| 3 | The 5-minute rule agencies ignore | Urgency → framework |
-| 4 | WhatsApp is broken for teams | Problem → solution comparison |
-| 5 | We graded 50 agencies' response times | Original research |
-| 6 | How expats actually search in CR | Buyer psychology |
-| 7 | The $10K mistake every month | Revenue impact math |
-| 8 | Building Trochai: week in the life | Behind-the-scenes |
-| 9 | AI in real estate: what works | Industry analysis |
-| 10 | The perfect WhatsApp sales flow | Framework + templates |
-| 11 | Why WhatsApp Business is losing you money | Comparison + upgrade |
-| 12 | Our first 10 customers: lessons | Social proof + learnings |
+| Week | Topic | Angle | Best Bucket |
+|------|-------|-------|-------------|
+| 1 | Why 97% of real estate leads are wasted | Pain point → data → solution | Authority |
+| 2 | I built an AI that sells houses at 2AM | Founder story → demo | Growth |
+| 3 | The 5-minute rule agencies ignore | Urgency → framework | Authority |
+| 4 | WhatsApp is broken for teams | Problem → solution comparison | Growth |
+| 5 | We graded 50 agencies' response times | Original research | Authority |
+| 6 | How expats actually search in CR | Buyer psychology | Authority |
+| 7 | The $10K mistake every month | Revenue impact math | Growth |
+| 8 | Building Trochai: week in the life | Behind-the-scenes | Personal |
+| 9 | AI in real estate: what works | Industry analysis | Authority |
+| 10 | The perfect WhatsApp sales flow | Framework + templates | Authority |
+| 11 | Why WhatsApp Business is losing you money | Comparison + upgrade | Growth |
+| 12 | Our first 10 customers: lessons | Social proof + learnings | Conversion |
 
 ## Output Per Week (Target)
 
-| Platform | Content Type | Qty | Source File |
-|----------|-------------|-----|-------------|
-| Instagram Reels | 9:16 video | 3 | `video-1.md` → Remotion compositions |
-| TikTok | 9:16 video | 3 | Same renders, different captions |
-| LinkedIn | Posts + stat card images | 4 | `linkedin-1.md` + `LinkedInCard` compositions |
+| Platform | Content Type | Qty | Source |
+|----------|-------------|-----|--------|
+| LinkedIn | Daily posts with visual (carousel/infographic) | 7 | `monday-*.md` through `sunday-*.md` |
+| LinkedIn | Newsletter article (Trochai Insights) | 1 | Monday post + LinkedIn Newsletter |
 | LinkedIn | Pillar carousel PDF | 1 | `PillarCarousel` composition → PDF |
-| Instagram | Newsletter carousel | 1 | `NewsletterCarousel` → PNGs |
-| LinkedIn | Newsletter carousel PDF | 1 | Same PNGs → `carousel-to-pdf.ts` |
-| Video covers | Thumbnails (9:16) | 3 | `VideoThumbnail` compositions |
-| trochai.com | Blog article | 1 | `trochai-landing/content/blog/` |
-| Newsletter | Email edition | 1 | `newsletter.md` → MailerLite |
-| **Total** | | **~18** | |
+| Instagram | Cross-posted carousels | 2-3 | Same PNGs from LinkedIn carousels |
+| Instagram | Reels (cross-posted videos) | 1-2 | Remotion renders |
+| trochai.com | Blog article (ES + EN) | 1 | `trochai-landing/content/blog/` |
+| Video | Short-form scripts + Remotion renders | 3 | `video-1.md` through `video-3.md` |
+| **Total** | | **~16-18** | |
 
 ## Quality Control
 
@@ -205,22 +221,22 @@ All commands are in `/.claude/commands/` at the monorepo root:
 
 Before posting any generated content:
 
-- [ ] Does it sound like a human wrote it? (no corporate filler, no "in today's fast-paced world")
-- [ ] Is the hook strong enough to stop someone scrolling?
-- [ ] Does it provide genuine value? (would you read it if you weren't promoting it?)
+- [ ] Does it sound like a human wrote it? (no corporate filler, no "en el mundo actual")
+- [ ] Is the hook strong enough to stop someone scrolling? (first 1-2 lines = 3-5x algorithm weight)
+- [ ] Does it provide genuine value? (would you save it if you weren't promoting it?)
 - [ ] Is the Trochai mention natural? (not a forced CTA?)
 - [ ] Is it in the right language and tone? (ustedeo for CR, casual for social)
-- [ ] Are the numbers accurate and sourced?
+- [ ] Are the numbers accurate and sourced? (include "Fuentes:" with URLs)
+- [ ] Does it have a visual? (every post needs carousel or infographic)
 - [ ] Would YOU share this? If not, don't publish it.
 
 ### Brand Reference
 
-Keep these consistent across all content:
-
-- **Voice:** Confident expert, not salesy. Data-first, story-second.
+- **Voice:** Confident expert, data-first, not salesy
 - **Language:** Spanish (ustedeo) for everything. English only for blog translation.
-- **Visual:** Dark backgrounds, brand green (#20A06F), Inter font, no emojis in formal content.
-- **CTA:** Always soft — "conozca más", "vea cómo", never "COMPRE AHORA" or "OFERTA LIMITADA".
+- **Visual:** Dark backgrounds, brand green (#20A06F), Inter font, no emojis in formal content
+- **CTA:** Always soft — "conozca mas", "vea como", never "COMPRE AHORA" or "OFERTA LIMITADA"
+- **Personal content:** Generic, relatable founder stories only. No fabricated anecdotes.
 
 ## Tracking & Iteration
 
@@ -228,19 +244,19 @@ Keep these consistent across all content:
 
 | Metric | Where | Target |
 |--------|-------|--------|
-| Impressions per post | Platform analytics | 500+ |
-| Engagement rate | Platform analytics | >3% |
-| Profile visits from content | Instagram/TikTok analytics | 50+ per week |
+| Impressions per post | LinkedIn analytics | 500+ |
+| Engagement rate | LinkedIn analytics | >3% |
+| Saves per post | LinkedIn analytics | Track trend (key algorithm signal) |
+| Profile visits | LinkedIn analytics | 50+ per week |
+| Newsletter subscribers | LinkedIn newsletter | 100+ in 90 days |
 | Blog organic traffic | Google Search Console | 100+ visits/month |
 | AI citations | Manual checks | 5+ per month |
-| Newsletter open rate | Email platform | >30% |
 | Leads from content | UTM tracking | 5+ per month |
 
 ### Monthly Review
 
-At the end of each month:
-1. Which 3 pieces of content performed best? Why?
-2. Which platform drove the most engagement?
-3. What topics resonated most?
-4. Update pillar content backlog based on learnings
-5. Adjust posting frequency if a platform over/underperforms
+1. Which 3 posts performed best? Why? (topic, format, hook, bucket)
+2. Which bucket drove the most engagement? Adjust 40/30/20/10 if needed.
+3. What topics resonated most? Update pillar backlog.
+4. Which posts got the most saves? (key metric for 360 Brew)
+5. Is the comment flywheel working? Track profile visits from comments.
