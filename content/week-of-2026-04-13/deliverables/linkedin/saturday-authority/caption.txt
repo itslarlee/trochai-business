@@ -1,0 +1,29 @@
+Anatomía de un lead perdido — minuto por minuto.
+
+Viernes, 8:47 PM. Un comprador de California escribe a una agencia en Guanacaste: "Hola, vi una casa en Playa Flamingo. ¿Todavía está disponible?"
+
+Lo que pasa después (deslice →):
+
+8:47 PM — El mensaje llega. Nadie en la oficina.
+8:48 PM — WhatsApp Business envía: "Gracias por su mensaje, le responderemos pronto."
+9:15 PM — El comprador escribe a una segunda agencia.
+9:16 PM — La segunda agencia tiene un inbox con bot. El bot responde con 3 propiedades en Flamingo que coinciden con su presupuesto.
+9:22 PM — El comprador pide agendar una videollamada con la segunda agencia.
+Sábado 9:00 AM — Un agente de la primera agencia ve el mensaje. Responde: "¡Hola! Sí, todavía está disponible."
+Sábado 9:01 AM — El comprador ya tiene videollamada con la otra agencia a las 10 AM.
+
+Tiempo total perdido: 12 horas y 14 minutos.
+Comisión perdida: ~$7,500.
+
+No fue por falta de inventario. No fue por falta de experiencia. Fue por 12 horas sin respuesta.
+
+El 78% de los compradores trabaja con el primer agente que responde (NAR 2025). La primera agencia tenía la propiedad perfecta. Pero la segunda respondió primero.
+
+Esta historia se repite cada fin de semana en agencias de todo Costa Rica. ¿La suya incluida?
+
+Fuentes:
+- NAR 2025 — 78% compran con el primer agente que responde (nar.realtor)
+- NAR/Zillow 2025 — 62% de leads llegan fuera de horario (zillow.com/research)
+- Real Trends 2025 — $7,500 comisión promedio perdida por lead ignorado (realtrends.com)
+
+#BienesRaíces #WhatsApp #LeadManagement #CostaRica #PropTech #Trochai

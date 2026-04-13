@@ -1,62 +1,72 @@
-# Construí una IA que vende casas a las 2 de la mañana
+# WhatsApp está roto para equipos
 
-A las 2:17 AM de un martes, un comprador desde Toronto le escribió a una agencia en Escazú preguntando por un apartamento de 3 habitaciones. A las 2:18 AM, recibió una respuesta con tres opciones que coincidían exactamente con lo que buscaba, rango de precios incluido, y la pregunta: "¿Prefiere agendar una videollamada o que le envíe más fotos?"
+> Pillar post — Semana 16 (13–19 abril 2026)
+> Bucket: Growth | Angle: Problem → solution comparison
 
-No había ningún agente despierto. Era una IA.
+---
 
-Ese momento — ver un lead real siendo atendido mientras todo el equipo dormía — fue cuando supe que Trochai tenía sentido.
+## El problema que nadie nombra
 
-## Por qué construí esto
+WhatsApp Business fue diseñado para una persona. Un teléfono. Un número. Una conversación a la vez.
 
-Me llamo Leeren y soy el fundador de Trochai. Antes de dedicarme a esto, pasé tiempo entendiendo cómo funcionan las agencias inmobiliarias en Costa Rica. Lo que encontré me sorprendió.
+Pero las agencias inmobiliarias no son una persona. Son 5, 10, 20 agentes tratando de responder leads desde el mismo número. Y WhatsApp Business no fue construido para eso.
 
-El flujo típico es así: un comprador interesado manda un WhatsApp. El mensaje llega al teléfono personal del dueño de la agencia, o a un WhatsApp Business que nadie revisa después de las 5pm. Si el mensaje llega de noche — y el 62% llegan fuera de horario según NAR y Zillow Group — queda sin respuesta hasta la mañana siguiente. Para ese momento, el comprador ya está conversando con otra agencia.
+El resultado:
 
-No es que las agencias no les importe. Es que no tienen la infraestructura para responder a la velocidad que el comprador moderno espera.
+- **Leads sin asignar.** Un mensaje llega a las 10 PM. ¿Quién responde? Nadie sabe. Al día siguiente, tres agentes responden al mismo lead con información diferente.
+- **Conversaciones perdidas.** Sin historial compartido, el agente que toma la conversación no sabe qué se dijo antes. El lead tiene que repetir todo.
+- **Cero visibilidad.** El director no sabe cuántos mensajes se recibieron, cuántos se respondieron, ni en cuánto tiempo. No hay métricas. No hay dashboard.
+- **Un teléfono, un cuello de botella.** Si el agente que tiene el teléfono se enferma, se va de vacaciones o simplemente está ocupado, los leads se acumulan sin respuesta.
+- **Sin automatización.** Cada respuesta es manual. Las mismas preguntas ("¿Tiene parqueo?", "¿Cuánto es la cuota?", "¿Acepta mascotas?") se responden 50 veces al mes. A mano.
 
-## Los números que me convencieron
+## Los números
 
-Cuando empecé a investigar, los datos eran más duros de lo que esperaba:
+- **47%** de las consultas inmobiliarias no recibe ninguna respuesta. Ni un "recibido". (Fuente: Mike DelPrete 2024, Inman 2025)
+- **78%** de los compradores eligen al primer agente que responde. (Fuente: NAR 2025)
+- **62%** de los leads llegan fuera de horario — fines de semana, madrugadas, feriados. (Fuente: NAR/Zillow 2025)
+- **50+ horas al mes** desperdiciadas respondiendo las mismas preguntas repetitivas. (Fuente: MindStudio)
+- **$7,500** en comisión perdida por cada lead que se ignora. (Fuente: Real Trends 2025)
 
-- **78% de los compradores trabaja con el primer agente que responde** (NAR, 2025). La velocidad supera a la experiencia, al inventario, a la reputación.
-- **El tiempo promedio de respuesta de una agencia es de más de 15 horas** (Inman, 2025). Quince horas. En un mundo donde el comprador le escribe a 4 agencias al mismo tiempo.
-- **47% de las consultas no recibe ninguna respuesta** (Mike DelPrete, 2024). Casi la mitad de los leads simplemente se ignoran.
-- **40% de los compradores en Costa Rica son extranjeros** (Coldwell Banker CR, 2025). Escriben en inglés, a las 2AM hora de Costa Rica, esperando una respuesta inmediata.
+Multiplicado por los leads que llegan cada semana, una agencia de 10 agentes puede estar perdiendo **$30,000+ al mes** en comisiones que nunca se concretan — no porque el producto sea malo, sino porque nadie respondió a tiempo.
 
-El patrón era claro: las agencias estaban generando leads — a través de portales, redes sociales, referidos — pero no podían procesarlos a la velocidad necesaria. Era como llenar un balde con un hoyo en el fondo.
+## Por qué WhatsApp Business no es suficiente
 
-## Qué hace Trochai exactamente
+WhatsApp Business es una herramienta excelente para negocios pequeños: una peluquería, una tienda de ropa, un restaurante. Funciona perfecto cuando una o dos personas manejan todo.
 
-Trochai es un inbox de WhatsApp potenciado con IA, diseñado específicamente para agencias inmobiliarias. Se conecta al WhatsApp de la agencia y hace tres cosas:
+Pero una agencia inmobiliaria necesita:
 
-**1. Responde automáticamente con información real.** Cuando un lead pregunta por apartamentos en Escazú, la IA busca en el inventario real de la agencia y responde con opciones que coinciden. No respuestas genéricas — respuestas con propiedades reales, precios reales, ubicaciones reales.
+| Necesidad | WhatsApp Business | Inbox profesional |
+|-----------|-------------------|-------------------|
+| Múltiples agentes en un número | Max. 5 dispositivos | Ilimitados |
+| Asignación de conversaciones | Manual/caótico | Automática o manual |
+| Historial compartido | Cada dispositivo ve algo distinto | Centralizado |
+| Bot de respuesta automática | Solo respuestas rápidas | IA contextual |
+| Métricas y analytics | Ninguna | Tiempo de respuesta, tasa de resolución |
+| Plantillas aprobadas | Limitado | Con variables dinámicas |
+| Etiquetas y filtros | Básico | Por estado, agente, proyecto |
+| Búsqueda inteligente de propiedades | No disponible | El bot busca por criterios |
 
-**2. Clasifica la intención del lead.** ¿Está buscando comprar? ¿Alquilar? ¿Solo explorando? La IA entiende el contexto y responde acorde. Si el lead pregunta por un proyecto en preconstrucción, busca en proyectos. Si pregunta por una casa lista para entrar, busca en propiedades disponibles.
+## La solución no es otro CRM
 
-**3. Entrega la conversación al agente humano.** La IA no reemplaza al agente. Cubre la primera respuesta — la más crítica — y cuando el lead muestra interés serio, el agente retoma la conversación con todo el contexto. El lead ya está enganchado, el agente no empieza de cero.
+La mayoría de las agencias ya tienen un CRM. El problema es que el CRM no está donde pasa la conversación. El lead escribe por WhatsApp. El agente responde por WhatsApp. Pero el CRM está en otra pestaña, otro sistema, otro mundo.
 
-## La historia de las 2AM
+La solución es que el canal de comunicación **sea** el sistema de gestión. Que cuando un lead escriba, la conversación automáticamente:
 
-Cuando estábamos probando el sistema, una de las primeras conversaciones reales fue exactamente esa: un comprador canadiense escribiendo a las 2AM preguntando por un apartamento en Santa Ana. La IA respondió en menos de dos minutos con tres opciones del inventario, preguntó por su presupuesto, y agendó una videollamada para el día siguiente.
+1. Se asigne al agente correcto
+2. Se enriquezca con contexto (qué propiedades vio, qué preguntó antes)
+3. Se responda inmediatamente si es fuera de horario (bot de IA)
+4. Se mida (tiempo de respuesta, resolución, satisfacción)
+5. Se escale si no hay respuesta en X minutos
 
-El agente llegó a las 8AM, abrió el inbox, y encontró una conversación completa con un lead calificado, listo para hablar. Me escribió: "¿Esto pasó mientras yo dormía?"
+Esto no es ciencia ficción. Es lo que un inbox profesional para WhatsApp hace hoy.
 
-Sí. Eso es exactamente el punto.
+## Qué debería hacer su agencia
 
-## Lo que aprendí construyendo esto
+1. **Audite su tiempo de respuesta.** ¿Cuánto tarda en promedio desde que llega un mensaje hasta que alguien responde? Si no lo sabe, ese es el primer problema.
+2. **Cuente los leads ignorados.** Revise el WhatsApp del fin de semana pasado. ¿Cuántos mensajes quedaron sin respuesta hasta el lunes?
+3. **Calcule el costo.** Cada lead ignorado = $7,500 en comisión potencial perdida. ¿Cuántos pierde al mes?
+4. **Evalúe la transición.** Pasar de WhatsApp Business a un inbox profesional no requiere cambiar su número ni perder conversaciones.
 
-Tres cosas que no esperaba:
+---
 
-**La primera respuesta importa más que todo lo demás.** No importa qué tan bueno sea su inventario o qué tan experimentado sea su equipo. Si el primer mensaje que recibe el comprador es silencio, ya perdió.
-
-**Las agencias no necesitan más leads. Necesitan atender los que ya tienen.** La mayoría de las agencias que conozco gastan dinero en marketing para generar leads, pero no tienen un sistema para atenderlos. Es como invertir en publicidad para un restaurante que no tiene meseros.
-
-**La automatización no reemplaza al humano. Lo libera.** El agente que antes gastaba 2 horas al día respondiendo "¿está disponible?" ahora dedica ese tiempo a mostrar propiedades, negociar, y cerrar. La IA maneja lo repetitivo; el humano maneja lo que requiere criterio.
-
-## Qué sigue
-
-Trochai está en etapa temprana, pero ya está funcionando con agencias reales en Costa Rica. Si maneja una agencia y le suena familiar la situación de los leads que se pierden por no responder a tiempo, me encantaría conversar.
-
-No le voy a vender nada en la primera llamada. Solo quiero entender cómo funciona su operación y si lo que estamos construyendo le puede servir.
-
-Puede escribirme directamente o conocer más en trochai.com.
+*WhatsApp no está roto como producto. Está roto como herramienta de equipo para agencias que necesitan responder rápido, a escala, las 24 horas. La pregunta no es si necesita algo mejor — es cuánto le está costando no tenerlo.*

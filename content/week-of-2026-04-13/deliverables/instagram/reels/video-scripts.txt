@@ -1,0 +1,13 @@
+Video Scripts for Instagram Reels (render when ready)
+
+1. WhatsApp está roto para equipos (video-1.md)
+   - Hook: "5 dispositivos. 0 coordinación."
+   - Remotion composition: use StatReveal with props from video-1.md
+
+2. Anatomía de un lead perdido (video-2.md)
+   - Hook: "$7,500 en comisión. Perdidos en 12 horas."
+   - Remotion composition: use StatReveal with props from video-2.md
+
+3. Las mismas preguntas, 50 veces al mes (video-3.md)
+   - Hook: "50+ horas al mes. Respondiendo lo mismo."
+   - Remotion composition: use StatReveal with props from video-3.md

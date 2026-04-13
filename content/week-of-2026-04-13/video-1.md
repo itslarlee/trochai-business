@@ -1,42 +1,49 @@
-# Video: ia-2am
-**Title:** IA que vende casas a las 2AM
+# Video: whatsapp-roto-equipos
+**Title:** WhatsApp está roto para equipos
 **Duration:** ~25s
 
 ## Scene 1 — HOOK (4s)
-- **On-screen:** 2:17 AM
-- **Voiceover:** "A las dos y diecisiete de la mañana, un comprador desde Toronto le escribió a una agencia en Costa Rica."
-- **SFX:** notification
+**Visual:** Counter animating from 0 to 5, then a big red X
+**Text on screen:** "5 dispositivos. 0 coordinación."
+**Voiceover:** "WhatsApp Business permite cinco dispositivos conectados. Pero con cero asignación, cero historial compartido y cero métricas."
+**SFX:** Riser → impact at "0 coordinación"
 
 ## Scene 2 — PROBLEM (5s)
-- **On-screen:** Ningún agente despierto
-- **Voiceover:** "No había ningún agente despierto. El mensaje iba a quedar sin respuesta hasta las ocho de la mañana."
-- **SFX:** riser
+**Visual:** Split screen — 3 agent avatars all typing to same contact. Messages overlapping.
+**Text on screen:** "3 agentes. 1 lead. 3 respuestas diferentes."
+**Voiceover:** "¿Qué pasa cuando tres agentes responden al mismo lead con información distinta? Se confunde. Y se va."
+**SFX:** Notification sounds stacking up
 
-## Scene 3 — DATA (6s)
-- **On-screen:** 62% llegan fuera de horario
-- **Voiceover:** "Según NAR y Zillow Group, el sesenta y dos por ciento de los leads inmobiliarios llegan fuera de horario laboral. Y el setenta y ocho por ciento compra con quien responde primero."
-- **SFX:** impact
+## Scene 3 — SCENARIO (6s)
+**Visual:** Clock ticking from 8:47 PM to 9:00 AM. Message bubble with "le responderemos pronto."
+**Text on screen:** "Viernes 8:47 PM → Sábado 9:00 AM = 12 horas sin respuesta real"
+**Voiceover:** "Por ejemplo, viernes a las ocho cuarenta y siete. Un comprador pregunta por una casa en Flamingo. WhatsApp Business responde 'le responderemos pronto.' El lunes, ya compró con otro."
+**SFX:** Clock ticking + swoosh
 
-## Scene 4 — SOLUTION (6s)
-- **On-screen:** Con Trochai: respuesta en menos de 2 min
-- **Voiceover:** "Con Trochai, a las dos y dieciocho de la mañana el comprador ya tenía tres opciones reales de apartamentos, con precios y ubicación. Sin que nadie se despertara."
-- **SFX:** swoosh
+## Scene 4 — SOLUTION (5s)
+**Visual:** Trochai inbox UI — message arrives, auto-assigns to agent, bot responds with 3 properties
+**Text on screen:** "Con Trochai: respuesta en <2 min. Asignación automática. Métricas en tiempo real."
+**Voiceover:** "Con Trochai, cada mensaje se asigna automáticamente. El bot responde en menos de dos minutos con propiedades reales. Y usted ve todo en un dashboard."
+**SFX:** Bot message flash + notification
 
-## Scene 5 — CTA (4s)
-- **On-screen:** trochai.com
-- **Voiceover:** "Su próximo cliente puede estar escribiendo ahora mismo. ¿Quién le va a responder?"
-- **SFX:** click
+## Scene 5 — CTA (5s)
+**Visual:** Trochai logo + "trochai.com" + breathing scale animation
+**Text on screen:** "WhatsApp + estructura = canal de ventas real."
+**Voiceover:** "No deje WhatsApp. Solo déle estructura. Trochai punto com."
+**SFX:** Whoosh + low kick
 
 ---
 
-**Instagram caption:** 2:17 AM. Un lead escribe. Ningún agente despierto. Pero con Trochai, a las 2:18 AM ya tenía tres opciones de apartamentos. El 62% de los leads llegan fuera de horario (NAR). ¿Quién responde los suyos? trochai.com #BienesRaices #WhatsApp #IA #InmobiliariaCR #Trochai
-**TikTok caption:** 2:17am. lead escribe. nadie despierto. pero a las 2:18 ya tenía respuesta. IA para inmobiliarias. #bienesraices #whatsapp #ia #inmobiliaria #costarica
+## StatReveal Props (simple version)
 
-## StatReveal Props
-- statNumber: "2:17 AM"
-- statLine: "un comprador escribió desde Toronto"
-- problemLine1: "Ningún agente despierto."
-- problemLine2: "El mensaje iba a quedar sin respuesta hasta las 8AM."
-- solutionLine: "Con Trochai: respuesta en menos de 2 minutos"
-- ctaLine: "trochai.com"
-- sourceLine: "62% de leads llegan fuera de horario — NAR/Zillow 2025"
+```json
+{
+  "statNumber": "5→0",
+  "statLine": "dispositivos conectados pero cero coordinación",
+  "problemLine1": "3 agentes responden al mismo lead.",
+  "problemLine2": "Información diferente. El lead se confunde y se va.",
+  "solutionLine": "Con Trochai: asignación automática + bot + métricas",
+  "ctaLine": "trochai.com",
+  "sourceLine": "47% de consultas sin respuesta — Mike DelPrete 2024"
+}
+```

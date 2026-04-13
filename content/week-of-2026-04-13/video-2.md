@@ -1,42 +1,49 @@
-# Video: 47-sin-respuesta
-**Title:** 47% sin respuesta
+# Video: lead-perdido-viernes
+**Title:** Anatomía de un lead perdido
 **Duration:** ~25s
 
 ## Scene 1 — HOOK (4s)
-- **On-screen:** 47%
-- **Voiceover:** "Según un estudio de Mike DelPrete con más de cien compradores secretos, el cuarenta y siete por ciento de las consultas inmobiliarias no recibe ninguna respuesta."
-- **SFX:** impact
+**Visual:** Counter animating "$7,500" with red glow
+**Text on screen:** "$7,500 en comisión. Perdidos en 12 horas."
+**Voiceover:** "Siete mil quinientos dólares en comisión. Perdidos porque nadie respondió un mensaje un viernes por la noche."
+**SFX:** Riser → hard impact at "$7,500"
 
 ## Scene 2 — PROBLEM (5s)
-- **On-screen:** Ninguna. Cero. Nada.
-- **Voiceover:** "Ninguna. Ni un recibido. Ni un le escribo mañana. Nada. Casi la mitad de los leads simplemente se ignoran."
-- **SFX:** riser
+**Visual:** Phone screen showing WhatsApp message at 8:47 PM. "Hola, vi una casa en Flamingo. ¿Todavía está disponible?"
+**Text on screen:** "Viernes 8:47 PM. Nadie en la oficina."
+**Voiceover:** "Viernes, ocho cuarenta y siete de la noche. Un comprador desde California. La propiedad perfecta en su inventario. Pero la oficina cerró a las cinco."
+**SFX:** Notification + clock start
 
-## Scene 3 — DATA (6s)
-- **On-screen:** 15+ horas promedio de respuesta
-- **Voiceover:** "Y de los que sí responden, el tiempo promedio es de más de quince horas. Quince horas en un mercado donde el setenta y ocho por ciento compra con quien responde primero."
-- **SFX:** notification
+## Scene 3 — SCENARIO (6s)
+**Visual:** Timeline splitting into two paths — Agencia A (waiting) vs Agencia B (bot responding)
+**Text on screen:** "Agencia A: 'le respondemos pronto' | Agencia B: 3 propiedades + videollamada agendada"
+**Voiceover:** "La agencia A envía una respuesta automática genérica. La agencia B tiene un bot de IA que responde en menos de dos minutos con tres propiedades y agenda una videollamada para el sábado."
+**SFX:** Swoosh on split
 
 ## Scene 4 — SOLUTION (5s)
-- **On-screen:** Con Trochai: 0% sin respuesta
-- **Voiceover:** "Con Trochai, cada mensaje recibe respuesta. Con información real de su inventario. A cualquier hora."
-- **SFX:** swoosh
+**Visual:** Agencia B's inbox — bot conversation with property cards, then agent takeover in the morning
+**Text on screen:** "Con Trochai: el bot trabaja de noche. El agente cierra de día."
+**Voiceover:** "Con Trochai, el bot cubre las noches y fines de semana. El agente llega el lunes con un lead calificado, listo para hablar. No empieza de cero."
+**SFX:** Bot flash + positive chime
 
-## Scene 5 — CTA (4s)
-- **On-screen:** ¿Cuántos leads dejó en visto esta semana?
-- **Voiceover:** "Revise sus conversaciones. Cuente cuántos quedaron sin respuesta. Ese es el dinero que está dejando en la mesa."
-- **SFX:** click
+## Scene 5 — CTA (5s)
+**Visual:** Trochai logo + "$7,500 salvados" counter + breathing animation
+**Text on screen:** "¿Cuántos leads pierde cada fin de semana?"
+**Voiceover:** "¿Cuántos leads pierde su agencia cada fin de semana? Trochai punto com."
+**SFX:** Kick + whoosh
 
 ---
 
-**Instagram caption:** 47% de las consultas inmobiliarias no recibe NINGUNA respuesta. Ninguna. Y de los que sí responden, tardan 15+ horas. ¿Cuántos leads dejó en visto esta semana? Dato: Mike DelPrete 2024, Inman 2025. trochai.com #BienesRaices #Leads #WhatsApp #InmobiliariaCR #Trochai
-**TikTok caption:** 47% de consultas sin respuesta. 15 horas promedio los que sí responden. cuántos leads dejó en visto? #bienesraices #leads #inmobiliaria #whatsapp #costarica
+## StatReveal Props (simple version)
 
-## StatReveal Props
-- statNumber: "47%"
-- statLine: "de las consultas no recibe ninguna respuesta"
-- problemLine1: "Ni un recibido. Ni un 'le escribo mañana'."
-- problemLine2: "Los que sí responden: 15+ horas promedio."
-- solutionLine: "Con Trochai: cada mensaje recibe respuesta"
-- ctaLine: "trochai.com"
-- sourceLine: "Fuente: Mike DelPrete 2024, Inman 2025"
+```json
+{
+  "statNumber": "$7,500",
+  "statLine": "en comisión perdida por un mensaje sin respuesta",
+  "problemLine1": "Viernes 8:47 PM. Nadie en la oficina.",
+  "problemLine2": "El sábado a las 9 AM ya compraron con otro.",
+  "solutionLine": "Con Trochai: el bot trabaja de noche, el agente cierra de día",
+  "ctaLine": "trochai.com",
+  "sourceLine": "78% compran con el primero que responde — NAR 2025"
+}
+```

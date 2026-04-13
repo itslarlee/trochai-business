@@ -1,36 +1,51 @@
 # Content Calendar — Semana del 2026-04-13
 
-**Topic:** Construí una IA que vende casas a las 2 de la mañana
+**Pillar Topic:** WhatsApp está roto para equipos
+**Newsletter Theme:** Santa Cruz lidera inversión residencial + tasas bajan por alto al fuego
 
 ---
 
 ## Lunes (Abr 13)
-- [ ] **Instagram Reel:** "IA que vende casas a las 2AM" → `video-1.md` / Remotion ID: `Stat-2AM-AI-Sells`
-- [ ] **LinkedIn Post:** `linkedin-1.md` (47% sin respuesta — stat-driven)
+- [ ] **LinkedIn Post:** `monday-newsletter.md` — Trochai Insights Sem. 16 carousel + caption
+- [ ] **LinkedIn Newsletter:** Publicar artículo completo como "Trochai Insights Sem. 16" en LinkedIn Newsletter
+- [ ] **Blog:** Ya desplegado en trochai.com/es/blog/trochai-insights-2026-s16
+- [ ] Render carousel: `cd trochai-videos && npx tsx scripts/render-carousel.ts trochai-insights-2026-s16`
 
 ## Martes (Abr 14)
-- [ ] **LinkedIn Post:** `linkedin-2.md` (historia de las 2AM — founder story)
+- [ ] **LinkedIn Post:** `tuesday-growth.md` — Brandjacking WhatsApp "5 dispositivos, 0 coordinación"
+- [ ] Render infographic: `npx remotion still LI-Card-WA-Broken-W16 --output=out/linkedin/tue-w16.png`
 
 ## Miércoles (Abr 15)
-- [ ] **TikTok:** "47% sin respuesta" → `video-2.md` / Remotion ID: `Stat-47-No-Response`
-- [ ] **LinkedIn Post:** `linkedin-3.md` (no necesitan más leads — hot take)
+- [ ] **LinkedIn Post:** `wednesday-authority.md` — "5 señales de que WhatsApp le está costando leads" carousel
+- [ ] **Instagram Carousel:** Cross-post slides desde LinkedIn
+- [ ] Render carousel slides: render each `Pillar-WA-Signs-W16` slide as PNG, then PDF
 
 ## Jueves (Abr 16)
-- [ ] **Blog Post:** Publicar artículo en trochai.com → ver `blog-reference.md`
-- [ ] **Newsletter:** Generar con `/trochai-blog-poster` desde trochai-landing/ (noticias de la semana, NO el pillar content)
-- [ ] **LinkedIn Post:** `linkedin-4.md` (3 pasos para dejar de perder leads — framework)
+- [ ] **LinkedIn Post:** `thursday-growth.md` — Hot take "Las agencias no necesitan un CRM"
+- [ ] Render infographic: `npx remotion still LI-Card-No-CRM-W16 --output=out/linkedin/thu-w16.png`
 
 ## Viernes (Abr 17)
-- [ ] **Instagram Reel:** "El restaurante sin meseros" → `video-3.md` / Remotion ID: `Stat-7500-Lost-Commission`
-- [ ] **LinkedIn Post:** `linkedin-5.md` (promoción del blog — link al artículo)
+- [ ] **LinkedIn Post:** `friday-conversion.md` — Antes vs. Después carousel
+- [ ] Render carousel slides: render each `Pillar-Before-After-W16` slide as PNG, then PDF
 
-## Fin de semana (Abr 18-19)
-- [ ] Revisar: ¿qué tuvo más engagement? Anotar para la semana siguiente.
+## Sábado (Abr 18)
+- [ ] **LinkedIn Post:** `saturday-authority.md` — "Anatomía de un lead perdido" deep-dive carousel
+- [ ] **Instagram Carousel:** Cross-post slides desde LinkedIn
+- [ ] Render carousel slides: render each `Pillar-Lead-Anatomy-W16` slide as PNG, then PDF
+
+## Domingo (Abr 19)
+- [ ] **LinkedIn Post:** `sunday-personal.md` — "Lo que aprendí construyendo para un problema invisible"
+- [ ] Render infographic: `npx remotion still LI-Card-Invisible-W16 --output=out/linkedin/sun-w16.png`
 
 ---
 
+## Video Scripts (render when ready)
+- [ ] `video-1.md` — WhatsApp está roto para equipos
+- [ ] `video-2.md` — Anatomía de un lead perdido ($7,500)
+- [ ] `video-3.md` — Las mismas preguntas, 50 veces al mes
+
 ## Quick Stats
-- **Total piezas:** 15 (5 LinkedIn, 3 videos, 1 blog ES+EN, 1 newsletter blog ES+EN, 1 newsletter email)
-- **Render command:** `cd trochai-videos && npx tsx src/scripts/render-video.ts --id Stat-2AM-AI-Sells --quality social`
-- **Mayor potencial viral:** Video 1 (la historia de las 2AM) y LinkedIn Post 3 (hot take "no necesitan más leads")
-- **Tiempo para postear:** ~10 min/día
+- **Total piezas:** ~18 (7 LinkedIn daily, 1 LinkedIn Newsletter, 2 blog ES+EN, 2-3 Instagram cross-posts, 3 video scripts)
+- **Newsletter carousel render:** `cd trochai-videos && npx tsx scripts/fetch-unsplash.ts trochai-insights-2026-s16 && npx tsx scripts/render-carousel.ts trochai-insights-2026-s16`
+- **Mayor potencial viral:** Wednesday carousel (saveable framework) y Thursday hot take (conversation starter)
+- **Tiempo para postear:** ~10 min/día + 30 min comment flywheel
