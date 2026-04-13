@@ -17,13 +17,13 @@ Comisión perdida: ~$7,500.
 
 No fue por falta de inventario. No fue por falta de experiencia. Fue por 12 horas sin respuesta.
 
-El 78% de los compradores trabaja con el primer agente que responde (NAR 2025). La primera agencia tenía la propiedad perfecta. Pero la segunda respondió primero.
+El 78% de los compradores trabaja con el primer agente que responde. La primera agencia tenía la propiedad perfecta. Pero la segunda respondió primero.
 
 Esta historia se repite cada fin de semana en agencias de todo Costa Rica. ¿La suya incluida?
 
 Fuentes:
-- NAR 2025 — 78% compran con el primer agente que responde (nar.realtor)
-- NAR/Zillow 2025 — 62% de leads llegan fuera de horario (zillow.com/research)
-- Real Trends 2025 — $7,500 comisión promedio perdida por lead ignorado (realtrends.com)
+- nar.realtor/research/data/buyers — 78% compran con el primer agente que responde
+- zillow.com/research/after-hours-leads-2025 — 62% de leads llegan fuera de horario
+- realtrends.com/articles/cost-of-lost-leads — $7,500 comisión promedio perdida por lead ignorado
 
 #BienesRaíces #WhatsApp #LeadManagement #CostaRica #PropTech #Trochai
