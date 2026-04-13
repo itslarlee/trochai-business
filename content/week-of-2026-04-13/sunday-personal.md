@@ -1,4 +1,4 @@
-# Domingo — Lo que aprendí construyendo para un problema invisible
+# Domingo — El número que me persigue: 917
 
 > Bucket: Personal | Formato: Infographic
 
@@ -6,36 +6,34 @@
 
 ## LinkedIn Post Caption
 
-Lo más difícil de resolver un problema es cuando nadie sabe que lo tiene.
+Hay un número que me persigue desde que empecé a construir Trochai: 917.
 
-Llevo meses hablando con directores de agencias inmobiliarias en Costa Rica. Y hay un patrón que se repite:
+917 minutos. Eso es lo que tarda en promedio un agente inmobiliario en responder un lead nuevo. Más de 15 horas.
 
-"Nosotros respondemos rápido."
+No es un dato inventado. Es de la encuesta de tecnología de Inman 2025. Y cuando lo leí por primera vez, no lo podía creer.
 
-Entonces les pregunto: ¿cuánto es rápido?
+Porque piénselo así:
 
-Silencio.
+Una agencia invierte en un sitio web, en portales, en pauta de Instagram, en fotos profesionales — todo para que un comprador interesado levante la mano y diga "quiero saber más."
 
-Porque no lo miden. No es que no les importe — es que WhatsApp Business no tiene un dashboard que les diga "su tiempo promedio de respuesta es 4.3 horas."
+Y cuando lo hace... silencio. 15 horas de silencio.
 
-Cuando finalmente revisan, descubren que:
-→ Los leads del viernes por la noche esperan hasta el lunes
-→ 3 de cada 10 mensajes nunca reciben respuesta
-→ Su mejor agente responde en 15 minutos; el promedio del equipo, en 6 horas
+El 78% de los compradores compra con el primer agente que responde. Entonces esas 15 horas no solo son una demora — son una transferencia directa de comisión a la competencia.
 
-No están ignorando a sus leads a propósito. Simplemente no tienen visibilidad de algo que no pueden medir.
+Lo que me parece fascinante es que no es un problema de actitud. Nadie ignora leads a propósito. Es un problema de infraestructura. WhatsApp Business no fue diseñado para equipos. No hay asignación automática. No hay cobertura fuera de horario. No hay métricas que le digan "oiga, su tiempo promedio es de 6 horas."
 
-Y ahí es donde se pone interesante: construir una solución para un problema que la gente no sabe que tiene es un ejercicio de paciencia.
+Es un problema invisible. Y los problemas invisibles son los más caros — porque nadie los está resolviendo.
 
-No puedo llegar y decir "su WhatsApp está roto." Porque para ellos funciona — los mensajes llegan, los agentes responden, las ventas se hacen.
+Eso es lo que me motivó a construir Trochai. No la tecnología en sí. Sino el hecho de que hay una brecha enorme entre lo que las agencias gastan en generar leads y lo que invierten en responderlos.
 
-Lo que no ven es lo que se pierde entre las líneas: los leads que escribieron a las 9 PM y compraron con otro. Los que preguntaron por segunda vez y nunca recibieron respuesta. Los $7,500 en comisión que nunca existieron en su radar.
+Buen domingo para reflexionar sobre eso.
 
-Construir para un problema invisible requiere mostrar, no decir. Requiere data, no pitch. Y requiere mucha paciencia.
+Fuentes:
+- agentzap.ai/blog/real-estate-lead-statistics — 917 min promedio de respuesta (Inman 2025)
+- nar.realtor/research/data/buyers — 78% compran con el primero que responde
+- mikedp.com/articles/real-estate-agents-response-time — 47% sin respuesta
 
-Es domingo. Buen momento para reflexionar sobre eso.
-
-#BuildingInPublic #SaaS #PropTech #CostaRica #FounderJourney #Reflexión
+#BuildingInPublic #SaaS #PropTech #CostaRica #FounderJourney
 
 ---
 
@@ -46,10 +44,10 @@ Es domingo. Buen momento para reflexionar sobre eso.
 
 ```json
 {
-  "stat": "6h",
-  "statLine": "tiempo promedio de respuesta — y nadie lo sabe",
-  "insight": "Las agencias creen que responden rápido. Pero sin métricas, no pueden ver los leads que se pierden entre las líneas. El problema más difícil de resolver es el que nadie sabe que tiene.",
-  "source": "Observación directa — conversaciones con agencias CR",
+  "stat": "917",
+  "statLine": "minutos. Eso tarda en promedio un agente en responder.",
+  "insight": "Las agencias invierten en marketing para generar leads. Pero cuando el comprador levanta la mano, el silencio promedio es de 15 horas. No es un problema de actitud — es un problema de infraestructura.",
+  "source": "Inman 2025 — agentzap.ai/blog/real-estate-lead-statistics",
   "topicTag": "FOUNDER",
   "accentColor": "#8B5CF6"
 }
