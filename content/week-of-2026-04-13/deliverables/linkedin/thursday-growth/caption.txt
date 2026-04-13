@@ -1,34 +1,31 @@
-Las agencias inmobiliarias no necesitan un CRM. Necesitan un inbox que funcione.
+Su agencia no tiene un problema de leads. Tiene un problema de respuesta.
 
-Sé que suena radical. Pero escúcheme.
+Las agencias inmobiliarias gastan entre el 10% y 20% de su presupuesto anual en marketing y generación de leads. Portales, redes sociales, pauta digital — todo para que un comprador interesado levante la mano.
 
-El 90% de las agencias que conozco en Costa Rica tienen un CRM. Lo compraron, lo configuraron, capacitaron al equipo.
+¿Y qué pasa cuando la levanta?
 
-¿Y sabe qué pasa 6 meses después?
+→ 47% de las consultas no recibe ninguna respuesta. Ni un "recibido."
+→ El tiempo promedio de respuesta es de 917 minutos. Más de 15 horas.
+→ Solo el 27% de los leads recibe algún tipo de contacto.
+→ 44% de los agentes abandonan después de un solo intento de seguimiento.
 
-→ Los agentes no lo actualizan
-→ La información está desactualizada
-→ Los leads se registran pero nadie da seguimiento
-→ El director revisa el dashboard una vez al mes
+Mientras tanto, la data dice:
 
-¿Por qué? Porque el CRM no está donde pasa la conversación. El lead escribe por WhatsApp. El agente responde por WhatsApp. Pero el CRM está en otra pestaña, otro sistema, otro mundo.
+→ Responder en 5 minutos = 21x más probabilidad de calificar el lead.
+→ Responder en 1 minuto = 391% más conversiones que esperar 2 minutos.
+→ 78% de los compradores compra con el primer agente que responde.
+→ Cada lead ignorado = ~$7,500 en comisión perdida.
 
-El resultado: dos fuentes de verdad que nunca coinciden.
+El problema no es cuántos leads genera. Es cuántos atiende.
 
-La solución no es otro CRM más sofisticado. Es que el canal de comunicación SEA el sistema de gestión.
+Su agencia probablemente no necesita más leads. Necesita responder los que ya tiene — más rápido, con más seguimiento, las 24 horas.
 
-Que cuando un lead escriba:
-→ La conversación se asigne automáticamente
-→ Se enriquezca con contexto (qué propiedades vio, qué preguntó)
-→ Se responda inmediatamente fuera de horario
-→ Se mida (tiempo de respuesta, resolución)
-
-El mejor CRM es el que su equipo ya usa todos los días. Y en Costa Rica, eso es WhatsApp.
-
-¿Controversial? Tal vez. ¿Incorrecto? Revise cuánto usa su equipo el CRM actual versus WhatsApp. Los datos hablan.
+Antes de subir el presupuesto de marketing, hágase una pregunta: ¿cuántos mensajes de WhatsApp del fin de semana pasado siguen sin respuesta?
 
 Fuentes:
-- spotio.com/blog/sales-follow-up-statistics — 48% de agentes nunca dan seguimiento
-- nar.realtor/research/data/buyers — 78% de compradores eligen al primer agente que responde
+- mikedp.com/articles/real-estate-agents-response-time — 47% de consultas sin respuesta
+- agentzap.ai/blog/real-estate-lead-statistics — 917 min promedio de respuesta (Inman 2025)
+- greetnow.com/blog/lead-response-time-statistics — 21x en 5 min (InsideSales/MIT), 391% en 1 min (Velocify)
+- nar.realtor/research/data/buyers — 78% compran con el primero que responde
 
-#CRM #WhatsApp #BienesRaíces #PropTech #CostaRica #HotTake #Trochai
+#BienesRaíces #WhatsApp #LeadManagement #CostaRica #PropTech #Trochai #HotTake
