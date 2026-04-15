@@ -74,6 +74,24 @@ Benchmark: 1 meeting per 3 Looms. If ratio is worse, script needs fixing.
 
 ---
 
+## FRIDAY BLOCK — Mystery shop batch (2 hrs, replaces afternoon block on Fridays)
+
+**Goal:** Generate real response-time data for next week's Looms.
+
+- [ ] Pick **5-10 P1/P2 leads** you plan to pitch next week
+- [ ] For each: find the **AGENCY's public WhatsApp** on their website (NOT the CSV number, which may be direct)
+- [ ] Send the buyer message from `loom-scripts/MYSTERY-SHOP-TEMPLATE.md` matching their zone
+- [ ] Log send timestamp in a spreadsheet (Agency / Sent at / Reply at / Delta / Quality)
+- [ ] **Do not reply yet** — wait for Monday
+
+## MONDAY MORNING — Close the mystery shop loop
+
+- [ ] For every agency that replied: send the closing message *"Perfecto, gracias. Sigo viendo opciones, le escribo si algo me calza."*
+- [ ] For every agency that didn't reply within 72h: log "No reply — 72h+" — that's your data
+- [ ] Feed the timing data into this week's Loom scripts (use `02-alejandro-gonzalez-casamax.md` as the template)
+
+---
+
 ## WHEN YOU GET STUCK
 
 | Situation | Action |

@@ -214,3 +214,50 @@ Gracias, todavía en fase de exploración. Le escribo si algo me calza.
 3. Close-loop message
 
 **Total time per reply: under 30 seconds.** Don't overthink — copy, paste, close. The goal is data, not relationship.
+
+---
+
+## 📋 Per-agency pre-shop intel cheat sheet
+
+Reference this as replies come in. Sorted by send order tonight.
+
+| # | Agency | Expected reply behavior | Known tools |
+|---|---|---|---|
+| 1 | **Escazú Properties** | Owner (Manfred) replies personally — small boutique | Custom PHP, no CRM, no chat widget |
+| 2 | **Casa Escazú** | Owner (Ivan) replies personally — solo operator | HubSpot CMS + HubSpot tracking |
+| 3 | **Blue Zone Realty** | Likely Tim or triage agent — 22 agents funnel through his cell | Luxury Presence + Meta Pixel |
+| 4 | **Summer Coast Realty** | Office manager Roselind might triage before agent | WordPress + Houzez + Chaty widget (shared WA) |
+| 5 | **GoDutch Realty** | Ivo (founder) replies — active blogger, hands-on | WordPress + Houzez + **Mailchimp** + Meta Pixel |
+| 6 | **Elite Properties CR** | Catherine or Sophie personally (both co-owners on this line) | WordPress 6.0.11 (stale!) + CF7, no CRM |
+| 7 | **Hidden Coast Realty** | Bruno Grenier (agent) since Joost's WA isn't public | WP + Houzez + **Tidio live chat** + Gravity Forms |
+| 8 | **Flamingo Beach Realty** | Shared widget — any of the ~12 Engels could reply | WP + AgentImage + **Tidio live chat** + Gravity Forms |
+| 9 | **Domus Verum** | Laura or co-founder Saimir Bardhi | WP + WPResidence + MLSImport + Meta Pixel + Click-to-Chat |
+| 10 | **ABC Real Estate CR** | Jogi or wife Verena — 5-7 agents, "by appointment" office | WP + RealHomes + dsIDX, no CRM |
+| 11 | **Propiedades Leitón** | Rodolfo (this is his Spanish line) | Plone 5 + Propertyshelf MLS |
+| 12 | **Tamarindo Real Estate** | ⚠️ Polished reply expected — sophisticated stack | WP + RealHomes + **HubSpot + Hotjar + Clarity** + dsIDX + iHomefinder |
+| 13 | **Hidden Bay Realty** | Ron replies (his direct line with wa.me) | WP + Houzez, still on Universal Analytics (deprecated) |
+| 14 | **CIV Heredia** | Olman (president) replies personally | WP + Elementor + **Gravity Forms** + GA4 |
+| 15 | **Mango Realty** | Angela (owner) — casual/personal tone | Squarespace 7.1 native + GTM |
+| 16 | **Results Realty Group** | ⚠️ **INSTANT AUTOREPLY**, then real agent within 24h promise | WP + Elementor + **WPForms** + WA autoreply configured |
+| 17 | **Realty ONE Group** | Jennifer directly (her mobile, not landline) | Next.js + Espacio Futuro (LATAM RE SaaS) |
+| 18 | **Palm Real Estate** | Shared team line — whoever's closest | **EasyBroker CMS/CRM** |
+| 19 | **KRAIN Luxury** | Main funnel line — could be admin or agent triage | Plone + Propertyshelf + **HubSpot** + Luxury Presence (global) |
+| 20 | **RE/MAX Ocean Surf** | Shared franchise line — 10-agent team | Drupal 7 (EOL!) + dead Pure Chat widget + Mailchimp |
+
+### Watch-for signals
+
+- **Results Realty (#16)** — autoreply arrives in seconds. Don't react. Wait for real agent. Log both timestamps.
+- **Tamarindo RE (#12)** — most sophisticated stack in batch. Reply will likely be fast, tailored, with photos. Still log the time — even 1hr on a Wed 9pm is a gap.
+- **Elite Properties (#6)**, **Hidden Bay (#13)**, **Escazú Properties (#1)**, **RE/MAX Ocean Surf (#20)** — stale tech stacks. May also have stale WhatsApp habits (slow replies, old-school responses). Note reply style — "le mandamos información" without attached listings = weaker than "here's 3 options with photos".
+- **Hidden Coast (#7)** and **Flamingo Beach (#8)** — both have Tidio web chat. If their reply mentions "try our website chat", steer back with: *"Prefiero seguir por WhatsApp, gracias."*
+
+### If multiple reply at once (overwhelm scenario)
+
+Priority order for closing loops:
+1. Results Realty autoreply → ignore, log only
+2. Any agency that sent actual listings → quick acknowledge + close
+3. Any agency asking qualifying questions → one-line reply + close
+4. Any agency asking for call/meeting → deflect + close
+5. Others → close-loop message
+
+You don't need to match their response speed. If 5 reply within 30 min and you close 1 at a time over 2 hours, that's fine. It reads as "serious but busy buyer."
