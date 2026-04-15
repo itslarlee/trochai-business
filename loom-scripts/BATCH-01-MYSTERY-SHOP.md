@@ -40,6 +40,35 @@ Multiple agencies (Realty ONE Group, KRAIN, RE/MAX Ocean Surf, Elite Properties,
 
 **2Costa Rica Real Estate doesn't use WhatsApp at all** — they use Zopim desktop live chat. For a 5-office luxury brokerage with $20M listings, that's an enormous wedge. See Special Case #21 below.
 
+### Insight 5 — CRM / tech stack breakdown (the Loom pitch splits in two)
+
+Most CR agencies use **theme-native CRMs** baked into WordPress real-estate themes (Houzez, RealHomes, WPResidence). Only 6 of 21 have a real external CRM:
+
+| External CRM | Agencies |
+|---|---|
+| **HubSpot** | Tamarindo Real Estate, KRAIN, Casa Escazú |
+| **Propertybase** | 2Costa Rica (but no WhatsApp at all) |
+| **EasyBroker** | Palm Real Estate |
+| **Espacio Futuro** (LATAM RE SaaS) | Realty ONE Group |
+| **Luxury Presence** (lite CRM bundled) | Blue Zone Realty, KRAIN |
+
+**No external CRM at all (15 of 21):**
+- Theme-native only: GoDutch, Hidden Coast, Hidden Bay, Summer Coast, Flamingo Beach, Elite Properties, Domus Verum, ABC Real Estate
+- Plone + Propertyshelf MLS: Propiedades Leitón
+- Fully hand-coded / brochure / stale: **Escazú Properties (custom PHP)**, **CIV (WP brochure)**, **Mango Realty (Squarespace native)**, **RE/MAX Ocean Surf (Drupal 7 + Pure Chat widget that was discontinued in 2023)**, **Results Realty (unknown)**
+
+**This splits the Loom pitch into two shapes:**
+
+**Shape A — Agencies WITH an external CRM (HubSpot / Propertybase / EasyBroker / Espacio Futuro):**
+> *"Usted ya tiene [HubSpot / Propertybase / etc.] para manejar sus contactos. Perfecto. El problema no es ese — el problema es que cuando alguien le escribe al WhatsApp a las 11pm, su CRM no contesta. Trochai se pone adelante: responde en 30 segundos con propiedades que calzan, y después escribe toda la conversación de vuelta en [HubSpot/Propertybase] con el lead ya calificado. No le reemplaza nada. Le agrega la pieza que falta."*
+
+**Shape B — Agencies WITHOUT an external CRM (theme-native or nothing):**
+> *"Usted no tiene un CRM propiamente — sus leads se quedan en el correo o en el WhatsApp de alguien. Trochai es las dos cosas en uno: le responde al comprador en el momento **y** le deja la conversación ordenada, con notas, propiedades enviadas, y el estado del lead. Es su WhatsApp con IA + un CRM ligero."*
+
+Special cases:
+- **RE/MAX Ocean Surf**: their Pure Chat widget was **discontinued in 2023** — nobody's been maintaining their tech stack for 3 years. Lead with that.
+- **2Costa Rica**: Propertybase + no WhatsApp = ultimate absurdity. Lead with "you pay for a CRM but have no WhatsApp entry point for it to capture leads from"
+
 ---
 
 ## 📅 SEND SCHEDULE
