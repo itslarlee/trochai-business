@@ -59,6 +59,28 @@ Most CR agencies use **theme-native CRMs** baked into WordPress real-estate them
 
 **Zoho CRM: explicitly verified clean across all 21.** Zero agencies use Zoho, Zoho SalesIQ, Zoho Forms, or Zoho Bookings. Despite Zoho's popularity in LATAM, the CR real-estate vertical appears to skip it entirely — the stack is WordPress-native-CRM or HubSpot-or-nothing.
 
+### Insight 6 — Deep-sweep addendum (inner pages + listing details)
+
+Second research pass on inner pages (`/contact`, `/about`, `/agents`, listing details) turned up tools not visible on homepages. These reshape specific Loom angles:
+
+| Agency | NEW tool found | Loom pitch shift |
+|---|---|---|
+| **Hidden Coast Realty** | **Tidio live chat** on all pages | "You already believe in live chat — but your buyers are on WhatsApp, not your website desktop widget. Tidio captures leads who found you via Google; Trochai captures the ones writing you at 11pm from WhatsApp." |
+| **Flamingo Beach Realty** | **Tidio live chat** | Same framing as above. Tidio = proof they'll pay for engagement tools. |
+| **Tamarindo Real Estate** | **Hotjar** (heatmap/session recording) + **Microsoft Clarity** | Sophisticated measurement culture. Pitch: "You already track everything your website visitors do. But you have ZERO conversation-level data from WhatsApp. Trochai gives you that layer." |
+| **GoDutch Realty** | **Mailchimp popup signup** + **Meta Pixel** | They do email nurture. Pitch: "Mailchimp nurtures cold leads over weeks. Trochai handles the hot ones who write in 5 seconds. Complementary, not overlapping." |
+| **Domus Verum** | **Meta Pixel** | They run Facebook ads. Pitch: "You're paying Meta for traffic. Where does that traffic land when they WhatsApp you at 10pm?" |
+| **CIV** | **Gravity Forms** (paid plugin) + GA4 | Not as brochure-static as it looked — they pay for a form plugin. Means there's budget for tools, just no CRM direction. |
+| **Results Realty Group** | **WordPress + Elementor + WPForms** confirmed (CMS unknown before) | Full picture: they have autoreply on WA + WP + WPForms + 24h response SLA promised. They're already "trying". Pitch: "You promise 24h — but 24h in 2026 when a buyer has 5 other options is a lead lost." |
+
+**Legacy/stale-stack signals** (leverage as "falling behind" angle):
+- **Elite Properties CR**: running **WordPress 6.0.11** (current is 6.7+, severely outdated, security risk)
+- **Hidden Bay Realty**: still on **Universal Analytics** (Google deprecated July 2023 — they never migrated to GA4)
+- **Escazú Properties**: custom PHP from ~2012, also still on UA
+- **RE/MAX Ocean Surf**: Drupal 7 (end-of-life since Jan 2025, unsupported) + dead Pure Chat widget
+
+For these 4: the Loom can open with *"Su tech stack está quedándose atrás — mientras sus competidores están invirtiendo en herramientas modernas, ustedes siguen con lo de hace 5 años. Eso no es un problema técnico, es una señal de que están perdiendo terreno."* Then pitch Trochai as the modern upgrade.
+
 **This splits the Loom pitch into two shapes:**
 
 **Shape A — Agencies WITH an external CRM (HubSpot / Propertybase / EasyBroker / Espacio Futuro):**
