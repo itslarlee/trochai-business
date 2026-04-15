@@ -2,19 +2,22 @@
 
 Business strategy, marketing, and GTM documents for the Trochai platform.
 
-## What This Repo Contains
+## Structure
 
-This repo holds all non-code business documents:
+**Root (touched daily):**
+- `MARKETING.md` — GTM strategy, ICP, Manifesto, Broadway Show framework
+- `MARKETING-TODO.md` — Action items and progress tracking
+- `DAILY-CHECKLIST.md` — Daily sales ops routine (Looms, LinkedIn warming)
+- `LOOM-OUTREACH-SYSTEM.md` — Loom playbook: hand-raiser templates, scripts, objection handling
+- `PARTNERSHIP-PREP.md` — Specific partnership prep notes (currently: Mario Cordero)
 
-| File | Purpose |
-|---|---|
-| `MARKETING.md` | GTM strategy — ICP, Manifesto, Broadway Show framework |
-| `MARKETING-TODO.md` | Action items and progress tracking for marketing execution |
-| `PROSPECT-LIST.md` | Target agency list with contacts, discovery call script |
-| `CONTENT-MARKETING-STRATEGY.md` | LinkedIn-first content strategy (daily posting, 360 Brew, content buckets) |
-| `VIDEO-SCRIPTS.md` | Short-form video scripts for social media |
-| `PARTNERSHIP-PREP.md` | Partnership research and preparation notes |
-| `VIBE-MARKETING.md` | Vibe marketing system — Remotion, Claude Code skills, MCPs, workflow |
+**Subfolders:**
+- `loom-scripts/` — Active Loom outreach artifacts (mystery shop batch, quick-send checklist, reply playbook)
+- `leads/` — Lead tracking CSVs (`master-leads.csv` is the source of truth)
+- `prospects/` — Prospect lists across 4 tiers (see `prospects/README.md` for the tier model)
+- `content-strategy/` — LinkedIn content strategy, repurposing engine, video scripts, distribution strategy, template library launch
+- `content/` — Weekly content output (dated folders per week)
+- `parked/` — Future-feature strategy memos NOT currently being built (voice agent, mobile app). See `parked/README.md` for un-park criteria
 
 ## Key Context
 
