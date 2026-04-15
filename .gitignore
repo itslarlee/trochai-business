@@ -19,3 +19,6 @@ node_modules/
 # Environment
 .env
 .env.*
+
+# Research scratch (HTML dumps from subagent tech-stack audits)
+*.html
