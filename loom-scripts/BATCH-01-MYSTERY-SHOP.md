@@ -57,6 +57,8 @@ Most CR agencies use **theme-native CRMs** baked into WordPress real-estate them
 - Plone + Propertyshelf MLS: Propiedades Leitón
 - Fully hand-coded / brochure / stale: **Escazú Properties (custom PHP)**, **CIV (WP brochure)**, **Mango Realty (Squarespace native)**, **RE/MAX Ocean Surf (Drupal 7 + Pure Chat widget that was discontinued in 2023)**, **Results Realty (unknown)**
 
+**Zoho CRM: explicitly verified clean across all 21.** Zero agencies use Zoho, Zoho SalesIQ, Zoho Forms, or Zoho Bookings. Despite Zoho's popularity in LATAM, the CR real-estate vertical appears to skip it entirely — the stack is WordPress-native-CRM or HubSpot-or-nothing.
+
 **This splits the Loom pitch into two shapes:**
 
 **Shape A — Agencies WITH an external CRM (HubSpot / Propertybase / EasyBroker / Espacio Futuro):**
