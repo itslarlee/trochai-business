@@ -10,7 +10,7 @@
 
 Soy costarricense.
 
-Crecí escuchando que éramos la "Silicon Valley de Centroamérica." Que exportábamos ingenieros a las mejores empresas del mundo. Que Intel, Microsoft, y HP abrían operaciones aquí porque éramos distintos.
+Costa Rica ha sido conocida como la "Silicon Valley de Centroamérica." Por exportar ingenieros a las mejores empresas del mundo. Por ser donde Intel, Microsoft, y HP abrieron operaciones porque éramos distintos.
 
 Todo eso sigue siendo cierto. 16 de las 100 top tech companies globales operan en Costa Rica. Exportamos el doble de servicios que el promedio OECD. La infraestructura existe.
 
@@ -62,7 +62,7 @@ Fuentes:
   "slides": [
     {
       "number": "🇨🇷 CR",
-      "headline": "Crecimos como la Silicon Valley de Centroamérica",
+      "headline": "La Silicon Valley de Centroamérica",
       "body": "16 de las 100 top tech companies globales operan aquí. Exportamos el doble de servicios que el promedio OECD. #42 global en Network Readiness Index — el mejor de la comparación.",
       "accentColor": "#20A06F"
     },
