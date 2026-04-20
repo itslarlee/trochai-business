@@ -18,7 +18,7 @@ Pero esta semana estuve mirando los datos de PropTech en la región, y algo me l
 
 → En 🇲🇽 México, Habi se convirtió en el primer PropTech unicornio de habla hispana. Pulppo automatiza el 75% del trabajo operativo del corredor con WhatsApp + IA. Felicitaciones al ecosistema mexicano por lo que han construido.
 
-→ En 🇵🇦 Panamá, Acobir MLS consolida 400+ agencias bajo un solo sistema desde hace años. Un referente institucional que admiro.
+→ En 🇵🇦 Panamá, Acobir MLS consolida 400+ agencias bajo un solo sistema desde hace años. Un referente institucional admirable.
 
 → En 🇸🇻 El Salvador, aprobaron la primera ley de IA de Latinoamérica en febrero. Y Propi, PropTech local respaldada por Second Century Ventures (NAR), acaba de anunciar expansión regional con Costa Rica en su roadmap. Felicitaciones enormes al equipo y al país.
 
