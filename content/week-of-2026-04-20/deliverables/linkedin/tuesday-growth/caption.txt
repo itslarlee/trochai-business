@@ -1,30 +1,28 @@
-Propi, una PropTech salvadoreña, acaba de levantar $4.2 millones.
+Felicitaciones a nuestros amigos de El Salvador: Propi, una PropTech salvadoreña, acaba de levantar $4.2 millones.
 
-Su plan de expansión — textual — incluye: Honduras, República Dominicana, y Costa Rica.
+Su plan de expansión oficial incluye Honduras, República Dominicana y Costa Rica.
 
-Léalo otra vez. Una PropTech salvadoreña con planes concretos de operar en Costa Rica.
+Es impresionante lo que El Salvador ha logrado en los últimos años — y una señal importante para todos en la región.
 
-Hace diez años esto hubiera sido impensable. Costa Rica era "la Silicon Valley de Centroamérica" y El Salvador no entraba ni en la conversación PropTech.
-
-¿Qué cambió?
+Algunos hitos que explican el momento:
 
 → El Salvador aprobó la primera ley de IA de Latinoamérica (febrero 2025)
 → San Salvador subió +520% en el Global Startup Ecosystem Index 2025 — el salto más grande de cualquier ciudad del mundo
-→ Google abrió oficina allá con compromiso de ~$500M en siete años para digitalizar el gobierno (abril 2024)
-→ El Salvador se convirtió en el primer país del mundo con despliegue soberano de chips NVIDIA B300 para IA (junio 2025)
+→ Google abrió oficina allá con compromiso de aprox. $500M en siete años para digitalizar el gobierno (abril 2024)
+→ El Salvador se convirtió en el primer país con despliegue soberano de chips NVIDIA B300 (junio 2025)
 → Propi levantó su primer $4.2M con Second Century Ventures — el fondo de la Asociación Nacional de Realtors de EE.UU.
 
-Mientras nosotros discutimos si las agencias deberían usar WhatsApp Business o un CRM, un competidor regional de otro país ya nos tiene en su roadmap oficial.
+¿Qué significa esto para Costa Rica?
 
-Esto no es para alarmar. Es para despertar.
+Es una invitación a mantener el liderazgo regional que hemos tenido durante décadas. Costa Rica sigue siendo un país fuerte en tecnología — 16 de las 100 top tech companies globales operan aquí, y exportamos el doble de servicios que el promedio OECD. La infraestructura existe.
 
-Costa Rica sigue siendo un país fuerte en tecnología — 16 de las 100 top tech companies globales operan aquí. Pero esa fuerza está en ICT services exportando hacia afuera. Nuestro propio sector inmobiliario sigue operando con herramientas de 2015 mientras la región construye las de 2026.
+El siguiente paso natural es aplicar esa misma infraestructura a nuestro propio sector inmobiliario, antes de que la región lo haga por nosotros.
 
-La pregunta no es si Propi va a entrar. Es si vamos a estar listos — o si nos va a encontrar usando todavía WhatsApp personal y Excel.
+No es una competencia. Es una oportunidad de nivelar todos hacia arriba.
 
 Fuentes:
-- bloomberglinea.com/latinoamerica/el-salvador/la-salvadorena-propi-logra-us42-millones-para-expandir-su-plataforma-inmobiliaria-en-la-region/
-- bidlab.org/en/news/el-salvador-strengthens-role-regional-innovation-hub-get-forum-2025-idb-group-support
-- loc.gov/item/global-legal-monitor/2025-03-25/el-salvador-new-law-encourages-development-of-artificial-intelligence/
+- https://www.bloomberglinea.com/latinoamerica/el-salvador/la-salvadorena-propi-logra-us42-millones-para-expandir-su-plataforma-inmobiliaria-en-la-region/
+- https://bidlab.org/en/news/el-salvador-strengthens-role-regional-innovation-hub-get-forum-2025-idb-group-support
+- https://www.loc.gov/item/global-legal-monitor/2025-03-25/el-salvador-new-law-encourages-development-of-artificial-intelligence/
 
 #PropTech #BienesRaíces #CostaRica #ElSalvador #Centroamérica #Trochai #IA

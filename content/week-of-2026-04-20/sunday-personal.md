@@ -12,7 +12,7 @@ Crecí escuchando que éramos la "Silicon Valley de Centroamérica." Que export�
 
 Todo eso sigue siendo cierto. 16 de las 100 top tech companies globales operan en Costa Rica. Exportamos el doble de servicios que el promedio OECD. La infraestructura existe.
 
-Pero esta semana estuve mirando los datos de PropTech en la región, y algo me dejó incómodo.
+Pero esta semana estuve mirando los datos de PropTech en la región, y algo me llamó la atención.
 
 Mientras construíamos la capacidad de exportar tecnología al mundo, dejamos de aplicarla a nuestros propios sectores productivos. El mejor ejemplo es bienes raíces — uno de los pilares de la economía.
 
@@ -36,7 +36,11 @@ Lo que necesitamos es que el sector decida adoptarlo — agencia por agencia —
 
 Un buen domingo para pensar en eso.
 
-Fuentes: quatro.legal, larepublica.net, bloomberglinea.com, networkreadinessindex.org
+Fuentes:
+- https://quatro.legal/estan-los-corredores-y-empresas-de-bienes-raices-bajo-alguna-supervision-gubernamental/
+- https://www.larepublica.net/noticia/la-necesaria-regulacion-de-los-agentes-de-bienes-raices-en-costa-rica
+- https://www.bloomberglinea.com/latinoamerica/el-salvador/la-salvadorena-propi-logra-us42-millones-para-expandir-su-plataforma-inmobiliaria-en-la-region/
+- https://networkreadinessindex.org/country/costa-rica/
 
 #BuildingInPublic #SaaS #PropTech #CostaRica #Centroamérica #FounderJourney #Trochai
 

@@ -1,4 +1,4 @@
-# Trochai Insights Sem. 17 — Gentrificación en Guanacaste, fraude IA de $275M y tasas EE.UU. en mínimo
+# Trochai Insights Sem. 17 — 2,400 Airbnb mapeados en Guanacaste, fraude IA de $275M y tasas EE.UU. en mínimo
 
 > Publicar como LinkedIn Newsletter ("Trochai Insights"). El blog equivalente está en trochai.com/es/blog/trochai-insights-2026-s17.
 
@@ -8,7 +8,7 @@ Noticias del sector inmobiliario, impulsado por IA. Semana del 14 al 20 de abril
 
 ## TL;DR (lo esencial en 60 segundos)
 
-- 🇨🇷 UNA detecta aprox. 2,400 unidades Airbnb en El Coco, Nosara y Tamarindo — gentrificación por enclaves, no por compra-remodelación.
+- 🇨🇷 UNA publica mapa de aprox. 2,400 unidades Airbnb en El Coco, Nosara y Tamarindo — primera medición académica del inventario turístico en esas tres playas.
 - 📉 Tasa hipotecaria a 30 años en EE.UU. cae a 6.30% (mínimo de 4 semanas) mientras ventas de marzo caen 3.6%.
 - 🤖 FBI reporta $275M perdidos en fraude inmobiliario online en 2025 — IA generativa acelera estafas de wire fraud.
 
@@ -16,16 +16,16 @@ Noticias del sector inmobiliario, impulsado por IA. Semana del 14 al 20 de abril
 
 ## 🇨🇷 Tai — Costa Rica
 
-### 1. 🏖️ Gentrificación reconfigura Guanacaste: UNA detecta aprox. 2,400 unidades Airbnb en tres playas
+### 1. 🏖️ UNA publica mapa de aprox. 2,400 unidades Airbnb en tres playas de Guanacaste
 
-El Observatorio sobre Turismo, Migraciones y Sostenibilidad de la Región Chorotega (Universidad Nacional) publicó un estudio que concluye que la gentrificación en Guanacaste no está ocurriendo al estilo clásico — foráneos comprando y remodelando casas locales — sino vía construcción de nuevos enclaves inmobiliarios cerrados para alquiler de corto plazo. El análisis se centró en tres playas: El Coco (aprox. 800 listados Airbnb), Nosara (aprox. 600) y Tamarindo (aprox. 1,000), sumando aprox. 2,400 unidades. Los autores lo describen como "crecimiento sin integración": desarrollo de lujo físicamente separado de los barrios tradicionales.
+El Observatorio sobre Turismo, Migraciones y Sostenibilidad de la Región Chorotega (Universidad Nacional) publicó un estudio que describe el patrón de desarrollo en Guanacaste como construcción de nuevos enclaves inmobiliarios cerrados para alquiler de corto plazo, más que compra-remodelación de casas locales. El análisis se centró en tres playas: El Coco (aprox. 800 listados Airbnb), Nosara (aprox. 600) y Tamarindo (aprox. 1,000), sumando aprox. 2,400 unidades. Los autores usan el término "crecimiento sin integración" para describir el contraste entre el desarrollo turístico y los barrios tradicionales cercanos.
 
 **Fuentes:**
 - The Tico Times — ticotimes.net/2026/04/18/costa-rica-report-says-gentrification-is-reshaping-guanacaste
 
 **Por qué importa:**
-- El "inventario fantasma" de Airbnb en Guanacaste compite directamente con alquiler tradicional y es canal de liquidez para desarrollos turísticos. Una agencia con inventario costero debe entender que su propiedad no compite solo contra otras listadas — compite contra 2,400+ alternativas de corto plazo.
-- La presión académica y política por regular enclaves y alquileres de corto plazo puede acelerar marcos municipales restrictivos. Agencias que asesoren a inversionistas sobre el riesgo regulatorio tienen ventaja sobre las que solo venden la propiedad.
+- Es la primera medición académica concreta del inventario Airbnb en estas playas. Una agencia con inventario costero opera en un contexto donde su propiedad comparte mercado con 2,400+ unidades de alquiler de corto plazo en esa misma zona — un dato útil para conversaciones con compradores sobre rendimiento potencial.
+- El estudio puede alimentar discusiones municipales sobre marcos de regulación del alquiler de corto plazo. Agencias que entiendan el contexto — tanto la inversión turística como el desarrollo local — pueden asesorar con más profundidad que las que solo cotizan la propiedad.
 
 ### 2. ⚖️ Reglas de escrow ("señal de trato") en la mira: riesgo para compradores extranjeros sin contratos claros
 

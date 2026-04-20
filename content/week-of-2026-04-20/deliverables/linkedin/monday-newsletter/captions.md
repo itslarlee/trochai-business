@@ -4,7 +4,7 @@
 
 Trochai Insights Sem. 17 — lo que pasó esta semana en bienes raíces 🏖️
 
-🏖️ UNA detecta aprox. 2,400 Airbnb en El Coco, Nosara y Tamarindo — gentrificación por enclaves
+🏖️ UNA mapea aprox. 2,400 Airbnb en El Coco, Nosara y Tamarindo — primera medición académica del inventario turístico
 ⚖️ Escrow bajo la lupa: 'señal de trato' puede hacer vinculante un WhatsApp
 💸 BCCR proyecta 6.9% de crecimiento del crédito en 2026 — más compradores locales calificados
 📉 Tasa EE.UU. cae a 6.30% (mínimo de 4 semanas)
@@ -19,11 +19,11 @@ Guarda esto para estar al día 👇
 
 ## LinkedIn
 
-La UNA acaba de contar aprox. 2,400 unidades Airbnb en solo tres playas de Guanacaste. No es un mercado de alquiler — es un inventario paralelo.
+La UNA publicó el primer mapa académico del inventario Airbnb en Guanacaste: aprox. 2,400 unidades en tres playas. Dato útil para cualquier agencia con inventario costero.
 
 Esta semana en Trochai Insights (Sem. 17):
 
-→ Gentrificación en Guanacaste con números: ~800 Airbnb en El Coco, ~600 en Nosara, ~1,000 en Tamarindo. Enclaves de lujo separados de barrios tradicionales.
+→ UNA mapea aprox. 2,400 unidades Airbnb en El Coco (~800), Nosara (~600) y Tamarindo (~1,000). Primera medición académica del inventario turístico en esas tres zonas.
 → Escrow bajo la lupa: la 'señal de trato' puede convertir un WhatsApp informal en acuerdo vinculante. Agencias que trabajan con extranjeros deben documentar todo por escrito.
 → BCCR proyecta 6.9% de crecimiento del crédito privado en 2026, liderado por colones. Más compradores locales calificados en el GAM.
 → Tasa fija 30 años EE.UU. cae a 6.30% (mínimo de 4 semanas) — Freddie Mac PMMS.
@@ -48,6 +48,6 @@ Fuentes:
 
 ## TikTok
 
-2,400 Airbnbs en tres playas. Así se gentrifica Guanacaste en 2026 🏖️ Semana 17 ya en trochai.com 👉
+2,400 Airbnbs en tres playas. El primer mapa académico del inventario turístico en Guanacaste (UNA) 🏖️ Semana 17 en trochai.com 👉
 
 #TrochaiInsights #bienesraicescostarica #guanacaste #airbnb #realestate #costarica

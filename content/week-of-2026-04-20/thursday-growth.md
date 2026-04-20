@@ -6,43 +6,36 @@
 
 ## LinkedIn Post Caption
 
-Opinión impopular: el problema más grande del sector inmobiliario costarricense no es WhatsApp, ni los CRMs, ni la IA.
-
-Es que cualquier persona puede llamarse "corredor de bienes raíces" y operar legalmente.
-
-Sin licencia. Sin registro. Sin seguro. Sin estándares mínimos.
+¿Sabían que en Costa Rica no se requiere licencia para operar como corredor de bienes raíces?
 
 Cita textual de un análisis legal de Quatro Legal:
 "En Costa Rica no hay regulaciones que rijan a los corredores de bienes raíces y no se requiere licencia para operar."
 
-Un estudio del CCCBR (2024) reportado por La República estima que solo **aprox. 32% de las transacciones inmobiliarias** involucran a un agente CCCBR-certificado. El 68% restante pasa por un mercado informal donde:
+Un estudio del CCCBR (2024) reportado por La República estima que solo aprox. 32% de las transacciones inmobiliarias involucran a un agente CCCBR-certificado. El 68% restante incluye tanto operadores informales como profesionales que simplemente no han pasado por la certificación — porque la certificación es voluntaria, no obligatoria.
 
-→ No hay estándar de capacitación
-→ No hay código de ética aplicable
-→ No hay recurso del comprador si algo sale mal
-→ No hay registro tributario requerido
-→ Y el "corredor" puede ser alguien que llegó la semana pasada y decidió imprimir tarjetas
+Esto no es un juicio sobre las personas que operan sin certificación. Muchas hacen trabajo serio y profesional. La pregunta es sobre el sector completo:
 
-Compare eso con los países que hemos estado viendo esta semana:
+→ ¿Debería existir un piso mínimo de capacitación exigido por ley?
+→ ¿Un estándar obligatorio de ética y transparencia?
+→ ¿Un mecanismo de recurso cuando una transacción sale mal?
+→ ¿Una forma clara para que un comprador extranjero distinga entre agencias certificadas y no certificadas?
+
+Compare con los países que hemos estado viendo esta semana:
 
 🇵🇦 Panamá: Acobir MLS con 400+ agencias certificadas bajo un sistema único.
-🇲🇽 México: regulación estatal específica por CDMX y los principales estados.
-🇸🇻 El Salvador: en curso de formalizar tras el boom PropTech.
+🇲🇽 México: regulación estatal específica por CDMX y otros estados.
+🇸🇻 El Salvador: en proceso de formalización tras el boom PropTech.
 
-¿Por qué importa para una agencia seria?
+La certificación del CCCBR ya existe en Costa Rica. El marco está. Falta que sea el estándar esperado, no la excepción.
 
-Porque mientras el sector no tenga piso de calidad, el comprador extranjero no puede distinguir entre una agencia profesional y alguien que se imprimió tarjetas ayer. Y el extranjero, cuando no puede distinguir, no compra — o compra con desconfianza.
+Mientras tanto, las agencias que ya son profesionales — certificadas o no — pueden diferenciarse por la forma en que operan. Historial documentado, respuesta rápida, transparencia en cada compromiso. Eso es algo que cada agencia puede decidir hoy, sin esperar a que la regulación avance.
 
-Ningún CRM del mundo arregla un problema de confianza sectorial.
-
-La buena noticia: CCCBR ya tiene un marco de certificación. Falta que sea el estándar, no la excepción. Y las agencias que ya son profesionales pueden acelerar la diferenciación usando tecnología que el comprador asocie con calidad — WhatsApp Business API con respuesta en menos de 2 minutos, historial centralizado, documentación por escrito de cada compromiso.
-
-Eso no es la solución al problema regulatorio. Pero es lo que cada agencia puede hacer sin esperar a que la regulación llegue.
+¿Qué opinan? ¿Debería Costa Rica profesionalizar la regulación del sector?
 
 Fuentes:
-- quatro.legal/estan-los-corredores-y-empresas-de-bienes-raices-bajo-alguna-supervision-gubernamental/
-- larepublica.net/noticia/la-necesaria-regulacion-de-los-agentes-de-bienes-raices-en-costa-rica
-- mlsacobir.com — MLS Acobir Panamá
+- https://quatro.legal/estan-los-corredores-y-empresas-de-bienes-raices-bajo-alguna-supervision-gubernamental/
+- https://www.larepublica.net/noticia/la-necesaria-regulacion-de-los-agentes-de-bienes-raices-en-costa-rica
+- https://www.mlsacobir.com/
 
 #BienesRaíces #CostaRica #Regulación #PropTech #CCCBR #Trochai
 
@@ -56,10 +49,10 @@ Fuentes:
 ```json
 {
   "stat": "0",
-  "statLine": "licencias requeridas para ser corredor en Costa Rica.",
-  "insight": "Quatro Legal lo confirma textualmente: 'No hay regulaciones que rijan a los corredores de bienes raíces y no se requiere licencia para operar'. Solo aprox. 32% de transacciones usan un agente CCCBR-certificado. Ningún CRM arregla un problema de confianza sectorial — pero las agencias profesionales pueden diferenciarse con la tecnología que usan.",
+  "statLine": "licencias requeridas por ley — ¿qué implica para el sector?",
+  "insight": "Quatro Legal confirma: en Costa Rica no existe regulación que exija licencia para operar como corredor. La certificación del CCCBR existe, pero es voluntaria. No es un juicio sobre las personas — muchos profesionales trabajan sin certificación. Es una pregunta sobre si el sector debería tener un piso de calidad obligatorio.",
   "source": "Quatro Legal + La República (CCCBR 2024)",
-  "topicTag": "HOT TAKE",
-  "accentColor": "#EF4444"
+  "topicTag": "PREGUNTA",
+  "accentColor": "#F59E0B"
 }
 ```

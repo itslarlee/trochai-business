@@ -11,11 +11,9 @@ En febrero de este año, Propi — una PropTech salvadoreña — levantó $4.2 m
 
 Su plan de expansión dice textualmente: Honduras, República Dominicana, y Costa Rica.
 
-No es una especulación. Es un comunicado oficial con fecha. Y es una inversión de capital que viene a operar en nuestro mercado.
+Antes de cualquier análisis: felicitaciones al equipo de Propi y a El Salvador por este logro. Es un hito regional importante — y una señal de que el ecosistema PropTech en Centroamérica está madurando.
 
-Lea la frase otra vez: una PropTech **salvadoreña** tiene planes concretos de operar en Costa Rica.
-
-Hace diez años nadie hubiera imaginado eso. Costa Rica era la "Silicon Valley de Centroamérica." El Salvador era el que se nos miraba por encima del hombro.
+Hace diez años, una PropTech regional con plan de entrar a Costa Rica hubiera sido impensable. Costa Rica era la "Silicon Valley de Centroamérica." No es que hayamos retrocedido — hemos mantenido nuestro liderazgo en ICT services globales. Lo que pasó es que la región aceleró, y ahora vale la pena mirar el panorama completo.
 
 ## Qué cambió en cinco años
 
@@ -47,25 +45,19 @@ No es una opinión — son cifras públicas, fechadas, verificables.
 - **Solo aprox. 32% de las transacciones** involucran a un agente certificado por CCCBR (estudio CCCBR 2024).
 - **El MLS nacional todavía está en fase de "alianza"** entre CCCBR y Propertyshelf (RE.cr). Panamá lleva años con su MLS consolidado.
 
-## Lo que está pasando no es que Costa Rica retrocedió
+## Costa Rica no retrocedió — la región aceleró
 
-Costa Rica no retrocedió. El problema es más sutil — y más serio.
+Es un matiz importante. Costa Rica sigue siendo un país fuerte en tecnología: 16 de las 100 top tech companies globales operan aquí (via CINDE). Exportamos el doble de servicios que el promedio OECD. Tenemos 92.6% de penetración de internet y 91% de WhatsApp. Somos #42 global en Network Readiness Index — el mejor de los países mencionados.
 
-**La región avanzó más rápido.**
-
-Costa Rica sigue siendo un país fuerte en ICT services (16 de las 100 top tech companies globales operan aquí, via CINDE). Exportamos el doble de servicios que el promedio OECD. Tenemos 92.6% de penetración de internet y 91% de WhatsApp.
-
-Pero usamos toda esa infraestructura para exportar servicios tecnológicos al mundo — y nos olvidamos de aplicarla a nuestro propio sector inmobiliario.
-
-Mientras exportamos ingenieros de software a Silicon Valley, las agencias inmobiliarias costarricenses siguen operando con:
+Pero esa infraestructura la hemos aplicado principalmente a exportar servicios tecnológicos al mundo, no a nuestros propios sectores productivos. El sector inmobiliario es un buen ejemplo: muchas agencias costarricenses siguen operando con:
 
 - WhatsApp personal (no Business API)
 - Hojas de Excel para tracking de leads
 - Sin CRM integrado con el canal donde el lead llega
-- Sin asignación automática, sin métricas de tiempo de respuesta, sin auditoría
-- Y sí, **sin licencia regulatoria** — cualquiera puede ser "corredor"
+- Sin asignación automática, sin métricas de tiempo de respuesta
+- Y la certificación de corredor sigue siendo voluntaria, no obligatoria
 
-Ese vacío es exactamente lo que Propi vio cuando anunció su expansión a Costa Rica.
+Esta combinación — infraestructura tecnológica fuerte pero aplicación sectorial pendiente — es exactamente el espacio que una PropTech regional puede ocupar con un producto bien hecho.
 
 ## Por qué importa (más allá del orgullo nacional)
 
@@ -91,15 +83,15 @@ No es una pregunta retórica. Es concreta.
 
 ## En Trochai construimos exactamente eso
 
-No como una cuestión de marca — como una cuestión de sector. Trochai Inbox da a las agencias costarricenses la misma arquitectura que Pulppo da a las mexicanas y Propi a las salvadoreñas: WhatsApp Business API + bot de IA + asignación automática + dashboard de métricas.
+No como una cuestión de marca, sino como una convicción sectorial: Trochai Inbox ofrece a las agencias costarricenses la misma arquitectura que Pulppo da a las mexicanas y Propi a las salvadoreñas — WhatsApp Business API + bot de IA + asignación automática + dashboard de métricas.
 
-Es infraestructura que la región ya tiene. La pregunta es si Costa Rica la adopta por iniciativa propia — o espera a que Propi, o una PropTech mexicana, venga a vendérsela.
+La arquitectura que funciona en la región ya existe en español. La oportunidad para Costa Rica es adoptarla por iniciativa propia, con equipos y agencias locales que entienden el contexto costarricense — y así mantener el liderazgo regional que hemos tenido por décadas.
 
 ## Takeaway
 
-Ser pionero no es un estado permanente. Es una decisión que se toma cada año. Costa Rica lo decidió en los 90 con el tratado de libre comercio y la apuesta por educación e ICT. El Salvador lo está decidiendo hoy con la IA, el gobierno digital y la atracción de capital PropTech. Panamá lo decidió con su MLS consolidado y su hub fintech. México lo decidió con sus unicornios PropTech.
+Ser pionero no es un estado permanente. Es una decisión que se toma cada año. Costa Rica lo decidió en los 90 con el tratado de libre comercio y la apuesta por educación e ICT. El Salvador, Panamá y México lo están decidiendo hoy en sus propios caminos — cada uno con apuestas válidas y respetables. Felicitaciones a todos.
 
-Costa Rica todavía tiene la infraestructura, la gente y la reputación. Lo que falta es que el sector inmobiliario lo decida también.
+Costa Rica todavía tiene la infraestructura, la gente y la reputación. La invitación es a que el sector inmobiliario decida aplicarla — una agencia a la vez — para mantener el liderazgo regional que hemos tenido y construir el siguiente capítulo.
 
 ---
 

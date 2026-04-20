@@ -6,18 +6,16 @@
 
 ## LinkedIn Post Caption
 
-Costa Rica se considera la líder tecnológica de Centroamérica. Y en muchas cosas lo sigue siendo.
+Costa Rica se considera la líder tecnológica de Centroamérica, y en muchas cosas lo sigue siendo (somos #42 global en Network Readiness Index — el mejor de los cuatro países de esta comparación).
 
-Pero en PropTech específicamente — la tecnología aplicada a bienes raíces — los números cuentan otra historia.
+Pero cada país tiene distintas fortalezas, y en PropTech específicamente — la tecnología aplicada a bienes raíces — vale la pena ver el panorama regional completo.
 
-4 países, 4 niveles de adopción (deslice →):
+4 países, 4 caminos distintos (deslice →):
 
-🇲🇽 México: 77 PropTechs. Habi unicornio. Pulppo automatiza 75% del trabajo del corredor.
-🇵🇦 Panamá: MLS consolidado (Acobir, 400+ agencias). 92% adopción pagos digitales.
-🇸🇻 El Salvador: primer país LatAm con ley de IA. PropTech local Propi con $4.2M y plan de entrar a CR.
-🇨🇷 Costa Rica: corredor sin licencia requerida. ~32% de transacciones usa agente certificado. MLS nacional en fase de alianza.
-
-No es que Costa Rica retrocedió. Es que la región avanzó más rápido — mientras nosotros seguimos exportando ingenieros de software a Silicon Valley y olvidándonos de aplicar la misma tecnología a nuestro propio sector.
+🇲🇽 México: 77 PropTechs. Habi, primer unicornio PropTech de habla hispana. Pulppo automatiza el 75% del trabajo operativo del corredor.
+🇵🇦 Panamá: Acobir MLS consolidado (400+ agencias). 92% de adopción de pagos digitales — líder de Centroamérica.
+🇸🇻 El Salvador: primer país de LatAm con ley de IA (feb 2025). Propi, PropTech local, $4.2M y plan de expansión regional. Felicitaciones a nuestros amigos salvadoreños.
+🇨🇷 Costa Rica: infraestructura robusta (92.6% internet, 91% WhatsApp, 16 top tech companies). Oportunidad clara: aplicar esa fuerza a nuestro propio sector inmobiliario.
 
 Somos el país con mejor Network Readiness Index de los cuatro (#42 global vs El Salvador #99). Pero el pilar de "Technology" nos ubica en #67. Tenemos las herramientas. No las estamos aplicando a bienes raíces.
 
@@ -70,9 +68,9 @@ Fuentes:
     },
     {
       "number": "🇨🇷 CR",
-      "headline": "Costa Rica — infraestructura fuerte, aplicación pendiente",
-      "body": "Corredor de bienes raíces no requiere licencia. Solo ~32% de transacciones usa agente CCCBR-certificado (2024). MLS nacional en fase de alianza. NRI #42 global pero pilar Technology #67.",
-      "accentColor": "#EF4444"
+      "headline": "Costa Rica — infraestructura robusta, oportunidad en aplicación",
+      "body": "NRI #42 global — el mejor de la comparación. 92.6% internet, 91% WhatsApp, 16 top tech companies operando aquí. El siguiente paso natural es aplicar esa fuerza al sector inmobiliario local.",
+      "accentColor": "#20A06F"
     },
     {
       "number": "→",

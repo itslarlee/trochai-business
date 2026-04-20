@@ -6,11 +6,11 @@
 
 ## LinkedIn Post Caption
 
-La UNA acaba de contar aprox. 2,400 unidades Airbnb en solo tres playas de Guanacaste. No es un mercado de alquiler — es un inventario paralelo.
+La UNA publicó el primer mapa académico del inventario Airbnb en Guanacaste: aprox. 2,400 unidades en tres playas. Dato útil para cualquier agencia con inventario costero.
 
 Esta semana en Trochai Insights (Sem. 17):
 
-→ 🏖️ Gentrificación en Guanacaste con números: ~800 Airbnb en El Coco, ~600 en Nosara, ~1,000 en Tamarindo. Enclaves de lujo separados de barrios tradicionales (Universidad Nacional).
+→ 🏖️ UNA mapea aprox. 2,400 unidades Airbnb en El Coco (~800), Nosara (~600) y Tamarindo (~1,000). Primera medición académica del inventario turístico en esas tres zonas (Universidad Nacional).
 → ⚖️ Escrow bajo la lupa: la "señal de trato" puede convertir un WhatsApp informal en acuerdo vinculante. Agencias con extranjeros deben documentar todo por escrito.
 → 💸 BCCR proyecta 6.9% de crecimiento del crédito privado en 2026, liderado por colones — más compradores locales calificados entrando al GAM.
 → 📉 Tasa fija 30 años EE.UU. cae a 6.30% — mínimo de 4 semanas (Freddie Mac PMMS).

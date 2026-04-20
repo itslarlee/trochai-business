@@ -1,47 +1,41 @@
-Anatomía de una desventaja: cómo Costa Rica pasó de "Silicon Valley centroamericana" a que una PropTech salvadoreña tenga a nuestro mercado en su roadmap de expansión.
+Cómo cambió el panorama PropTech en Centroamérica en los últimos 10 años.
 
-No es una sola cosa. Es un conjunto de decisiones (y no-decisiones) a lo largo de diez años.
+Costa Rica sigue siendo un país fuerte en tecnología. Pero mientras exportábamos talento ICT al mundo, nuestros vecinos construían PropTech local. Felicitaciones a la región — y una invitación a Costa Rica a aplicar la misma fuerza a nuestro sector inmobiliario.
 
-Línea de tiempo (deslice →):
+No es una sola cosa. Es un conjunto de decisiones regionales a lo largo de una década.
 
-**2016–2019 — El Salvador y Panamá empiezan a moverse.**
+Línea de tiempo regional (deslice →):
+
+**2016–2019 — La región empieza a moverse.**
 - Panamá consolida Acobir MLS bajo una sola plataforma (400+ agencias).
 - México incuba los primeros PropTechs que luego serán Habi, Pulppo, La Haus, Morada Uno.
-- Costa Rica sigue siendo el referente ICT de la región — exportamos software al mundo y eso es suficiente.
 
-**2021 — El Salvador pivota con fuerza.**
-- Aprueba la Ley Bitcoin. El mundo discute si es buena idea, pero el capital empieza a mirar al país.
-- Las propiedades en El Zonte suben 134.8% en cuatro años (de $34/m² a $80/m²).
-
-**2022 — México consolida.**
+**2022 — México da el salto.**
 - Habi se convierte en el primer PropTech unicornio de habla hispana ($1B de valuación, Serie C de $200M).
 - Pulppo empieza a automatizar el 75% de las tareas del corredor con WhatsApp + IA.
-- Costa Rica: el corredor de bienes raíces sigue sin requerir licencia.
 
 **Abril 2024 — Google llega a El Salvador.**
-- Acuerdo de ~$500M en siete años para digitalizar el gobierno. Data center anunciado. Street View en curso.
+- Acuerdo de aprox. $500M en siete años para digitalizar el gobierno. Data center anunciado. Street View en curso.
 
 **Febrero 2025 — El Salvador aprueba la primera ley de IA de Latinoamérica.**
-- Costa Rica no ha aprobado una ley equivalente.
+- Crea la Agencia Nacional de IA (ANIA). Hito regional importante.
 
 **Junio 2025 — El Salvador, primer país con despliegue soberano de chips NVIDIA B300.**
 - Laboratorio Nacional de IA en operación.
-
-**Septiembre 2025 — Costa Rica cae 2 puestos en el Índice Global de Innovación.**
-- Ahora somos #72 globales, #6 en Latinoamérica. Nos superan Chile, Brasil, México, Uruguay, Colombia.
 
 **Diciembre 2025 — El Salvador + xAI de Elon Musk.**
 - Despliegue de Grok en 5,000 escuelas públicas.
 
 **Febrero 2026 — Propi cierra su expansión regional.**
-- $4.2M de Second Century Ventures. Plan textual: Honduras, RD, y Costa Rica.
+- $4.2M de Second Century Ventures. Plan: Honduras, RD, y Costa Rica. Felicitaciones al equipo.
 
 **Marzo 2026 — Habi adquiere Pulppo.**
 - Volumen combinado $1B+ en transacciones 2025. Consolidación PropTech en LatAm acelera.
 
 **Hoy — Abril 2026.**
-- Costa Rica sigue siendo #42 global en Network Readiness Index (mejor que los tres países mencionados).
-- Pero el pilar "Technology" nos ubica en #67 — clara brecha entre potencial y aplicación.
+- Costa Rica sigue siendo #42 global en Network Readiness Index — el mejor de los países mencionados.
+- Infraestructura fuerte: 92.6% internet, 91% WhatsApp, 16 top tech companies operando aquí.
+- La oportunidad clara es aplicar esa fuerza tecnológica a nuestro propio sector inmobiliario.
 
 **Cómo se recupera.**
 - Profesionalizando la regulación (CCCBR como estándar obligatorio, no voluntario).
