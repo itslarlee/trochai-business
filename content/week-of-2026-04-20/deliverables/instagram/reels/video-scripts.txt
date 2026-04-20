@@ -1,0 +1,45 @@
+# W17 Video Scripts Reference (Instagram Reels / TikTok)
+
+Three 9:16 videos (1080x1920, ~23-25s each) aligned with this week's pillar.
+
+## 1. propi-expansion-cr (companion to Tuesday LinkedIn)
+
+Stat: $4.2M
+Hook: "Según Bloomberg Línea, una PropTech salvadoreña levantó cuatro punto dos millones de dólares."
+Payoff: "¿Y sabe cuál es su plan de expansión? Honduras, República Dominicana, y Costa Rica."
+CTA: trochai.com
+
+Render command (once composition is built):
+  npx tsx src/scripts/render-video.ts --id Propi-W17 --quality social
+
+## 2. pulppo-75-automation (companion to Friday LinkedIn)
+
+Stat: 75%
+Hook: "Según Axented y The Real Deal, Pulppo reduce el setenta y cinco por ciento de las tareas operativas del corredor."
+Payoff: "El agente mexicano tiene un bot que responde por WhatsApp. El costarricense todavía trabaja con WhatsApp personal y Excel."
+CTA: trochai.com — 50% off hasta 30/4
+
+Render command:
+  npx tsx src/scripts/render-video.ts --id Pulppo75-W17 --quality social
+
+## 3. zero-licenses-cr (companion to Thursday LinkedIn)
+
+Stat: 0
+Hook: "Según Quatro Legal y La República: en Costa Rica, cero licencias son requeridas para ser corredor de bienes raíces."
+Payoff: "Panamá tiene 400 agencias consolidadas bajo Acobir. México tiene regulación estatal. Costa Rica — nada obligatorio."
+CTA: trochai.com
+
+Render command:
+  npx tsx src/scripts/render-video.ts --id ZeroLicense-W17 --quality social
+
+---
+
+Full scripts with all 5 scenes (Hook → Problem → Scenario → Solution → CTA), voiceover copy, and StatReveal props are in:
+- trochai-business/content/week-of-2026-04-20/video-1.md
+- trochai-business/content/week-of-2026-04-20/video-2.md
+- trochai-business/content/week-of-2026-04-20/video-3.md
+
+Note: Compositions for these three videos are not yet registered in trochai-videos/src/Root.tsx.
+To render, first build the composition files (e.g., copy StatReveal.tsx → Propi-W17.tsx with the props from video-1.md), register in Root.tsx, generate voiceover via ElevenLabs, and render.
+
+Recommended voice: Nathalia (tTQzD8U9VSnJgfwC6HbY), stability 0.2, style 0.8, speed 1.2 (per trochai-videos/CLAUDE.md).

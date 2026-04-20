@@ -1,0 +1,39 @@
+Opinión impopular: el problema más grande del sector inmobiliario costarricense no es WhatsApp, ni los CRMs, ni la IA.
+
+Es que cualquier persona puede llamarse "corredor de bienes raíces" y operar legalmente.
+
+Sin licencia. Sin registro. Sin seguro. Sin estándares mínimos.
+
+Cita textual de un análisis legal de Quatro Legal:
+"En Costa Rica no hay regulaciones que rijan a los corredores de bienes raíces y no se requiere licencia para operar."
+
+Un estudio del CCCBR (2024) reportado por La República estima que solo aprox. 32% de las transacciones inmobiliarias involucran a un agente CCCBR-certificado. El 68% restante pasa por un mercado informal donde:
+
+→ No hay estándar de capacitación
+→ No hay código de ética aplicable
+→ No hay recurso del comprador si algo sale mal
+→ No hay registro tributario requerido
+→ Y el "corredor" puede ser alguien que llegó la semana pasada y decidió imprimir tarjetas
+
+Compare eso con los países que hemos estado viendo esta semana:
+
+🇵🇦 Panamá: Acobir MLS con 400+ agencias certificadas bajo un sistema único.
+🇲🇽 México: regulación estatal específica por CDMX y los principales estados.
+🇸🇻 El Salvador: en curso de formalizar tras el boom PropTech.
+
+¿Por qué importa para una agencia seria?
+
+Porque mientras el sector no tenga piso de calidad, el comprador extranjero no puede distinguir entre una agencia profesional y alguien que se imprimió tarjetas ayer. Y el extranjero, cuando no puede distinguir, no compra — o compra con desconfianza.
+
+Ningún CRM del mundo arregla un problema de confianza sectorial.
+
+La buena noticia: CCCBR ya tiene un marco de certificación. Falta que sea el estándar, no la excepción. Y las agencias que ya son profesionales pueden acelerar la diferenciación usando tecnología que el comprador asocie con calidad — WhatsApp Business API con respuesta en menos de 2 minutos, historial centralizado, documentación por escrito de cada compromiso.
+
+Eso no es la solución al problema regulatorio. Pero es lo que cada agencia puede hacer sin esperar a que la regulación llegue.
+
+Fuentes:
+- quatro.legal/estan-los-corredores-y-empresas-de-bienes-raices-bajo-alguna-supervision-gubernamental/
+- larepublica.net/noticia/la-necesaria-regulacion-de-los-agentes-de-bienes-raices-en-costa-rica
+- mlsacobir.com — MLS Acobir Panamá
+
+#BienesRaíces #CostaRica #Regulación #PropTech #CCCBR #Trochai

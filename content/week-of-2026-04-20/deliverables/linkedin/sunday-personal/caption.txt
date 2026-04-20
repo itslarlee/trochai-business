@@ -1,0 +1,33 @@
+Soy costarricense.
+
+Crecí escuchando que éramos la "Silicon Valley de Centroamérica." Que exportábamos ingenieros a las mejores empresas del mundo. Que Intel, Microsoft, y HP abrían operaciones aquí porque éramos distintos.
+
+Todo eso sigue siendo cierto. 16 de las 100 top tech companies globales operan en Costa Rica. Exportamos el doble de servicios que el promedio OECD. La infraestructura existe.
+
+Pero esta semana estuve mirando los datos de PropTech en la región, y algo me dejó incómodo.
+
+Mientras construíamos la capacidad de exportar tecnología al mundo, dejamos de aplicarla a nuestros propios sectores productivos. El mejor ejemplo es bienes raíces — uno de los pilares de la economía.
+
+En Costa Rica:
+→ El corredor de bienes raíces no requiere licencia (cualquiera puede serlo)
+→ Solo aprox. 32% de transacciones usa un agente certificado
+→ El MLS nacional sigue en fase de alianza institucional
+→ La mayoría de agencias operan con WhatsApp personal + Excel
+
+Al mismo tiempo, en El Salvador se aprobó la primera ley de IA de Latinoamérica. En México, Habi y Pulppo automatizan el 75% del trabajo del corredor. En Panamá, Acobir MLS consolida 400+ agencias en un solo sistema desde hace años.
+
+Y una PropTech salvadoreña acaba de anunciar que Costa Rica está en su roadmap de expansión para 2026.
+
+Lo que me deja pensando no es el orgullo herido. Es la oportunidad perdida. Tenemos la capacidad. Tenemos la gente. Tenemos la infraestructura. Nos falta decidir aplicarla acá.
+
+Por eso construyo Trochai. No como una historia de "vengan a usar mi producto" — sino como una convicción de que el sector inmobiliario costarricense merece la misma arquitectura que el mexicano, panameño y salvadoreño ya tienen.
+
+No necesitamos inventar nada nuevo. La tecnología existe. WhatsApp Business API existe. Los bots con IA existen. Los dashboards de métricas existen.
+
+Lo que necesitamos es que el sector decida adoptarlo — agencia por agencia — antes de que la decisión la tome otro por nosotros.
+
+Un buen domingo para pensar en eso.
+
+Fuentes: quatro.legal, larepublica.net, bloomberglinea.com, networkreadinessindex.org
+
+#BuildingInPublic #SaaS #PropTech #CostaRica #Centroamérica #FounderJourney #Trochai

@@ -1,0 +1,29 @@
+Costa Rica se considera la líder tecnológica de Centroamérica. Y en muchas cosas lo sigue siendo.
+
+Pero en PropTech específicamente — la tecnología aplicada a bienes raíces — los números cuentan otra historia.
+
+4 países, 4 niveles de adopción (deslice →):
+
+🇲🇽 México: 77 PropTechs. Habi unicornio. Pulppo automatiza 75% del trabajo del corredor.
+🇵🇦 Panamá: MLS consolidado (Acobir, 400+ agencias). 92% adopción pagos digitales.
+🇸🇻 El Salvador: primer país LatAm con ley de IA. PropTech local Propi con $4.2M y plan de entrar a CR.
+🇨🇷 Costa Rica: corredor sin licencia requerida. ~32% de transacciones usa agente certificado. MLS nacional en fase de alianza.
+
+No es que Costa Rica retrocedió. Es que la región avanzó más rápido — mientras nosotros seguimos exportando ingenieros de software a Silicon Valley y olvidándonos de aplicar la misma tecnología a nuestro propio sector.
+
+Somos el país con mejor Network Readiness Index de los cuatro (#42 global vs El Salvador #99). Pero el pilar de "Technology" nos ubica en #67. Tenemos las herramientas. No las estamos aplicando a bienes raíces.
+
+La buena noticia: no hay que inventar nada nuevo. La arquitectura que usan las agencias mexicanas ya existe y ya funciona en español, con WhatsApp, integrada a MLS.
+
+La pregunta es quién la adopta primero — las agencias costarricenses por iniciativa propia, o cuando una PropTech regional entre y se las venda.
+
+Guarde este post si quiere ver el panorama completo. Y si maneja una agencia, es momento de decidir.
+
+Fuentes:
+- bloomberglinea.com — Propi $4.2M expansión
+- networkreadinessindex.org — NRI 2025 (CR, MX, PA, SV)
+- quatro.legal — CR no requiere licencia para corredores
+- mlsacobir.com — Acobir MLS Panamá
+- therealdeal.com/international/2026/03/06/proptech-unicorn-habi-acquires-mexican-startup-pulppo
+
+#PropTech #BienesRaíces #CostaRica #Centroamérica #ElSalvador #Panama #Mexico #LatAm #Trochai
