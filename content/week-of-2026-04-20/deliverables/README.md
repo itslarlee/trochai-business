@@ -4,7 +4,7 @@
 
 The week uses concrete 2025-2026 data (Propi's $4.2M seed + CR expansion plan, San Salvador +520% startup index, Pulppo 75% task reduction, CR's unlicensed corredor reality) to wake the sector up — without bashing CR.
 
-## LinkedIn Daily Schedule
+## Trochai Company Schedule
 
 | Day | Content | Files | Bucket |
 |-----|---------|-------|--------|
@@ -14,7 +14,15 @@ The week uses concrete 2025-2026 data (Propi's $4.2M seed + CR expansion plan, S
 | Thu | 0 licencias requeridas (CR vs región) — hot take infographic | `linkedin/thursday-growth/` | Growth |
 | Fri | Misma arquitectura, contexto costarricense — product carousel (6 slides) | `linkedin/friday-conversion/` | Conversion |
 | Sat | Anatomía de una desventaja — timeline carousel (9 slides) | `linkedin/saturday-authority/` | Authority |
-| Sun | Soy costarricense, quiero que sigamos siendo pioneros — founder reflection | `linkedin/sunday-personal/` | Personal |
+| Sun | **SKIP** — founder content moved to Wed personal account | — | — |
+
+## Leeren Personal Account (same week)
+
+| Day | Content | Files |
+|-----|---------|-------|
+| Wed | "Soy costarricense. Esto me llamó la atención." — founder carousel (7 slides) | `linkedin-personal/wednesday-founder/` |
+
+Posts from Leeren's personal LinkedIn on Wednesday, SAME day as the Trochai company "4 países" carousel. Two accounts reinforce the same pillar message from different angles.
 
 ## Instagram (cross-post 3)
 

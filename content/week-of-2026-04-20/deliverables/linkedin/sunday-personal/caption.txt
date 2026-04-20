@@ -18,15 +18,13 @@ Al mismo tiempo, en El Salvador se aprobó la primera ley de IA de Latinoaméric
 
 Y una PropTech salvadoreña acaba de anunciar que Costa Rica está en su roadmap de expansión para 2026.
 
-Lo que me deja pensando no es el orgullo herido. Es la oportunidad perdida. Tenemos la capacidad. Tenemos la gente. Tenemos la infraestructura. Nos falta decidir aplicarla acá.
-
-Por eso construyo Trochai. No como una historia de "vengan a usar mi producto" — sino como una convicción de que el sector inmobiliario costarricense merece la misma arquitectura que el mexicano, panameño y salvadoreño ya tienen.
+Lo que me deja pensando es la oportunidad perdida. Tenemos la capacidad. Tenemos la gente. Tenemos la infraestructura. Nos falta decidir aplicarla acá.
 
 No necesitamos inventar nada nuevo. La tecnología existe. WhatsApp Business API existe. Los bots con IA existen. Los dashboards de métricas existen.
 
 Lo que necesitamos es que el sector decida adoptarlo — agencia por agencia — antes de que la decisión la tome otro por nosotros.
 
-Un buen domingo para pensar en eso.
+Un buen día para pensar en eso.
 
 Fuentes:
 - https://quatro.legal/estan-los-corredores-y-empresas-de-bienes-raices-bajo-alguna-supervision-gubernamental/

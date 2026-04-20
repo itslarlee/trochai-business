@@ -19,9 +19,16 @@ El Salvador, Panamá y México avanzaron en PropTech mientras Costa Rica manten�
 
 ## Wednesday — April 22
 
-- [ ] **LinkedIn Post:** "4 países, 4 niveles de PropTech" carousel → `wednesday-authority.md`
+### Trochai company account
+- [ ] **LinkedIn Post (Trochai):** "4 países, 4 niveles de PropTech" carousel → `wednesday-authority.md`
 - [ ] Visual: `Pillar-Regional-W17-*` (7 slides)
 - [ ] **Instagram:** Cross-post carousel (same slides)
+
+### Leeren personal account (SAME day, complementary)
+- [ ] **LinkedIn Post (Leeren):** "Soy costarricense. Esto me llamó la atención." carousel → `wednesday-personal-leeren.md`
+- [ ] Visual: `Pillar-Personal-Leeren-W17-*` (7 slides) — in `deliverables/linkedin-personal/wednesday-founder/`
+- [ ] Post from Leeren's personal LinkedIn (not Trochai company page)
+- [ ] Open with the question in CTA to invite discussion
 
 ## Thursday — April 23
 
@@ -41,8 +48,8 @@ El Salvador, Panamá y México avanzaron en PropTech mientras Costa Rica manten�
 
 ## Sunday — April 26
 
-- [ ] **LinkedIn Post:** "Soy costarricense. Quiero que sigamos siendo pioneros." founder reflection → `sunday-personal.md`
-- [ ] Visual: `LI-Card-Founder-W17` (single PNG)
+- [ ] **SKIP this week.** The founder content moved to Wednesday (Leeren's personal account).
+- `sunday-personal.md` + `deliverables/linkedin/sunday-personal/` kept in-repo as reference for a future Sunday, not used this week.
 
 ## Daily
 
