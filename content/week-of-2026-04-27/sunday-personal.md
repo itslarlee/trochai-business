@@ -6,50 +6,44 @@
 
 ## LinkedIn Post Caption
 
-Cuando empezamos a construir Trochai, asumí que el problema era que las agencias necesitaban "un mejor inbox."
+Cuando empezamos a construir Trochai, asumí que las agencias necesitaban "un mejor inbox."
 
-Hablando con agentes reales — no solo con dueños de agencia, sino con los agentes que cierran las ventas día a día — me di cuenta de algo más simple.
+Hablando con agentes reales — los que cierran ventas día a día — me di cuenta de algo más simple.
 
 Los agentes no quieren soltar su WhatsApp Business app por razones muy concretas:
 
-→ **Hacen llamadas de voz y video desde la app.** Cuando un cliente expat quiere ver una propiedad, suelen agarrar el celular y hacerle una videollamada. Eso lo hacen desde su WhatsApp, en su celular. No desde una pestaña en la computadora.
+→ **Hacen llamadas de voz y video desde la app.** Cuando un cliente expat quiere ver una propiedad, agarran el celular y le hacen una videollamada. Eso no se hace desde una pestaña en la computadora.
 
-→ **Tienen grupos.** Grupos con clientes, con familias enteras decidiendo una compra, con el equipo interno de la agencia, con desarrolladores. Esos grupos viven en la app. No los van a perder.
+→ **Tienen grupos.** Con clientes, familias enteras decidiendo una compra, el equipo interno, desarrolladores. Esos grupos viven en la app.
 
-→ **Es más fácil.** Es el celular en su mano. Lo abren, responden, mandan un audio mientras manejan, mandan una foto desde la propiedad que están visitando. La fricción de abrir una computadora, loguearse a una plataforma, navegar a un inbox — esa fricción es real. Y suma cada vez que pasa.
+→ **Es más fácil.** El celular en la mano. Mandan un audio mientras manejan, una foto desde la propiedad que están visitando. La fricción de abrir una computadora y navegar a un inbox es real, y suma cada vez.
 
-Cuando le pides a un agente que migre a un inbox web, no le estás pidiendo que aprenda una herramienta. Le estás pidiendo que renuncie a llamadas, a grupos, y a la velocidad de su celular.
+Pedirle a un agente que migre a un inbox web no es pedirle que aprenda una herramienta. Es pedirle que renuncie a llamadas, grupos y la velocidad del celular.
 
-Por eso muchas migraciones fracasan. No es resistencia al cambio en abstracto. Es un cálculo concreto: lo que pierden es más grande que lo que ganan.
+Por eso muchas migraciones fracasan. No es resistencia al cambio en abstracto — es un cálculo concreto: lo que pierden es más grande que lo que ganan.
 
 —
 
 Eso fue lo que cambió la dirección del producto.
 
-Coexistence — la arquitectura que estamos lanzando como add-on en aprox. 30 días — opera el mismo número en dos interfaces a la vez:
+Coexistence — la arquitectura que estamos lanzando en aprox. 30 días — opera el mismo número en dos interfaces a la vez:
 
-→ El agente mantiene **su WhatsApp Business app intacta** en el celular. **Las llamadas siguen funcionando ahí. Los grupos siguen funcionando ahí. La velocidad del celular sigue siendo la misma.**
-→ La agencia gana **el inbox Trochai centralizado** con métricas, asignación, AI fuera de horario, plantillas aprobadas, búsqueda — todo sobre las conversaciones 1:1 con clientes.
+→ El agente mantiene **su WhatsApp Business app intacta**. Llamadas, grupos y velocidad del celular siguen ahí.
+→ La agencia gana **el inbox Trochai centralizado** con métricas, asignación, AI fuera de horario y plantillas — sobre las conversaciones 1:1.
 
-No es un compromiso. Es una división honesta de roles: la app maneja lo que la app maneja mejor (llamadas, grupos, flujo del celular), y la plataforma maneja lo que la plataforma maneja mejor (centralización, métricas, AI). Ninguno de los dos pierde lo suyo.
+No es un compromiso. Es una división honesta de roles: la app maneja lo que la app maneja mejor; la plataforma maneja lo que la plataforma maneja mejor. Ninguno pierde lo suyo.
 
 Y aquí hay algo que probablemente seguirá siendo cierto a largo plazo:
 
-Aunque algún día Trochai tenga su propia app móvil — y quizás la tendrá — **las llamadas de voz y video van a seguir siendo de la WhatsApp Business app del agente**. Una llamada por WhatsApp solo funciona desde el ecosistema WhatsApp. Ningún tercero — ni Trochai, ni nadie — puede llamar a un cliente "como si fuera WhatsApp" desde fuera de WhatsApp. Esa parte del flujo va a vivir en la app del agente para siempre.
+Aunque algún día Trochai tenga su propia app móvil, las llamadas de voz y video van a seguir siendo de la WhatsApp Business app. Una llamada por WhatsApp solo funciona desde el ecosistema WhatsApp — ningún tercero puede llamar a un cliente "como si fuera WhatsApp" desde fuera. Esa parte vive en la app del agente para siempre.
 
-Coexistence no es un puente temporal. Es la arquitectura final.
+**Coexistence no es un puente temporal. Es la arquitectura final.**
 
-Esa fue la lección que me llevé del primer trimestre. La tomé tarde, pero a tiempo.
-
-Trochai es Meta Tech Provider — vamos directo al Cloud API de Meta, sin BSPs intermedios, lo que nos permite ofrecer coexistence con la operación más simple posible y con margen para mantenerlo accesible.
+Trochai es Meta Tech Provider — vamos directo al Cloud API de Meta, sin BSPs intermedios. Eso nos permite ofrecer coexistence con operación simple y mantenerlo accesible.
 
 Si maneja una agencia y le interesa coexistence cuando lance, la lista de espera está en trochai.com. Sin presión.
 
 Buen domingo.
-
-Fuentes:
-- https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/onboarding-business-app-users/
-- Trochai — conversaciones con agentes inmobiliarios CR
 
 #BuildingInPublic #SaaS #Coexistence #PropTech #CostaRica #FounderJourney #Trochai
 
