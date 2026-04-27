@@ -1,0 +1,11 @@
+Sunday founder note (full piece on Trochai's company page in Spanish).
+
+When we started building Trochai, I assumed real estate agencies wanted to replace WhatsApp Business with a centralized web inbox. Q1 discovery calls said otherwise.
+
+What agents actually don't want to give up: voice and video calls with clients, group chats with families/developers, and the phone-in-hand speed. Migrating to a web inbox asks them to renounce all of that — the math doesn't work for them.
+
+So we're shipping coexistence next month: same number, two interfaces. The agent's WhatsApp Business app stays intact (calls, groups, speed). The agency gains the centralized inbox with metrics and AI for 1:1 conversations. And likely permanently — because no third party can WhatsApp-call a customer from outside WhatsApp.
+
+A month delay we hadn't planned. But the right call.
+
+Spanish version on the company page ↓

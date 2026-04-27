@@ -1,0 +1,23 @@
+3 Reels scripts (specs only — Remotion compositions NOT yet built):
+
+1. coexistence-explainer-w18 (28s) — Explainer general de coexistence en 5 escenas. Cover Mié 29 abr o cualquier día. Script completo: ../../../video-1.md
+2. pov-vendedor-coexistence-w18 (22s) — POV vendedor que NO tuvo que cambiar de app. Cover Mar 28 abr. Script: ../../../video-2.md
+3. bot-noche-w18 (26s) — El bot respondió a las 11pm, el vendedor lo vio a las 8am. Cover Vie 1 may. Script: ../../../video-3.md
+
+## Para rendir (cuando el usuario lo solicite)
+
+Cada video requiere:
+1. TSX nuevo en `trochai-videos/src/compositions/` siguiendo el patrón de StatReveal78/97/etc.
+2. Voiceover ElevenLabs (Nathalia voice, stability 0.2, style 0.8) — ver `trochai-videos/CLAUDE.md`
+3. Captions auto-generated del audio
+4. Render: `npx tsx scripts/render-video.ts --id <CompositionId> --quality hq`
+
+## Format
+
+- 1080x1920 (9:16) Reels/TikTok
+- 30 fps
+- 22-28s duración total
+- Estructura: Hook → Problem → Scenario → Solution → CTA
+- Voiceover en español (ustedeo, voseo solo para POV #2)
+- "Con Trochai" en escena solución obligatorio (regla brand)
+- "menos de 2 minutos" para tiempo de respuesta del bot (NO "instant" ni "5 segundos")

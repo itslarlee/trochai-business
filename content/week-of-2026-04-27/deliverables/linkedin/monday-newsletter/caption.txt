@@ -1,0 +1,27 @@
+719 cuartos de hotel nuevos en Guanacaste en 18 meses. Y la barrera técnica que mantenía a muchas agencias fuera de la IA conversacional acaba de caer.
+
+Esta semana en Trochai Insights (Sem. 18):
+
+→ 🏨 ICT confirma 17 proyectos hoteleros con 1,493 cuartos en pipeline 2026–2027. Guanacaste captura 6 proyectos y 719 cuartos (48% del total). JW Marriott Costa Elena (415) y AC Marriott Liberia (140) lideran.
+→ 🌳 La verdadera selva de CR es la burocracia: caso de residencia rechazada por reedición de acta de nacimiento ilustra plazos de 18–36 meses. Agencias que acompañan al cliente más allá de las llaves diferencian su valor.
+→ 💸 BANHVI activa bono de vivienda clase media para hogares con ingresos entre ₡485k y ₡1.94M. Banco Nacional financia hasta $300k a 360 meses. Vale re-cualificar leads "perdidos" del 2025.
+→ 📉 Tasa fija 30 años EE.UU. cae a 6.23% — mínimo de las últimas tres temporadas de primavera. 58 puntos básicos por debajo del año pasado. Ventana abierta para expatriados.
+→ 🏖️ Boom turístico CR continúa: 5 países (EE.UU., Canadá, México, Colombia, Alemania) impulsan +10% interanual. Felicitaciones a nuestros amigos de México y Colombia — la región sube unida.
+→ 🤝 WhatsApp Coexistence ya es estándar global: app de WhatsApp Business + Cloud API en el mismo número, con sync en tiempo real e import de 6 meses de historial.
+
+El próximo mes lanzamos Coexistence en Trochai: su WhatsApp Business y la plataforma Trochai en el mismo número, sin que sus vendedores cambien de app.
+
+Fuentes:
+- https://ticotimes.net/2026/04/24/costa-rica-to-add-nearly-1500-hotel-rooms-in-major-tourism-expansion
+- https://www.nacion.com/economia/donde-se-concentra-la-mayoria-de-la-inversion/Q2GS6CXHG5EQ5L23QECVQA5OCI/story/
+- https://ticotimes.net/2026/04/23/when-costa-ricas-real-jungle-is-the-bureaucracy
+- https://www.nacion.com/el-pais/bono-de-vivienda-para-clase-media-estos-son-los/FB4ADTVXLFDNPBSX2ZYKNNCKW4/story/
+- https://www.freddiemac.com/pmms
+- https://www.globenewswire.com/news-release/2026/04/23/3280237/0/en/The-30-Year-Fixed-Rate-Mortgage-Declines-Further.html
+- https://www.nacion.com/economia/llegada-de-turistas-a-costa-rica-crece-10-en-2026/6VITSQ5EYVGKROEQC36KR23A6M/story/
+- https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/onboarding-business-app-users/
+- https://www.ycloud.com/blog/whatsapp-business-app-coexistence-meta-update
+
+👉 Lea el newsletter completo: trochai.com/es/blog/trochai-insights-2026-s18
+
+#TrochaiInsights #BienesRaíces #CostaRica #Coexistence #WhatsApp #PropTech
