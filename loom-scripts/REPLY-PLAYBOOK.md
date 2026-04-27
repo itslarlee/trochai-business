@@ -219,29 +219,29 @@ Gracias, todavía en fase de exploración. Le escribo si algo me calza.
 
 ## 📋 Per-agency pre-shop intel cheat sheet
 
-Reference this as replies come in. Sorted by send order tonight.
+Reference this as replies come in. Sorted by send order. **Entries #1, #2, #9, #11 are SKIP/WARM — see `BATCH-01-QUICK-SEND.md` Priority 0.**
 
 | # | Agency | Expected reply behavior | Known tools |
 |---|---|---|---|
-| 1 | **Escazú Properties** | Owner (Manfred) replies personally — small boutique | Custom PHP, no CRM, no chat widget |
-| 2 | **Casa Escazú** | Owner (Ivan) replies personally — solo operator | HubSpot CMS + HubSpot tracking |
-| 3 | **Blue Zone Realty** | Likely Tim or triage agent — 22 agents funnel through his cell | Luxury Presence + Meta Pixel |
+| 1 | **Escazú Properties** | ❌ NOT IN SHOP — dropped (left-on-read from March, same-number risk) | Custom PHP, no CRM, no chat widget |
+| 2 | **Casa Escazú** | 🔥 NOT IN SHOP — warm nudge on 8 Qs (same-number, mid-thread) | HubSpot CMS + HubSpot tracking |
+| 3 | **Blue Zone Realty** | Tim's personal WA (not business account) — ad-hoc reply pattern | Luxury Presence + Meta Pixel |
 | 4 | **Summer Coast Realty** | Office manager Roselind might triage before agent | WordPress + Houzez + Chaty widget (shared WA) |
-| 5 | **GoDutch Realty** | Ivo (founder) replies — active blogger, hands-on | WordPress + Houzez + **Mailchimp** + Meta Pixel |
-| 6 | **Elite Properties CR** | Catherine or Sophie personally (both co-owners on this line) | WordPress 6.0.11 (stale!) + CF7, no CRM |
-| 7 | **Hidden Coast Realty** | Bruno Grenier (agent) since Joost's WA isn't public | WP + Houzez + **Tidio live chat** + Gravity Forms |
+| 5 | **GoDutch Realty** | ⚡ **Business account** — Ivo (founder) but routed via biz profile | WordPress + Houzez + **Mailchimp** + Meta Pixel |
+| 6 | **Elite Properties CR** | ⚠️ Catherine runs Elite Properties + **Elopement CR** (wedding planning) on this ONE number — watch for context-switching in reply | WordPress 6.0.11 (stale!) + CF7, no CRM |
+| 7 | **Hidden Coast Realty** | Bruno Grenier (agent) since Joost's WA isn't public. Shop = timing data only; Loom goes to Joost via LinkedIn, not this number | WP + Houzez + **Tidio live chat** + Gravity Forms |
 | 8 | **Flamingo Beach Realty** | Shared widget — any of the ~12 Engels could reply | WP + AgentImage + **Tidio live chat** + Gravity Forms |
-| 9 | **Domus Verum** | Laura or co-founder Saimir Bardhi | WP + WPResidence + MLSImport + Meta Pixel + Click-to-Chat |
-| 10 | **ABC Real Estate CR** | Jogi or wife Verena — 5-7 agents, "by appointment" office | WP + RealHomes + dsIDX, no CRM |
-| 11 | **Propiedades Leitón** | Rodolfo (this is his Spanish line) | Plone 5 + Propertyshelf MLS |
-| 12 | **Tamarindo Real Estate** | ⚠️ Polished reply expected — sophisticated stack | WP + RealHomes + **HubSpot + Hotjar + Clarity** + dsIDX + iHomefinder |
-| 13 | **Hidden Bay Realty** | Ron replies (his direct line with wa.me) | WP + Houzez, still on Universal Analytics (deprecated) |
-| 14 | **CIV Heredia** | Olman (president) replies personally | WP + Elementor + **Gravity Forms** + GA4 |
+| 9 | **Domus Verum** | 🔥 NOT IN SHOP — warm resume of March thread (same-number, auto-reply pending) | WP + WPResidence + MLSImport + Meta Pixel + Click-to-Chat |
+| 10 | **ABC Real Estate CR** | Personal profile (not biz acct) — likely Jogi's phone | WP + RealHomes + dsIDX, no CRM |
+| 11 | **Propiedades Leitón** | 🔥🔥 NOT IN SHOP — **hottest warm** (Rodolfo agreed to post-Semana-Santa call) | Plone 5 + Propertyshelf MLS |
+| 12 | **Tamarindo Real Estate** | ⚡ **Business account** + most sophisticated stack in batch — expect polished/fast reply | WP + RealHomes + **HubSpot + Hotjar + Clarity** + dsIDX + iHomefinder |
+| 13 | **Hidden Bay Realty** | Not business, no profile pic — Ron's ad-hoc WA | WP + Houzez, still on Universal Analytics (deprecated) |
+| 14 | **CIV Heredia** | Olman (president) replies personally — status = "real estate" but pfp is beach shot | WP + Elementor + **Gravity Forms** + GA4 |
 | 15 | **Mango Realty** | Angela (owner) — casual/personal tone | Squarespace 7.1 native + GTM |
 | 16 | **Results Realty Group** | ⚠️ **INSTANT AUTOREPLY**, then real agent within 24h promise | WP + Elementor + **WPForms** + WA autoreply configured |
 | 17 | **Realty ONE Group** | Jennifer directly (her mobile, not landline) | Next.js + Espacio Futuro (LATAM RE SaaS) |
-| 18 | **Palm Real Estate** | Shared team line — whoever's closest | **EasyBroker CMS/CRM** |
-| 19 | **KRAIN Luxury** | Main funnel line — could be admin or agent triage | Plone + Propertyshelf + **HubSpot** + Luxury Presence (global) |
+| 18 | **Palm Real Estate** | Mari Brenes's personal number | **EasyBroker CMS/CRM** |
+| 19 | **KRAIN Luxury** | 💎 **Sarah Breitlander's personal** (HHI 28-episode veteran — NOT Peter's triage line) | Plone + Propertyshelf + **HubSpot** + Luxury Presence (global) |
 | 20 | **RE/MAX Ocean Surf** | Shared franchise line — 10-agent team | Drupal 7 (EOL!) + dead Pure Chat widget + Mailchimp |
 
 ### Watch-for signals

@@ -59,6 +59,23 @@ Most CR agencies use **theme-native CRMs** baked into WordPress real-estate them
 
 **Zoho CRM: explicitly verified clean across all 21.** Zero agencies use Zoho, Zoho SalesIQ, Zoho Forms, or Zoho Bookings. Despite Zoho's popularity in LATAM, the CR real-estate vertical appears to skip it entirely — the stack is WordPress-native-CRM or HubSpot-or-nothing.
 
+### Insight 7 — Same-number contamination (April 16 recon)
+
+When mapping contact IDs on WhatsApp, 4 of the 20 agencies were revealed to have been previously contacted from this same WhatsApp number (outbound LinkedIn-sourced outreach in March):
+
+| # | Agency | Prior status | Shop? | Handling |
+|---|---|---|---|---|
+| W1 | Escazú Properties (Manfred) | Left on read March 23 | ❌ **NO** | Drop — same-number risk, zero data upside |
+| W2 | Casa Escazú (Ivan) | Asked for 8 Qs in writing, went silent | ❌ **NO** | Warm nudge instead |
+| T4 | Domus Verum (Laura) | Auto-reply template only | ❌ **NO** | Authentic resume as Leeren, not fake buyer |
+| F1 | Propiedades Leitón (Rodolfo) | Said "conversemos después de Semana Santa" — today IS after | ❌ **NO** | 🔥 HOTTEST warm lead — book the call |
+
+**Implication for the batch:** Shop count drops to 16. See `BATCH-01-QUICK-SEND.md` Priority 0 section for the 3 warm follow-up messages drafted for this phase.
+
+**Implication for Loom drafting later:** For the 3 warm agencies (Casa Escazú, Domus Verum, Propiedades Leitón), the Loom is NOT a cold pitch — it's a "thank-you / demo based on what they told us in the warm conversation." Adjust script #02, #04, #11 accordingly when the time comes. Propiedades Leitón may not need a Loom at all if the call books directly.
+
+---
+
 ### Insight 6 — Deep-sweep addendum (inner pages + listing details)
 
 Second research pass on inner pages (`/contact`, `/about`, `/agents`, listing details) turned up tools not visible on homepages. These reshape specific Loom angles:
@@ -96,6 +113,8 @@ Special cases:
 ---
 
 ## 📅 SEND SCHEDULE
+
+**⚠️ STALE — use `BATCH-01-QUICK-SEND.md` instead.** The batch has been consolidated into a single-session format (16 shops + 3 warm follow-ups, ~90 min total) and 4 agencies (W1, W2, T4, F1) have been removed from the shop in favor of warm follow-ups or drops (see Insight 7 above). The tables below are kept only as a reference for per-agency listing anchors and original message templates.
 
 ### Wednesday tonight — 9:00-11:00pm (TONIGHT)
 
@@ -143,19 +162,21 @@ Send these 5 over ~2 hours, don't blast them all at once. Stagger 15-20 min apar
 
 ## 📋 PER-AGENCY CONTEXT FOR LOOM SCRIPTS
 
-### W1. Escazú Properties — Manfred Carvajal
+### W1. Escazú Properties — Manfred Carvajal ❌ DROPPED from shop
+- **Status:** Prior contact March 23 from same WhatsApp number — Manfred left on read. Shopping = same-number risk, zero data upside. DROPPED.
 - Owner: Manfred Carvajal. Son Felipe Carvajal on team (~2-3 person team)
 - WA = owner's personal (+506 8383-2616)
 - Landline: +506 2228-4958
 - **Listing to reference**: $690K Valle del Sol (ID 4114)
-- **Loom pitch angle**: "You personally are the WhatsApp at 11pm"
+- **Loom pitch angle** (if ever revisited via different channel): "You personally are the WhatsApp at 11pm"
 
-### W2. Casa Escazú — Ivan Arias
+### W2. Casa Escazú — Ivan Arias 🔥 WARM FOLLOW-UP (not shop)
+- **Status:** Mid-thread. Ivan auto-replied March 23, then asked Leeren to send the 8 questions in writing. Leeren sent them. Ivan went silent. Nudge message sent in `BATCH-01-QUICK-SEND.md` Priority 0.
 - Owner's FULL NAME: **Ivan Arias** (moved to CR in 2010, founded 2016)
 - WA = Ivan's personal (+506 6351-5054). "Asesores" generic label = likely solo operator
 - 150+ five-star reviews across Google + FB
 - **Listing to reference**: $599K Casa Moderna, Lindora Santa Ana (MLS: WE465)
-- **Loom pitch angle**: "20+ yrs, multi-channel, and still YOU answer every WhatsApp"
+- **Loom pitch angle** (if he answers the Qs → Loom becomes "thank-you + demo"): "Gracias por las respuestas — con eso en mente, le quiero mostrar lo que construimos para [specific pain point Ivan named]..."
 
 ### W3. Blue Zone Realty International — Tim Fenton
 - 22 agents but Tim's cell is the single funnel
@@ -186,15 +207,21 @@ Send these 5 over ~2 hours, don't blast them all at once. Stagger 15-20 min apar
 - Numbers co-equal: +506 8825-5888 (Catherine) + +506 8309-4884 (Sophie)
 - Office hours: "8am-6pm"
 - Email: info@elitepropertiescr.com
+- **💎 CRITICAL April 16 recon on Catherine's number (+506 8825-5888)**: This business account serves **TWO separate companies** — Elite Properties (RE) AND **Elopement Costa Rica** (wedding planning). Catherine runs both on this one line.
 - **Listing to reference**: $499K Piedades Santa Ana contemporary residence
-- **Loom pitch angle**: "Two co-owners both answering WhatsApp AND showing properties"
+- **Loom pitch angle — DUAL BUSINESS WEDGE (use this, strongest hook in batch)**:
+  > *"Catherine, hice mystery shopping a 16 inmobiliarias de Costa Rica anoche y encontré algo muy específico en Elite Properties: este mismo WhatsApp atiende sus leads de bienes raíces Y los de Elopement Costa Rica. Eso no es un problema de volumen — es un problema de context-switching. Cada vez que entra un mensaje, usted tiene que decidir en los primeros 3 segundos: ¿es pregunta de casa o de boda? Trochai es IA que detecta la intención del mensaje y routea sin que usted tenga que decidir cada vez. Le muestro cómo..."*
+- **Backup angle** (if Catherine resists the dual-biz framing): "Two co-owners both answering WhatsApp AND showing properties" — classic split-focus pitch
 
-### T2. Hidden Coast Realty — Joost Hauwert
+### T2. Hidden Coast Realty — Joost Hauwert (owner) / Bruno Grenier (agent)
 - **⚠️ Quirk**: NO main agency WA found. Office landline: +506 2653-0708. Joost's +506 8705-9909 is personal, not public. Only Bruno Grenier's +506 8582-0027 is published as mobile WhatsApp
+- **Decision-maker map**: Bruno = agent (the number you'll shop). Joost = owner (decision maker). **Shopping data comes from Bruno; Loom goes to Joost via LinkedIn or email.**
 - Team: ~6-8 agents (Hans Bakker, Bruno Grenier, Angelica)
 - Office: A11 Plaza Tamarindo
+- **Loom delivery channel**: LinkedIn DM to Joost Hauwert (primary) OR email to `info@hiddencoastrealty.com` / `joost@hiddencoastrealty.com`. Do NOT send Loom to Bruno's WA — wrong target.
 - **Listing to reference**: $659K Villareal 3BR/3.5BA or $469K Pacific Residences condo
-- **Loom pitch angle**: "A Tamarindo buyer has to pick which agent to WhatsApp — most bail"
+- **Loom pitch angle** (tailored for the owner-not-on-public-WA situation):
+  > *"Joost, anoche hice mystery shopping y quise contactar a Hidden Coast como lo haría un comprador — abrí Google, busqué su WhatsApp. El único número público es de Bruno, no el suyo. Un agente contestó en X minutos. Pero usted, el dueño, no sabe que ese mensaje existió. Le muestro cómo Trochai le da visibilidad total sobre cada lead que entra a Hidden Coast, esté Bruno libre o no..."*
 
 ### T3. Flamingo Beach Realty — Melanie Engel
 - NEW number: +506 7087-8150 (different from her CSV)
@@ -204,13 +231,15 @@ Send these 5 over ~2 hours, don't blast them all at once. Stagger 15-20 min apar
 - **Listing to reference**: Casa Chameleon Residences ($750K-$1M+ luxury)
 - **Loom pitch angle**: "Family business, 12 agents, but one WA widget buried on the site"
 
-### T4. Domus Verum — Laura Bogantes
+### T4. Domus Verum — Laura Bogantes 🔥 WARM FOLLOW-UP (not shop)
+- **Status:** Prior contact March 23 — Laura's WA sent an auto-reply template ("¿Te interesa una propiedad para alquiler o venta / anunciar / asesoría?") and Leeren never answered. Resume message sent in `BATCH-01-QUICK-SEND.md` Priority 0 as Leeren-the-developer, not as fake buyer.
 - Co-founder partner: Saimir Bardhi (on team)
 - Heredia-focused, also covers Rohrmoser, Ciudad Colón, Curridabat, Alajuela
 - Multilingual: ES/EN/DE/JA on MLS profile
 - Alt office line: +506 6264-4644
 - **Listing to reference**: $135K Studio iFreses Curridabat OR $2,500/mo Apartamento Francosta Ulloa
-- **Loom pitch angle**: "Small team + 4 languages on site = your WA is working harder than you think"
+- **Loom pitch angle** (post-reply — once Laura engages): "Gracias por retomar, Laura. Usted mencionó [X pain point] — le muestro cómo Trochai lo resuelve... especialmente con los leads multiidioma que es su mercado (ES/EN/DE/JA)"
+- **Backup angle** (if she never replies → try a different channel): "Small team + 4 languages on site = your WA is working harder than you think"
 
 ### T5. ABC Real Estate CR — Jogi Gerner
 - Founded 1999 by Jogi + wife Verena Moshammer. 26+ years
@@ -219,13 +248,18 @@ Send these 5 over ~2 hours, don't blast them all at once. Stagger 15-20 min apar
 - **Listing to reference**: $795K-899K Casa Reina Silvia Tamarindo OR Senderos 9E 5BR ocean view
 - **Loom pitch angle**: "AE network, 26 years — but your WA is the same one-person bottleneck as in 1999"
 
-### F1. Propiedades Leitón — Rodolfo Leitón
-- NEW number: +506 8316-7979 (Rodolfo's ES line — different from CSV)
+### F1. Propiedades Leitón — Rodolfo Leitón 🔥🔥 WARM FOLLOW-UP — HOTTEST LEAD (Loom #11)
+- **Status:** Rodolfo replied to March 23 outreach with *"Conversemos después de Semana Santa. Muchas gracias"*. Semana Santa ended April 5. Today is April 16 — **you are 11 days post and he's expecting to hear from you.**
+- **Approach (decided April 16):** **Loom-first**, not bare call-ask. Full Loom script + accompanying WhatsApp message + reply-scenario playbook all in [`11-rodolfo-leiton.md`](./11-rodolfo-leiton.md). The Loom respects his time (he's clearly busy — that's why he delayed), matches his async communication style, and makes the 15-min call higher-value if he takes it (he comes with context instead of starting cold).
+- **The Loom structure** (3-4 min hard cap): Open + re-anchor March conversation → What I researched about your agency → Specific pain (bilingual split → 11pm lead death) → Show Trochai handling bilingual routing + Propertyshelf MLS search → CTA = 15-min call still on the table
+- **Why this works strategically:** If Loom lands → call is basically booked with pre-context. If Loom doesn't land → call was never going to convert anyway. Self-qualifying move.
+- NEW number: +506 8316-7979 (Rodolfo's ES line — different from CSV — SAME one he already responded from March 23)
 - Language split: Rodolfo = ES, Roxana (+506 8393-7651) = EN
 - Office landline: +506 2249-2605
 - Facebook: Propiedadesleiton. IG: @realty.investment
-- **Listing to reference**: Forum 1 Business Park office rental (Santa Ana)
-- **Loom pitch angle**: "Spanish WA, English WA — but what about the 3rd language? And both of you are showing houses."
+- MLS: Propertyshelf (feeds standard IDX/RETS — Trochai integration is direct)
+- **Listing to reference in Loom demo**: Pull a live $500K 3BR Santa Ana listing from their site before recording (the demo uses "Mary from Miami wants 3BR Santa Ana $500K" as the inbound lead scenario).
+- **If call happens — opening move:** Lead with listening — "Don Rodolfo, antes de profundizar, cuénteme cómo manejan los leads por WhatsApp hoy en día y qué es lo que más frustración les da" — then mirror his pain back before going deeper.
 
 ### F2. Tamarindo Real Estate — Grant McLean
 - ALL 9 agents share +506 8800-6070 as their public WA
@@ -284,13 +318,16 @@ Send these 5 over ~2 hours, don't blast them all at once. Stagger 15-20 min apar
 - **Listing to reference**: Hermosa del Mar 2-1C — 3BR/2.5BA condo, $590K Playa Hermosa (currently Reserved)
 - **Loom pitch angle**: "Shared WA for whole team = no accountability on who replies"
 
-### S4. KRAIN Luxury Real Estate — Peter Breitlander
-- Peter's CR cell: +506 8413-7165. Main line: +506 6148-0406
-- Co-owner: **Sarah Breitlander** — **House Hunters International veteran (28 episodes)** → media angle for opener
+### S4. KRAIN Luxury Real Estate — Sarah Breitlander (primary Loom target)
+- **💎 April 16 recon correction:** +506 6148-0406 is **Sarah Breitlander's personal WhatsApp** — NOT Peter's, NOT a generic triage line. Profile confirms Sarah is who picks up. **Aim the Loom at Sarah, not Peter.**
+- Co-owner Peter's CR cell: +506 8413-7165 (separate — don't confuse)
+- Sarah = **House Hunters International veteran (28 episodes)** → this becomes the Loom's opening hook, not a side detail
 - ~17 agents across 4-5 offices (Tamarindo, Flamingo, Potrero, Avellanas, Playas del Coco)
 - Property management arm: 140+ homes
 - **Listing to reference**: Villa Terraza Lot Tamarindo — $695K ocean view
-- **Loom pitch angle**: "Sarah was on HHI 28 times — you know how important that first 30 seconds is. Your WhatsApp is that first 30 seconds for every inbound lead."
+- **Loom pitch angle — HHI credibility lead (primary)**:
+  > *"Sarah, usted sabe mejor que nadie lo importante que son los primeros 30 segundos con un comprador internacional — lo hizo 28 veces en House Hunters International. Esa primera impresión decide si el comprador sigue viendo o se va con otro. Su WhatsApp es esos 30 segundos, pero con cada prospecto que le escribe a KRAIN — no solo los que aparecen en cámara. Anoche hice mystery shopping a 16 inmobiliarias de CR y medí exactamente cuánto tardan esos primeros 30 segundos. KRAIN tardó X minutos. Le muestro qué pasaría con Trochai..."*
+- **Backup angle** (if HHI reference doesn't land): "17 agents across 5 offices. Each with their own WA. No central view. You're flying blind on your own team's lead flow."
 
 ### S5. RE/MAX Ocean Surf & Sun — Isabelle Emond
 - Co-owner with **Courtney Borquet** (Broker/Owner, new intel)
