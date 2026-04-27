@@ -1,43 +1,35 @@
-Esta semana hablamos del problema (el falso dilema), de la arquitectura (5 pasos, directo con Meta), y del costo de no resolverlo. Hoy toca hablar del producto.
+Esta semana hablamos del problema (el falso dilema), de la arquitectura (5 pasos, directo con Meta) y del costo. Hoy toca producto.
 
-Trochai Coexistence — qué incluye, qué cuesta, qué NO hace. Sin marketing, descripción directa (deslice →):
+Trochai Coexistence — qué incluye, qué cuesta, qué NO hace. Sin marketing (deslice →):
 
 📦 Qué incluye:
-→ Conexión directa al WhatsApp Cloud API de Meta — Trochai es Meta Tech Provider, sin BSPs intermedios.
-→ Onboarding oficial de Meta — el dueño escanea un QR desde la WhatsApp Business app del celular y queda conectado. Sin migrar número, sin re-instalar nada.
-→ Eco bidireccional de mensajes 1:1 entre la WhatsApp Business app del agente y el inbox Trochai.
-→ Importación automática de hasta 6 meses de historial al onboardear.
+→ Conexión directa al Cloud API de Meta — Trochai es Meta Tech Provider, sin BSPs intermedios.
+→ Onboarding oficial de Meta — el dueño escanea un QR desde la WhatsApp Business app y queda conectado. Sin migrar número, sin reinstalar.
+→ Eco bidireccional 1:1 entre la app del agente y el inbox Trochai.
+→ Importación de hasta 6 meses de historial al onboardear.
 → Auto-pausa del bot cuando el humano respondió desde el celular.
-→ Mismo bot de IA, mismas plantillas, misma asignación, mismas métricas que Trochai Inbox estándar.
+→ Mismo bot de IA, plantillas, asignación y métricas que Trochai estándar.
 
 💵 Qué cuesta — incluido en Pro y Enterprise, sin add-on fee:
-→ Coexistence está incluido sin costo adicional en los planes Pro y Enterprise. No cobramos por número.
-→ ¿Por qué? Cuando un proveedor usa un BSP (360dialog, Twilio, Wati), tiene que cobrar por número para cubrir la fee del BSP — eso es estructural. Trochai va directo con Meta como Tech Provider, así que no tenemos esa fee. Y como no la tenemos, no se la pasamos al cliente.
-→ Tarifas de mensajes de Meta (~$0.03–0.08 por conversación, según país) sí se pasan como pass-through (igual que con cualquier proveedor — esas las cobra Meta).
-→ Trochai Inbox estándar (Cloud API directo, sin coexistence) sigue disponible en planes inferiores.
+→ Coexistence está incluido sin costo adicional. No cobramos por número.
+→ ¿Por qué? Un BSP (360dialog, Twilio, Wati) tiene que cobrar por número para cubrir su propio fee — es estructural. Trochai va directo con Meta como Tech Provider, así que no tenemos esa fee y no se la pasamos al cliente.
+→ Tarifas de mensajes de Meta (~$0.03–0.08/conversación) son pass-through, igual que con cualquier proveedor.
 
-🎯 Para quién tiene sentido:
-→ Agencias con 3 o más agentes activos en WhatsApp Business app que no quieren obligar al equipo a cambiar de app.
-→ Equipos que ya manejan el WhatsApp Business app diariamente — versión 2.24.17+.
-→ Agencias con leads expatriados que esperan respuesta fuera de horario CR (necesitan el bot).
+🎯 Para quién:
+→ Agencias con 3 o más agentes activos en WhatsApp Business app que no quieren forzar al equipo a cambiar de app.
+→ Equipos que usan la app diariamente (v2.24.17+).
+→ Agencias con leads expatriados fuera de horario CR.
 
-🚫 Qué NO hace coexistence (sea claro con su equipo):
-→ Llamadas de voz/video: quedan en la app del agente, NO se sincronizan a Trochai. (Esto es bueno — el agente las sigue haciendo desde su celular como siempre.)
-→ Grupos: quedan en la app del agente, los mensajes de grupo NO aparecen en el inbox Trochai. (Limitación oficial de Meta — los grupos siguen en el celular del agente.)
-→ Listas de difusión nuevas: una vez activada coexistence, no se pueden crear listas de difusión nuevas desde la app. Las existentes siguen funcionando.
-→ Dispositivos compañeros: WhatsApp Business app permite hasta 4 dispositivos compañeros (Web móvil, otros teléfonos vinculados) además del celular principal. Al activar coexistence, todos los compañeros se desvinculan y luego solo se pueden re-vincular los compatibles. WhatsApp para Windows y WearOS NO son compatibles con coexistence — esos quedan permanentemente fuera. Mensajes enviados desde dispositivos no compatibles no se sincronizan al inbox.
-→ Insignia azul (OBA): los números coexistence no pueden tener verificación OBA. Alternativa: Meta Verified for Business (suscripción separada).
-→ Límite inicial de mensajes "business-initiated": 250 conversaciones por 24h al arrancar (escalable según calidad de mensajería con Meta).
+🚫 Qué NO hace (sea claro con su equipo):
+→ Llamadas de voz/video: quedan en la app del agente. (Bueno — las sigue haciendo desde el celular como siempre.)
+→ Grupos: en la app, no aparecen en el inbox (limitación oficial de Meta).
+→ Hasta 4 dispositivos compañeros — WhatsApp Web/Mobile sí, Windows y WearOS NO.
+→ Sin insignia OBA (use Meta Verified como alternativa).
+→ Listas de difusión nuevas: no se pueden crear post-activación. Las existentes siguen.
+→ Límite inicial: 250 mensajes business-initiated/24h, escalable.
 
-📅 Cuándo:
-Lanzamiento incluido en Pro y Enterprise — fecha tentativa late May 2026. Lista de espera abre el upgrade temprano y prioridad de onboarding.
+📅 Lanzamiento late May 2026 — incluido en Pro y Enterprise. Lista de espera (prioridad de onboarding): trochai.com
 
-Lista de espera: trochai.com
-
-¿Cuántos agentes tiene en WhatsApp Business hoy? Eso es lo más útil para entender si coexistence le encaja.
-
-Fuentes:
-- https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/onboarding-business-app-users/
-- Trochai — Coexistence Research Findings (Apr 2026)
+¿Cuántos agentes tiene en WhatsApp Business hoy? Eso es lo más útil para saber si coexistence le encaja.
 
 #Coexistence #WhatsApp #BienesRaíces #CostaRica #PropTech #Trochai
