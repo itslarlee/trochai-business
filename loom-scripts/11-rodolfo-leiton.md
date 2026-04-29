@@ -62,13 +62,18 @@ Have this ready — **fill in your actual numbers before recording**, so you're 
 - **Pro tier:** $___/month, adds ___
 - **Enterprise:** custom (for teams >10)
 
-**🎯 Launch discount active until April 30, 2026** (14 days from today):
-- Monthly plan → **50% off first month**
-- Annual plan → **50% off the total bill** (equivalent to 6 months free over the year)
-- Only if subscription starts before April 30. Sell it as opportunity, not pressure.
+**🎯 May 2026 Sites promo active May 1–31** (the Inbox launch discount expired April 30):
+- **Annual Inbox = free Trochai Sites template** (a custom website for the agency, normally $2,500–$9,500+):
+  - Solo ($348/yr) → Agency Editorial template (claimed value $2,500)
+  - **Pro ($1,188/yr) → Editorial OR Maximalist (claimed value $4,500) — strongest pitch, 3.8× value**
+  - Enterprise ($2,988/yr) → any template incl. Cinematic Lite (claimed value $9,500+)
+- **Standalone Sites at 50% off in May** for non-Inbox-annual buyers: agency template entry $1,250
+- Both offers expire May 31. Sell it as opportunity, not pressure. Hard cap: 3 promo redemptions to start.
 
-Don't volunteer pricing in the Loom script itself (except the soft mention in Beat 5). If Rodolfo asks pricing in reply, lead with the discount framing:
-> *"Don Rodolfo, gracias por la pregunta. El plan Solo arranca en [$X/mes] — suficiente para su operación actual. Y ahorita estamos en ventana de lanzamiento, así que si decide arrancar antes del 30 de abril, la primera factura va con 50% de descuento. Para plan anual, ese descuento aplica a todo el año — equivalente a 6 meses gratis. ¿Quiere que le mande los detalles completos por escrito, o prefiere hablarlo en la llamada de 15 minutos?"*
+Full reference: `trochai-business/TROCHAI-SITES-PRICING.md` and `POSITIONING-ONE-LINERS.md` §Sites promo.
+
+Don't volunteer pricing in the Loom script itself (except the soft mention in Beat 5). If Rodolfo asks pricing in reply, lead with the **annual Inbox + free Sites combo** (it's the strongest math):
+> *"Don Rodolfo, gracias por la pregunta. El plan Solo de Trochai Inbox arranca en [$X/mes] — suficiente para su operación actual. Y ahorita en mayo tenemos una promo nueva: si entra con plan anual del Inbox, le incluimos sin costo el sitio web a la medida de Propiedades Leitón — un sitio que normalmente vale entre $2,500 y $4,500, conectado al mismo backend del Inbox. Las propiedades que carga en el Inbox aparecen automáticamente en el sitio — cero doble carga de datos. ¿Quiere que le mande los detalles completos por escrito, o prefiere hablarlo en la llamada de 15 minutos?"*
 
 ---
 
@@ -178,7 +183,7 @@ Don't volunteer pricing in the Loom script itself (except the soft mention in Be
 
 > "Esto era lo que quería mostrarle, don Rodolfo. Para cerrar: las cuatro horas y media que usted tardó en responderme no son su culpa — son el costo de hacer real estate solo, sin la herramienta correcta. Lo bueno es que ese costo tiene solución, y esa solución no le cambia cómo opera: solo le devuelve las noches y los fines de semana.
 >
-> Una cosa más que quiero mencionarle — estamos en la última semana de nuestro descuento de lanzamiento: quien arranca con Trochai antes del 30 de abril tiene **50% de descuento en la primera factura.** En plan mensual, es medio mes al precio normal; en plan anual, es la mitad del total — equivalente a 6 meses gratis sobre el año. Lo menciono no para presionar — solo para que lo tome en cuenta si está considerando darle zoom.
+> Una cosa más que quiero mencionarle — durante mayo tenemos una promo nueva: cuando agarra el plan anual de Trochai Inbox, le incluimos sin costo el sitio web a la medida de Propiedades Leitón. El plan Pro le sale a $1,188 al año, y el sitio que normalmente vale $4,500 le va incluido — diseñado profesional, conectado al mismo Inbox para que las propiedades se actualicen en un solo lugar, listo en dos semanas. Lo menciono no para presionar — solo para que lo tome en cuenta si está considerando darle zoom.
 >
 > Si le hace sentido y quiere ver cómo se integraría a su flujo, agendamos los 15 minutos de llamada que habíamos hablado en marzo — ahora con preguntas específicas. Y si no le calza o prefiere pensarlo, también me avisa sin problema. Muchas gracias don Rodolfo — espero que le sea útil el video."
 

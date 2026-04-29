@@ -58,6 +58,68 @@ Last updated: 2026-04-17
 
 ---
 
+## 📦 Product one-liners — Trochai Sites
+
+### Spanish (ustedeo CR)
+
+**⭐ Primary (for Loom demos, product pages, pitches):**
+> *"Trochai Sites es el sitio web a la medida para su agencia inmobiliaria — diseñado profesional, conectado al mismo backend que Trochai Inbox. Cero doble carga de datos."*
+
+**Short (for website hero, card headlines):**
+> *"Sitios web inmobiliarios — diseñados a la medida, conectados a su Inbox."*
+
+**Benefit-first (for ad copy, email subjects):**
+> *"Una propiedad nueva en su Inbox aparece automáticamente en su sitio web. Cero integración. Cero doble carga."*
+
+**Differentiator (the line nobody else can match — use on the "why us" slide):**
+> *"Trochai Sites es el único sitio web inmobiliario en Costa Rica que comparte la misma base de datos que su Inbox. La IA del bot conoce su catálogo. Las propiedades se actualizan en un solo lugar."*
+
+### English
+
+**⭐ Primary:**
+> *"Trochai Sites is a custom-designed website for your real-estate agency — sharing the same backend as Trochai Inbox. Zero double data entry."*
+
+**Short:**
+> *"Real estate websites — custom-designed, synced to your Inbox."*
+
+**Benefit-first:**
+> *"A new property in your Inbox appears automatically on your website. Zero integration. Zero double entry."*
+
+**Differentiator:**
+> *"Trochai Sites is the only real-estate website in Costa Rica that shares the same database as your Inbox. The bot's AI knows your catalog. Properties update in one place."*
+
+---
+
+## 🎁 Sites promo (May 2026)
+
+Two offers running **May 1–31, 2026**. They do not stack — client picks one. Use these one-liners verbatim in Loom outreach + LinkedIn during May. Full pricing reference: `trochai-business/TROCHAI-SITES-PRICING.md`.
+
+### Offer A — annual Inbox = free Sites template (the default ask)
+
+**Spanish (ustedeo) — Pro tier (the strongest math, 3.8× value):**
+> *"Don/doña [name], le doy una noticia rápida: solo durante mayo, cuando agarra el plan anual de Trochai Inbox — el Pro le sale a $1,188 al año — le incluimos sin costo el sitio web de su agencia, que normalmente vale $4,500. Diseñado a la medida, conectado al Inbox, listo en dos semanas. Le dejé un Loom corto mostrando cómo se vería el de su agencia."*
+
+**English — Pro tier:**
+> *"Quick note for May only — when you go annual on Trochai Inbox, Pro at $1,188/yr, we include your agency website for free. Custom-designed, connected to your Inbox, live in 14 days. Normally $4,500. I recorded a short Loom showing what yours would look like."*
+
+### Offer B — 50% off à-la-carte (for non-Inbox-annual buyers)
+
+**Spanish (ustedeo):**
+> *"Si solo quiere el sitio web por ahora — sin entrar todavía al Inbox — durante mayo está al 50% de descuento. El template de agencia arranca en $1,250 (precio normal $2,500), incluye el dominio personalizado y queda listo para conectarse al backend del Inbox cuando decida activarlo después."*
+
+**English:**
+> *"If you just want the website for now — without committing to Inbox yet — May has a 50% discount. The agency template starts at $1,250 (normal $2,500), with a custom domain and ready to connect to the Inbox backend whenever you activate it later."*
+
+### Tier-mapping cheat sheet for Offer A
+
+| Inbox annual | Annual price | Free template | Claimed value |
+|---|---|---|---|
+| Solo | $348/yr | Agency Editorial | $2,500 |
+| Pro | $1,188/yr | Editorial OR Maximalist | $4,500 |
+| Enterprise | $2,988/yr | Any (incl. Cinematic Lite) | $9,500+ |
+
+---
+
 ## 📊 The three canonical pain-point stats (use verbatim — sources vetted)
 
 These are the bedrock claims that justify Trochai's existence. **Always cite the source** when using them — it's what makes them credible.
@@ -153,7 +215,9 @@ For LinkedIn headline, website hero subtitle, social bio, sign-off lines.
 
 | Channel | Use |
 |---|---|
-| **Website hero (trochai.com)** | Product primary + short tagline as subtitle |
+| **Website hero (trochai.com)** | Company primary + short tagline as subtitle |
+| **Sites product page (trochai.com/sites)** | Sites primary + Sites differentiator + Sites benefit-first |
+| **Sites promo Loom (May 2026)** | Sites promo Offer A primary (Pro tier); Offer B for non-annual prospects |
 | **LinkedIn company bio** | Company primary (Spanish and English) |
 | **LinkedIn personal headline (Leeren)** | *"Founder @ Trochai. Building AI for real estate."* / *"Fundador en Trochai. IA para el sector inmobiliario."* |
 | **Cold Loom intro** | Full opening block (above) |
@@ -171,10 +235,12 @@ For LinkedIn headline, website hero subtitle, social bio, sign-off lines.
 
 1. **Always say "Trochai" (the company) when talking about vision** — e.g., "Trochai is building..."
 2. **Always say "Trochai Inbox" (the product) when describing what you're selling today** — e.g., "Trochai Inbox connects WhatsApp..."
-3. **Never drop source citations on the 3 canonical stats.** NAR + Real Geeks, Coldwell Banker, NAR 2025 — always name them. That's the credibility.
-4. **Never claim "5 second response" or "instant."** The actual bot response is ~1-2 min due to message batching. Use "al instante" / "instantly" / "rápida" / "fast" — never a specific sub-minute number.
-5. **Don't hype "multilingual" without specifics.** Name at least 2 languages (Spanish + English) when mentioning it.
-6. **Update this file when the canonical claims change.** Source updates, product positioning shifts, and new stats all live here first.
+3. **"Trochai Sites" is one product** — always say "Trochai Sites" (not "Trochai's website service" or similar). Same parity as Inbox. The two are sibling products under the Trochai brand.
+4. **The shared-backend hook is the differentiator for Sites** — never sell Sites without mentioning that it shares the same database as the Inbox. *"Cero doble carga de datos"* / *"Zero double data entry"* is the line nobody else can match.
+5. **Never drop source citations on the 3 canonical stats.** NAR + Real Geeks, Coldwell Banker, NAR 2025 — always name them. That's the credibility.
+6. **Never claim "5 second response" or "instant."** The actual bot response is ~1-2 min due to message batching. Use "al instante" / "instantly" / "rápida" / "fast" — never a specific sub-minute number.
+7. **Don't hype "multilingual" without specifics.** Name at least 2 languages (Spanish + English) when mentioning it.
+8. **Update this file when the canonical claims change.** Source updates, product positioning shifts, and new stats all live here first.
 
 ---
 
@@ -182,4 +248,5 @@ For LinkedIn headline, website hero subtitle, social bio, sign-off lines.
 
 - Do we have a verified source year for the 40% Coldwell Banker CR foreign buyers stat? (Currently citing "Coldwell Banker" generically.)
 - Should the vision-forward company one-liner go on the website homepage above the fold, or stay as "Trochai Inbox is..." first and surface the broader Trochai vision on a secondary page?
-- When the next product launches (voice, mobile app, blockchain), update the "when to use" guide to reflect plural products.
+- When the *next* products launch (voice agent, mobile app, blockchain), update the "when to use" guide to reflect a 3+ product portfolio. Inbox + Sites is already plural as of 2026-04-29.
+- Validate the Sites differentiator claim: is Trochai Sites *truly* the only real-estate website in Costa Rica with a shared inbox backend? A quick competitive check would let us drop "creemos que" and just say "es el único."
