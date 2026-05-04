@@ -1,0 +1,11 @@
+Spent the morning reading Microsoft's latest study on Costa Rican SMEs.
+
+53% advancing rapidly in digital transformation. 50% already using AI in daily ops. CR ranks 5th in LATAM for AI readiness.
+
+The exception inside that data — and it's not subtle — is real estate. Most agencies I talk to here still maintain their inventory across five+ disconnected places: an internal MLS, the national portals, their own WordPress site, the WhatsApp catalog, Instagram captions. Editing one property = touching all five. Which means at least one is always wrong.
+
+The wedge isn't "agencies are behind." It's that the architecture asked for the impossible. Five sources of truth = no source of truth.
+
+This week's Trochai Insights newsletter walks through the data + the architectural question I think defines who competes in 2027:
+
+🇪🇸 Spanish original on the Trochai company page → trochai.com/es/blog/trochai-insights-2026-s19

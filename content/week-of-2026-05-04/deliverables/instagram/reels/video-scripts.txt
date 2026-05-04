@@ -1,0 +1,22 @@
+Reels-ready video scripts (1080×1920, 9:16). Render from Remotion compositions when ready.
+
+Video 1 — Sites-Explainer-W19 (~28s)
+  Source: ../../video-1.md
+  Hook: "Cinco lugares. Una sola propiedad."
+  Hashtags: #TrochaiSites #bienesraicescostarica #proptech #IA #costarica
+
+Video 2 — StatReveal-50PctAI-W19 (~22s)
+  Source: ../../video-2.md
+  Hook: "50% de pymes ticas usa IA. Bienes raíces no."
+  Hashtags: #TransformaciónDigital #IA #bienesraicescostarica #proptech #costarica
+
+Video 3 — DiscoveryQuestion-W19 (~24s)
+  Source: ../../video-3.md
+  Hook: "20+ discovery calls. Una sola pregunta."
+  Hashtags: #FounderJourney #BuildingInPublic #proptech #costarica #realestate
+
+Hyperframes hero video — Sites-Five-Places-W19 (cross-platform, hand-crafted)
+  Source: ../../weekly-hero-video.md
+  Production: trochai-videos/hyperframes/WEEKLY-HERO-VIDEO.md
+  Output: ../hero-video/hero-video.mp4 (when produced — Tue morning)
+  Captions: ../hero-video/caption-{linkedin,ig,tiktok}.txt
