@@ -18,8 +18,8 @@
 
 ## Scene 3 — SCENARIO (5s)
 **Visual:** Inventory icon splits into 5 floating cards labeled MLS, portales, sitio, WhatsApp, IG. Each card pulses out of sync. Arrow tries to connect them — fails, snaps back.
-**Text on screen:** "Su inventario vive en 5 lugares. Ninguno se sincroniza."
-**Voiceover:** "El catálogo vive en cinco lugares: MLS, portales, sitio, WhatsApp, Instagram. Ninguno se sincroniza. Sin un único origen de datos, el bot solo da respuestas genéricas."
+**Text on screen:** "Su inventario vive en superficies que no se hablan."
+**Voiceover:** "El catálogo vive distribuido entre el MLS, los portales, el sitio, WhatsApp, Instagram. Ninguna se sincroniza con las demás. Sin un único origen de datos, el bot solo da respuestas genéricas."
 **SFX:** Notification stutter
 
 ## Scene 4 — SOLUTION (5s)
@@ -42,7 +42,7 @@
 {
   "statNumber": "50%",
   "statLine": "de pymes ticas ya usa IA. La excepción que la estadística no nombra: bienes raíces.",
-  "problemLine1": "El catálogo vive en 5 lugares. Sin un único origen, el bot solo da respuestas genéricas — peor que un humano con delay.",
+  "problemLine1": "El catálogo vive distribuido entre superficies que no se hablan. Sin un único origen, el bot solo da respuestas genéricas — peor que un humano con delay.",
   "problemLine2": "El cliente nota la deriva en 8 segundos.",
   "solutionLine": "Con Trochai: un único origen — el Inbox. Todo lo demás lee de ahí.",
   "ctaLine": "Promo mayo — trochai.com/sitios",

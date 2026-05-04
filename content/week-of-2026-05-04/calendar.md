@@ -1,6 +1,6 @@
 # Sem. 19 — Calendario de contenido (4 mayo – 10 mayo, 2026)
 
-**Pillar:** Su inventario vive en cinco lugares. Su cliente lo nota antes que vos.
+**Pillar:** Su inventario vive en lugares que no se hablan. Su cliente lo nota antes que vos.
 **Producto detrás:** Trochai Sites (lanzado 2026-04-29)
 **Promo activa:** Mayo 1–31 — plan anual de Inbox = sitio web gratis (Offer A) | 50% off à-la-carte (Offer B)
 
@@ -42,7 +42,7 @@ Otros días (Mar, Jue, Vie, Sáb): NO repost desde personal. Solo company page e
 
 Brief completo: `weekly-hero-video.md`. Process: `trochai-videos/hyperframes/WEEKLY-HERO-VIDEO.md`.
 
-**Format pick este semana:** vertical 1080×1920 — el visual del "5 lugares" funciona como countdown en pantalla móvil; IG Reels y TikTok son los canales que más necesitan el levante.
+**Format pick este semana:** vertical 1080×1920 — el visual de "varias superficies → 1 Inbox" funciona en pantalla móvil; IG Reels y TikTok son los canales que más necesitan el levante.
 
 ---
 
@@ -53,7 +53,7 @@ Brief completo: `weekly-hero-video.md`. Process: `trochai-videos/hyperframes/WEE
 | Lun | Newsletter carousel (8 slides) | Sí — IG carousel (mismas PNG) |
 | Mar | Hyperframes hero video (vertical) | Sí — IG Reels |
 | Mié | Founder infographic | Opcional — IG carousel single-image |
-| Jue | "5 lugares" carousel | Sí — IG carousel |
+| Jue | "Superficies que no se hablan" carousel | Sí — IG carousel |
 | Vie | Sites mechanism carousel | No (foco LinkedIn — promo conversion) |
 | Sáb | Sites checklist carousel | Sí — IG carousel |
 | Dom | Weekly digest infographic | Opcional — IG single-image |
@@ -76,7 +76,7 @@ Hyperframes hero ships **Tue PM** específicamente para no competir con el growt
 - **Hand-raisers:** comentarios + DMs sobre Trochai Sites o el promo mayo.
 - **Demos agendadas:** atribuibles a contenido de la semana (UTM o ask directo en discovery).
 - **Split Offer A vs. Offer B:** medir cuántos prospects piden "annual Inbox = sitio gratis" vs. "50% off à-la-carte". Indica appetite por bundle vs. punto.
-- **Saves del carousel "5 lugares" (Jue):** señal 360 Brew — predicción de reach de la semana siguiente.
+- **Saves del carousel del jueves ("superficies que no se hablan"):** señal 360 Brew — predicción de reach de la semana siguiente.
 
 ---
 

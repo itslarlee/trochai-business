@@ -1,13 +1,13 @@
 # Video 1: sites-explainer-w19
-**Title:** Su inventario en cinco lugares — y por qué Trochai Sites lo arregla en una sola edición
+**Title:** Su inventario en superficies que no se hablan — y por qué Trochai Sites lo arregla en una sola edición
 **Duration:** aprox. 28s
 **Composition ID:** Sites-Explainer-W19
 **Format:** 1080x1920 (9:16)
 
 ## Scene 1 — HOOK (4s)
 **Visual:** Static of a single phone screen splitting into 5 windows (MLS, portal, sitio, WhatsApp, IG). Each window animates a typing indicator showing the same property being entered.
-**Text on screen:** "Cinco lugares. Una sola propiedad."
-**Voiceover:** "Según Microsoft, el cincuenta por ciento de pymes ticas ya usa IA. Bienes raíces sigue editando cada propiedad en cinco lugares."
+**Text on screen:** "Superficies que no se hablan. Una sola propiedad."
+**Voiceover:** "Según Microsoft, el cincuenta por ciento de pymes ticas ya usa IA. Bienes raíces sigue editando cada propiedad en superficies que no se sincronizan entre sí."
 **SFX:** Riser → impact when the 5 windows split
 
 ## Scene 2 — PROBLEM (6s)
@@ -40,8 +40,8 @@
 
 ```json
 {
-  "statNumber": "5 lugares",
-  "statLine": "donde vive su inventario hoy. Y los 5 nunca están sincronizados.",
+  "statNumber": "Superficies",
+  "statLine": "donde vive su inventario hoy — MLS, portales, sitio, WhatsApp, redes. Ninguna se sincroniza con las demás.",
   "problemLine1": "55 minutos por listing × 50 propiedades × 4 updates/año = 100 horas/año perdidas en doble carga.",
   "problemLine2": "El cliente nota la deriva en 8 segundos.",
   "solutionLine": "Con Trochai Sites: el sitio comparte la base de datos del Inbox. Edita una vez, aparece en todos lados.",

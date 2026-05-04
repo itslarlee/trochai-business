@@ -10,7 +10,7 @@ Five data points crossed my feed this month worth lining up:
 
 Read individually, they're five stories of digital optimism. Read together, something's missing — none of them name real estate. Hospitality yes. Banking yes. Retail yes. Manufacturing yes. But the sector that moves hundreds of millions in CR per year isn't in the picture.
 
-My honest take, open to correction by data: adopting AI isn't the architectural problem. It's a derivative. The architectural question is whether inventory — the catalog, prices, availability — lives in one place or five. Add AI on top of fragmentation and you get generic answers. Add it on top of a single source of truth and modest tools start producing disproportionate results.
+My honest take, open to correction by data: adopting AI isn't the architectural problem. It's a derivative. The architectural question is whether inventory — the catalog, prices, availability — lives in one place or scattered across surfaces that don't talk. Add AI on top of fragmentation and you get generic answers. Add it on top of a single source of truth and modest tools start producing disproportionate results.
 
 The 2026 question isn't "do I need AI?" It's "is my system in shape for AI to add value?" The first one's a feature debate. The second one's architecture.
 

@@ -28,11 +28,11 @@ Mi lectura honesta de los cinco — sujeta a corrección con datos:
 
 → **Adoptar IA no es el problema arquitectónico.** El bot de WhatsApp con IA es un derivado, no la causa. Es el output que se nota; pero detrás, lo que importa, es la fuente que el bot consulta para responder.
 
-→ **La diferencia entre una agencia que captura el upside y una que se queda con suscripciones que nadie usa va a ser estructural.** Si el inventario — el catálogo, los precios, la disponibilidad — vive en cinco lugares desconectados, agregar IA encima da respuestas genéricas: peor que un humano con delay.
+→ **La diferencia entre una agencia que captura el upside y una que se queda con suscripciones que nadie usa va a ser estructural.** Si el inventario — el catálogo, los precios, la disponibilidad — vive distribuido entre superficies que no se hablan entre sí, agregar IA encima da respuestas genéricas: peor que un humano con delay.
 
-→ **El estudio que va a salir y nadie ha medido todavía** es el que mida pymes inmobiliarias en CR específicamente. Cuando salga, mi predicción es que va a tener una sola pregunta útil: *¿el inventario de la agencia tiene una sola fuente de verdad, o cinco?*
+→ **El estudio que va a salir y nadie ha medido todavía** es el que mida pymes inmobiliarias en CR específicamente. Cuando salga, mi predicción es que va a tener una sola pregunta útil: *¿el inventario de la agencia tiene una sola fuente de verdad, o varias?*
 
-→ **Las que respondan "una" van a estar en el siguiente número de la encuesta.** Las que respondan "cinco o más" van a quedarse al margen de la conversación, no por falta de esfuerzo sino porque la matemática de mantener cinco superficies sincronizadas no se resuelve con disciplina.
+→ **Las que respondan "una" van a estar en el siguiente número de la encuesta.** Las que respondan "varias" van a quedarse al margen de la conversación, no por falta de esfuerzo sino porque la matemática de mantener múltiples superficies sincronizadas no se resuelve con disciplina.
 
 —
 

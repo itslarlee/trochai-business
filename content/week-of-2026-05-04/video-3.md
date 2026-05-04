@@ -31,7 +31,7 @@
 
 ## Scene 4 — THE INSIGHT (4s)
 **Visual:** A single "Inbox" hub appears with the question above transforming into "1 fuente, no 5." Three lines extend to "Sitio web," "Bot interno," "App agente."
-**Text on screen:** "1 fuente. No cinco."
+**Text on screen:** "1 fuente. No varias."
 **Voiceover:** "La pregunta arquitectónica del 2026 no es 'necesito IA'. Es 'mi sistema está en condiciones para que IA agregue valor'."
 **SFX:** Glow pulse
 

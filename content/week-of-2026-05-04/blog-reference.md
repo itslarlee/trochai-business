@@ -19,7 +19,7 @@ The MDX is the body of the LinkedIn Newsletter. Cover image used in the LinkedIn
 |---------|---------|--------|
 | 🇨🇷 Tai (Costa Rica) | 1. 53% pymes DT (Microsoft/DPL) — wedge: RE laggards. 2. 50% IA + 62% customer service (Microsoft/La Prensa Libre). 3. PropTech 2026 trends in CR (TCR News) | Microsoft, DPL News, La Prensa Libre, The Costa Rica News |
 | 🌎 Kai (Global/Regional) | 1. CR 5to LATAM AI readiness — ILIA 2025 (Tico Times). 2. AI nears US/Europe but talent lags (Google/Tico Times) | Tico Times, ILIA 2025, Google study |
-| 🤖 Tech & Operación | 1. The "5 lugares" architecture problem (Trochai discovery, Trochai Sites differentiator) | Trochai discovery calls (n=20 agencies), POSITIONING-ONE-LINERS.md |
+| 🤖 Tech & Operación | 1. The "surfaces that don't talk" architecture problem (multi-portal status quo, Trochai Sites differentiator) | Market observation (multi-portal pattern in CR real estate), POSITIONING-ONE-LINERS.md |
 
 ---
 

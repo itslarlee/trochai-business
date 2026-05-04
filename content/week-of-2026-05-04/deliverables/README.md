@@ -1,6 +1,6 @@
 # Week 19 Content — May 4 – May 10, 2026
 
-**Pillar:** Su inventario vive en cinco lugares. Su cliente lo nota antes que vos.
+**Pillar:** Su inventario vive en lugares que no se hablan. Su cliente lo nota antes que vos.
 **Producto detrás:** Trochai Sites (lanzado 2026-04-29)
 **Promo activa:** Mayo 1–31 — plan anual de Inbox = sitio web gratis (Offer A) | 50% off à-la-carte (Offer B)
 
@@ -14,7 +14,7 @@
 | Tue May 5 **AM** | Microsoft AI study brandjack — growth infographic | `linkedin/tuesday-growth/` | Growth | — | `../tuesday-growth.md` |
 | Tue May 5 **PM** | **Hyperframes hero video** (cross-platform) | `hero-video/` | Authority/Hero | — | `hero-video/caption-linkedin.txt` (generated Tue AM) |
 | Wed May 6 | Founder commentary on the month's data (no fabricated stories) | `linkedin/wednesday-personal/` | Personal | ✅ EN (`linkedin/wednesday-personal/personal-repost-en.txt`) | `../wednesday-personal.md` |
-| Thu May 7 | "Los 5 lugares" — hot take carousel | `linkedin/thursday-growth/` | Growth | — | `../thursday-growth.md` |
+| Thu May 7 | "Las superficies que no se hablan" — hot take carousel | `linkedin/thursday-growth/` | Growth | — | `../thursday-growth.md` |
 | Fri May 8 | Sites mechanism + promo — product carousel | `linkedin/friday-conversion/` | Conversion | — | `../friday-conversion.md` |
 | Sat May 9 | "4 preguntas antes de su sitio" — deep-dive carousel | `linkedin/saturday-authority/` | Authority | — | `../saturday-authority.md` |
 | Sun May 10 | Weekly digest — neutral data summary, no sales | `linkedin/sunday-recap/` | Authority/Recap | — | `../sunday-recap.md` |
@@ -35,7 +35,7 @@ The hero video is a standalone asset and does NOT replace the Tue AM growth info
 
 - **Monday carousel** → `instagram/carousel/` (8 slides — same PNGs as Mon LinkedIn). Caption: `instagram/carousel/ig-caption.txt`
 - **Tuesday hero video (PM)** → IG Reels (rendered MP4 from Hyperframes pipeline)
-- **Thursday "5 lugares" carousel** → IG carousel (cross-post when Thu carousel renders — pending)
+- **Thursday "superficies que no se hablan" carousel** → IG carousel (cross-post when Thu carousel renders — pending)
 
 ## Blog
 
@@ -106,7 +106,7 @@ cp trochai-videos/out/linkedin/sun-w19.png \
 | Tue May 5 | 4:00 PM | YouTube Shorts: hero video (long-form caption) |
 | Wed May 6 | 12:00 PM | Founder reflection on Trochai company page (caption from `../wednesday-personal.md`) |
 | Wed May 6 | 12:30 PM | Repost from founder personal LinkedIn (caption from `linkedin/wednesday-personal/personal-repost-en.txt`) |
-| Thu May 7 | 7:30–9:00 AM | "Los 5 lugares" carousel (caption from `../thursday-growth.md`); cross-post IG carousel |
+| Thu May 7 | 7:30–9:00 AM | "Superficies que no se hablan" carousel (caption from `../thursday-growth.md`); cross-post IG carousel |
 | Fri May 8 | 7:30–9:00 AM | Sites mechanism carousel + promo CTA (caption from `../friday-conversion.md`) |
 | Sat May 9 | 9:00–10:00 AM | "4 preguntas" deep-dive carousel (caption from `../saturday-authority.md`) |
 | Sun May 10 | 10:00–11:00 AM | Weekly digest infographic (caption from `../sunday-recap.md`) — neutral, no sales |
@@ -149,4 +149,4 @@ The narrative wedge ("inventory in 5 places, real estate is the architectural ex
 - **Hand-raisers:** comments + DMs about Trochai Sites or May promo.
 - **Demos booked:** attributable to this week's content (UTM or direct ask in discovery).
 - **Offer A vs. Offer B split:** how many prospects ask for "annual Inbox = free site" vs. "50% off à-la-carte". Indicates bundle vs. point appetite.
-- **Saves on the "5 lugares" carousel (Thu):** 360 Brew signal — predicts next week's reach.
+- **Saves on the Thu carousel ("superficies que no se hablan"):** 360 Brew signal — predicts next week's reach.

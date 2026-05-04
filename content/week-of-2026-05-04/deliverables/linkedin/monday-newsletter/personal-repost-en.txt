@@ -2,7 +2,7 @@ Spent the morning reading Microsoft's latest study on Costa Rican SMEs.
 
 53% advancing rapidly in digital transformation. 50% already using AI in daily ops. CR ranks 5th in LATAM for AI readiness.
 
-The exception inside that data — and it's not subtle — is real estate. Most agencies I talk to here still maintain their inventory across five+ disconnected places: an internal MLS, the national portals, their own WordPress site, the WhatsApp catalog, Instagram captions. Editing one property = touching all five. Which means at least one is always wrong.
+The exception inside that data — and it's not subtle — is real estate. Most agencies I talk to here still maintain their inventory across disconnected surfaces: an internal MLS, the national portals, their own WordPress site, the WhatsApp catalog, Instagram captions. None of them sync. Which means editing one property is editing all of them, and at least one is always wrong.
 
 The wedge isn't "agencies are behind." It's that the architecture asked for the impossible. Five sources of truth = no source of truth.
 

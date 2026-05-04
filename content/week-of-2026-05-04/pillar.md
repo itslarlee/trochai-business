@@ -1,4 +1,4 @@
-# Pillar — Su inventario vive en cinco lugares. Su cliente lo nota antes que vos.
+# Pillar — Su inventario vive en lugares que no se hablan. Su cliente lo nota antes que vos.
 
 > Pilar de la Sem. 19 (4 mayo – 10 mayo, 2026). Producto que se vende detrás: **Trochai Sites** (lanzado 2026-04-29).
 
@@ -8,11 +8,11 @@
 
 Costa Rica está en un momento singular para una pyme: una encuesta Microsoft de 2023 (vía DPL News) reportó que el 53% ya avanzaba rápidamente en transformación digital y el 78% se consideraba "en el journey"; tres años después, la encuesta Microsoft Source LATAM 2025 confirma que el 50% ya usa IA en operaciones diarias. El país ranquea 5to en LATAM en preparación de IA con un score de 53.83/100 (ILIA 2025). El cliente costarricense ya está acostumbrado a recibir respuesta automatizada de su banco, su aerolínea, su hotel, su súper.
 
-**La excepción dentro de esa historia es bienes raíces.** El stack típico de una agencia con 3 a 20 agentes y 30 a 100 listings activos sigue siendo: un MLS o CRM interno (Excel o herramienta dedicada), los portales nacionales (Encuentra24, re.cr), el sitio propio (típicamente WordPress con un plugin de listings), el catálogo de WhatsApp Business, y las captions de Instagram. Cinco lugares como mínimo, ninguno sincroniza con los demás.
+**La excepción dentro de esa historia es bienes raíces.** El stack típico de una agencia con 3 a 20 agentes y 30 a 100 listings activos incluye: un MLS o CRM interno (Excel o herramienta dedicada), los portales nacionales, el sitio propio (típicamente WordPress con un plugin de listings), el catálogo de WhatsApp Business, y las captions de Instagram. La cantidad exacta de superficies varía por agencia — algunas tocan tres, otras siete — pero el patrón es consistente: ninguna se sincroniza con las demás.
 
-Cada propiedad nueva requiere subir las mismas fotos, el mismo texto y el mismo precio en cinco lugares. Cada actualización (cambio de precio, "ya se vendió", reducción de cuartos) requiere repetir el trabajo. Para una agencia con 50 listings activos × 4 actualizaciones/año = ~100 horas/año de doble carga.
+Cada propiedad nueva requiere subir las mismas fotos, el mismo texto y el mismo precio en cada superficie por separado. Cada actualización (cambio de precio, "ya se vendió", reducción de cuartos) requiere repetir el trabajo. Para una agencia con 50 listings activos × 4 actualizaciones/año son fácilmente cien horas o más al año de doble carga.
 
-Y eso es solo el costo medible. El costo invisible es peor: la deriva entre los cinco lugares siempre existe. Una propiedad que se vendió en abril sigue apareciendo en el sitio web hasta junio. Una rebaja de precio queda actualizada en un portal pero no en el catálogo de WhatsApp. Cuando un cliente pregunta por WhatsApp "vi esta casa en su sitio, ¿sigue disponible?", el bot — sin saberlo — responde con el catálogo donde la propiedad ya no está. **El cliente nota el desfase en 8 segundos. La confianza se pierde antes de que el agente humano se entere.**
+Y eso es solo el costo medible. El costo invisible es peor: la deriva entre las superficies siempre existe. Una propiedad que se vendió en abril sigue apareciendo en el sitio web hasta junio. Una rebaja de precio queda actualizada en un portal pero no en el catálogo de WhatsApp. Cuando un cliente pregunta por WhatsApp "vi esta casa en su sitio, ¿sigue disponible?", el bot — sin saberlo — responde con el catálogo donde la propiedad ya no está. **El cliente nota el desfase en 8 segundos. La confianza se pierde antes de que el agente humano se entere.**
 
 La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitectura parten todas mis herramientas?"
 
@@ -22,9 +22,9 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 
 1. **Costa Rica está digitalizando más rápido de lo que la gente cree.** Microsoft 2023: 53% de pymes avanzaban rápido en transformación digital, 78% en el journey. Microsoft 2025: 50% ya usa IA. ILIA 2025: CR es 5to en LATAM en preparación de IA. El cliente tico ya internalizó esa expectativa.
 
-2. **Bienes raíces es la excepción dentro de esa historia.** Mientras hospitalidad, banca, retail y manufactura consolidan herramientas, las inmobiliarias siguen manteniendo el inventario en cinco o más lugares desconectados.
+2. **Bienes raíces es la excepción dentro de esa historia.** Mientras hospitalidad, banca, retail y manufactura consolidan herramientas, las inmobiliarias siguen manteniendo el inventario distribuido entre superficies que no se hablan entre sí.
 
-3. **El "single-edit nightmare" es el costo escondido.** ~100 horas/año de pure rework por agencia. Y deriva permanente — al menos uno de los cinco lugares siempre está mal.
+3. **El "single-edit nightmare" es el costo escondido.** Cien horas o más al año de pure rework por agencia. Y deriva permanente — al menos una de las superficies siempre está mal.
 
 4. **Los clientes lo notan.** Mensaje en WhatsApp pidiendo una propiedad que vio en el sitio. Bot dice "ya no está disponible". Sitio dice que sí. Confianza se pierde en 8 segundos.
 
@@ -85,10 +85,10 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 
 | Día | Bucket | Formato | Ángulo | Promo |
 |---|---|---|---|---|
-| Lun 4 may | Authority | Newsletter + carousel + LinkedIn Newsletter | Sem. 19 — la macro/data: 53% DT (2023) + 50% IA (2025) + CR 5to LATAM. Wedge: "inmobiliarias siguen editando cada propiedad cinco veces" | Tease promo mayo |
+| Lun 4 may | Authority | Newsletter + carousel + LinkedIn Newsletter | Sem. 19 — la macro/data: 53% DT (2023) + 50% IA (2025) + CR 5to LATAM. Wedge: "inmobiliarias mantienen inventario en superficies que no se hablan entre sí" | Tease promo mayo |
 | Mar 5 may | Growth | Brandjack/newsjack — infographic | Newsjack del estudio Microsoft sobre 50% de pymes con IA. Hot take: "Bienes raíces es la excepción de esa estadística — y por qué" | Mención promo mayo |
 | Mié 6 may | Personal | Founder commentary on data | Opinión del founder sobre los datos del mes — qué pregunta levantan para una agencia inmobiliaria. Sin historias inventadas, solo opinión sobre la data publicada. | Sin promo (Wed founder = voz humana, no venta) |
-| Jue 7 may | Growth | Hot take carousel — "Los 5 lugares" | Visual count-down: cada surface + tiempo invertido + cost real. Hot take: "Sin consolidar, no hay PropTech 2026 que valga" | Mención promo mayo |
+| Jue 7 may | Growth | Hot take carousel — "Las superficies que no se hablan" | Visual tour de las superficies típicas + tiempo invertido en cada una + cost real. Hot take: "Sin consolidar, no hay PropTech 2026 que valga" | Mención promo mayo |
 | Vie 8 may | Conversion | Product carousel | "Cómo se ve una sola edición": carousel mostrando flow Inbox → Sites + bot. Mecanismo concreto, no marketing | Promo mayo full CTA |
 | Sáb 9 may | Authority | Deep-dive carousel | "4 preguntas antes de hacer un sitio web inmobiliario en 2026" — filtro de discovery, sin venta directa | Mención promo mayo (sin urgencia) |
 | Dom 10 may | Authority/Recap | Weekly digest infographic | Resumen neutral de los 5 datos de la semana + pregunta de cierre. Sin opinión fuerte, sin venta. | Sin promo |
@@ -108,7 +108,7 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 ## Qué NO decir esta semana
 
 - ❌ No mencionar el stack técnico (no Vercel, OpenAI, Anthropic, Supabase, Mapbox). Posición de marca: "nosotros manejamos la infraestructura" sin nombrar proveedores.
-- ❌ No comparar a competidores específicos por nombre (los portales nacionales se mencionan SOLO como descripción factual de "los 5 lugares donde vive el inventario", no como competidores a vencer).
+- ❌ No comparar a competidores específicos por nombre (los portales nacionales se mencionan SOLO como descripción factual de las superficies donde vive el inventario, no como competidores a vencer).
 - ❌ No claim "todas las agencias CR están atrás." Muchas son sofisticadas — el wedge es la arquitectura multi-edit, no la competencia.
 - ❌ No parafrasear las líneas de posicionamiento. Cópialas verbatim.
 - ❌ No prometer features PropTech que no están shipped (no virtual tours, no AI price prediction — son tendencias macro, no capacidades de Trochai todavía).

@@ -5,9 +5,9 @@
 > Standalone cross-platform asset — does NOT replace any daily LinkedIn post.
 
 ## Topic
-Su inventario vive en cinco lugares — y por qué el cliente lo nota antes que vos. Trochai Sites como la fix arquitectónica.
+Su inventario vive en superficies que no se hablan — y por qué el cliente lo nota antes que vos. Trochai Sites como la fix arquitectónica.
 
-**Why this video, this week:** la macro-data del 50%/53%/CR-5to-LATAM funciona en LinkedIn (Mon newsletter), pero su impacto visual completo necesita un canal donde el storytelling y el reveal del mecanismo de Sites se sienta. IG Reels y TikTok son los canales que más necesitan el levante en mayo (Sites recién lanzado, sin awareness fuera de LinkedIn). Y la estructura "5 lugares → 1 Inbox" es naturalmente vertical — un countdown visual que se expande en pantalla móvil.
+**Why this video, this week:** la macro-data del 50%/53%/CR-5to-LATAM funciona en LinkedIn (Mon newsletter), pero su impacto visual completo necesita un canal donde el storytelling y el reveal del mecanismo de Sites se sienta. IG Reels y TikTok son los canales que más necesitan el levante en mayo (Sites recién lanzado, sin awareness fuera de LinkedIn). Y la estructura "varias superficies → 1 Inbox" es naturalmente vertical — un visual de cards que se colapsan en una sola fuente.
 
 ## Format pick
 **Vertical 1080×1920**
@@ -27,7 +27,7 @@ Reglas seguidas (per `trochai-videos/CLAUDE.md` § Voiceover & Script Rules): nu
 **Voiceover:** "Según Microsoft, el cincuenta por ciento de pymes ticas ya usa IA. Bienes raíces no aparece en esa estadística."
 
 ### Scene 2 — Problem (3-9s)
-**Voiceover:** "El catálogo vive en cinco lugares — MLS, portales, sitio, WhatsApp, Instagram. Cada actualización cuesta entre treinta y sesenta minutos. Por cincuenta listings al año, son cien horas perdidas en doble carga."
+**Voiceover:** "El catálogo vive distribuido entre el MLS, los portales, el sitio, WhatsApp, Instagram. Cada actualización cuesta entre treinta y sesenta minutos. Por cincuenta listings al año, son cien horas o más perdidas en doble carga."
 
 ### Scene 3 — Real cost: client notices (9-15s)
 **Voiceover:** "Pero el costo invisible es peor. Un cliente pregunta por WhatsApp por una propiedad que vio en su sitio. El bot dice que ya no está. El sitio dice que sí. La confianza se rompe en ocho segundos."
@@ -93,7 +93,7 @@ For each scene where the avatar speaks (1, 2, 4, 5):
 
 ```bash
 cd trochai-videos
-npm run hf:new -- sites-five-places-w19 --vertical --title "Inventario en 5 lugares — Sites lo arregla"
+npm run hf:new -- sites-five-places-w19 --vertical --title "Inventario en superficies que no se hablan — Sites lo arregla"
 ```
 
 This creates `hyperframes/compositions/sites-five-places-w19/` with the right starter +

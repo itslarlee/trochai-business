@@ -63,7 +63,7 @@ Las dos ventanas cierran el 31 de mayo. No se acumulan — cliente escoge una.
     {
       "number": "01",
       "headline": "El agente agrega la propiedad en el Inbox",
-      "body": "Una sola pantalla: dirección, precio, fotos, descripción, características. ~5 minutos. La acción habitual de cargar un listing — pero esta vez es la última carga, no la primera de cinco.",
+      "body": "Una sola pantalla: dirección, precio, fotos, descripción, características. ~5 minutos. La acción habitual de cargar un listing — pero esta vez es la última carga para el sitio y el bot, no la primera de varias.",
       "accentColor": "#20A06F"
     },
     {

@@ -13,7 +13,7 @@ Si responde mal aunque sea una, no tiene sentido empezar todavía. Un sitio mal 
 (Deslice →)
 
 **1. ¿Su inventario tiene una sola fuente de verdad hoy?**
-Si está en 5 lugares (MLS + portales + WhatsApp + IG + ya el sitio anterior), agregar un sitio nuevo va a ser el lugar #6. La pregunta arquitectónica es cuál de esos 6 va a ser la fuente — no agregar un sexto canal de salida sobre 5 fuentes desconectadas.
+Si está distribuido entre varias superficies (MLS, portales, WhatsApp, IG, sitio anterior), agregar un sitio nuevo es agregar otra superficie al stack. La pregunta arquitectónica es cuál de las superficies va a ser la fuente — no agregar otro canal de salida sobre fuentes desconectadas.
 
 **2. ¿Quiere que el bot de WhatsApp y el sitio respondan con el mismo catálogo?**
 Si la respuesta es sí, el sitio tiene que compartir la base de datos del Inbox — no sincronizarse con ella vía API o importar/exportar. La diferencia es que "compartir" es un evento atómico (escribís una vez, todos leen); "sincronizar" siempre tiene un delay y siempre tiene errores.
@@ -57,7 +57,7 @@ Promo de mayo si después de esas 4 preguntas decide avanzar: plan anual de Troc
     {
       "number": "01",
       "headline": "¿Su inventario tiene una sola fuente de verdad?",
-      "body": "Si vive en 5 lugares (MLS + portales + WhatsApp + IG + sitio anterior), agregar un sitio nuevo es el lugar #6. La pregunta arquitectónica es cuál de los 6 va a ser la fuente — no sumar otro canal sobre fuentes desconectadas.",
+      "body": "Si vive distribuido entre varias superficies (MLS, portales, WhatsApp, IG, sitio anterior), agregar un sitio nuevo es agregar otra. La pregunta arquitectónica es cuál de las superficies va a ser la fuente — no sumar otro canal sobre fuentes desconectadas.",
       "accentColor": "#20A06F"
     },
     {

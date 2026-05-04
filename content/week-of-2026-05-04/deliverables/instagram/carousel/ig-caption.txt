@@ -1,4 +1,4 @@
-Su inventario vive en cinco lugares. Su cliente lo nota antes que vos. 📊
+Su inventario vive en lugares que no se hablan. Su cliente lo nota antes que vos. 📊
 
 Esta semana en Trochai Insights (Sem. 19):
 
@@ -7,7 +7,7 @@ Esta semana en Trochai Insights (Sem. 19):
 🏘️ PropTech 2026 en CR: virtual tours, IA de precios, asset management
 🥇 CR es 5to en LATAM en preparación de IA (ILIA 2025: 53.83/100)
 ⚠️ Solo 1% de líderes pymes siente dominio total — la brecha está en la ejecución
-🏗️ Inmobiliarias siguen editando cada propiedad en 5+ lugares = ~100 hr/año de doble carga
+🏗️ Inmobiliarias siguen editando cada propiedad en superficies que no se hablan = cien horas o más al año de doble carga
 
 La fix no es otra herramienta. Es arquitectura: un único origen de datos.
 

@@ -17,9 +17,9 @@ El contenido completo del newsletter (ES + EN) está en `trochai-landing/content
 ## LinkedIn Post Caption
 
 ```
-Su inventario vive en cinco lugares. Su cliente lo nota antes que vos.
+Su inventario vive en lugares que no se hablan. Su cliente lo nota antes que vos.
 
-Mientras 53% de pymes ticas avanza en transformación digital y 50% ya usa IA, las inmobiliarias siguen editando cada propiedad en 5+ lugares desconectados.
+Mientras 53% de pymes ticas avanza en transformación digital y 50% ya usa IA, las inmobiliarias siguen editando cada propiedad en superficies desconectadas — portales nacionales, sitio propio, WhatsApp, redes — sin sincronización entre ellas.
 
 Esta semana en Trochai Insights (Sem. 19):
 
@@ -28,7 +28,7 @@ Esta semana en Trochai Insights (Sem. 19):
 → 🏘️ The Costa Rica News (dic 2025): PropTech 2026 = virtual tours + IA para predicción de precios + asset management. Tres tendencias que asumen un único origen de datos sobre el inventario.
 → 🥇 ILIA 2025: CR es 5to en LATAM en preparación de IA con score 53.83/100. Top 5: Chile, Brasil, Uruguay, Colombia, CR.
 → ⚠️ Google vía Tico Times (sept 2025): IA en LATAM se acerca a EE.UU./Europa — 48% de personas y 56% de empresas. Pero el WEF estima que 1 de cada 6 trabajadores tendrá que reskillearse para 2027. Brecha de talento, no de adopción.
-→ 🏗️ El inventario inmobiliario en CR vive en 5+ lugares desconectados (MLS interno + portales nacionales + sitio propio + redes) → muchas horas al año de doble carga + drift que el cliente detecta en 8 segundos.
+→ 🏗️ El inventario inmobiliario en CR vive en superficies que no se hablan entre sí (MLS interno + portales nacionales + sitio propio + WhatsApp + Instagram). El número exacto varía por agencia — el patrón no.
 
 La fix no es otra herramienta. Es arquitectónica: un único origen de datos sobre el inventario — el Inbox — y todas las superficies de salida (sitio web, bot, app del agente) leen de ahí.
 
@@ -73,7 +73,7 @@ Renderiza vía `/monday-content` Steps 2–4:
 ## LinkedIn Newsletter article
 
 El newsletter article se publica como **LinkedIn Newsletter** ("Trochai Insights") con:
-- **Title:** "Sem. 19 — 50% de pymes ticas usan IA, CR es 5to en LATAM, e inmobiliarias siguen editando cada propiedad cinco veces"
+- **Title:** "Sem. 19 — 50% de pymes ticas usan IA, CR es 5to en LATAM, e inmobiliarias siguen editando cada propiedad en superficies que no se hablan"
 - **Body:** Contenido completo del MDX en `trochai-landing/content/blog/es/trochai-insights-2026-s19.mdx`
 - **Cover image:** Cover slide del carousel renderizado (`out/carousel/trochai-insights-2026-s19/cover.png`)
 - **CTA al final del artículo:** Tease del promo mayo (annual Inbox = sitio gratis hasta el 31 de mayo) + link al formulario de demo
