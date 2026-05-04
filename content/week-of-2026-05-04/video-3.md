@@ -1,37 +1,44 @@
-# Video 3: discovery-question-w19
-**Title:** La pregunta que ningún dueño quería contestar
+# Video 3: data-recap-w19
+**Title:** Cinco datos sobre transformación digital en CR — y la pregunta que falta
 **Duration:** aprox. 24s
-**Composition ID:** DiscoveryQuestion-W19
+**Composition ID:** DataRecap-W19
 **Format:** 1080x1920 (9:16)
 
+> **Nota:** este video reemplaza un script previo que mencionaba "20+ discovery calls" — fabricación que no corresponde a actividad real, removida.
+
 ## Scene 1 — HOOK (4s)
-**Visual:** Phone in landscape mode showing a video call layout with one frame ("Discovery call — Trochai"). Counter ticks "Llamada 1 / 20+." Below, animated text: "20+ discovery calls. Una sola pregunta."
-**Text on screen:** "20+ discovery calls. Una sola pregunta."
-**Voiceover:** "Hicimos más de veinte discovery calls con dueños de agencias inmobiliarias en Costa Rica entre febrero y abril."
-**SFX:** Subtle ringer + ambient room
+**Visual:** Big counter slamming to "5 datos" with glow pulse. Below: "este mes en pymes ticas." Subtitle citing sources: "Microsoft, ILIA, DataReportal, The Costa Rica News."
+**Text on screen:** "Cinco datos sobre pymes ticas este mes."
+**Voiceover:** "Cinco datos cruzaron el feed este mes sobre transformación digital en pymes costarricenses."
+**SFX:** Riser + slam at "5"
 
-## Scene 2 — THE QUESTION (5s)
-**Visual:** Quote appears centered with growing underline animation: "¿Cuántas propiedades en su sitio web ya se vendieron, pero siguen apareciendo?"
-**Text on screen:** "¿Cuántas propiedades en su sitio web ya se vendieron — pero siguen apareciendo?"
-**Voiceover:** "En cada llamada hago la misma pregunta: ¿cuántas propiedades en su sitio web ya se vendieron, pero siguen apareciendo?"
-**SFX:** Question pulse + soft kick on the period
+## Scene 2 — THE FIVE DATA POINTS (10s)
+**Visual:** Five tiles appear sequentially, each with a stat, a label, and a source citation:
+- "53% / Microsoft 2023" → Transformación digital
+- "50% / Microsoft 2025" → Usan IA
+- "5to LATAM / ILIA 2025" → Preparación IA
+- "92.6% / DataReportal 2026" → Internet penetration
+- "PropTech 2026 / The Costa Rica News" → Virtual tours, IA precios, asset mgmt
+**Text on screen:** Labels match each tile.
+**Voiceover:** "Cincuenta y tres por ciento de pymes avanza en transformación digital. Cincuenta por ciento ya usa IA. Costa Rica es quinto en LATAM en preparación de IA. Noventa y dos punto seis por ciento de penetración de internet. Y PropTech 2026 incluye virtual tours, IA para predicción de precios, y asset management."
+**SFX:** Tick on each tile
 
-## Scene 3 — THE SILENCE (6s)
-**Visual:** Three separate response blocks appear, one at a time: "Probablemente cinco. ¿Diez?" "Hace como un mes que no las reviso." "Las actualizamos cada semana... o cada dos." Each block fades in with a typing animation, then dims.
-**Text on screen:** "Casi todas las respuestas eran honestas. Ninguna era 'cero, verifiqué ayer.'"
-**Voiceover:** "La respuesta más común no era un número. Era silencio. O 'probablemente cinco.' O 'hace un mes que no las reviso.' Una sola persona dijo: cero, verifiqué ayer."
-**SFX:** Typing on each block + low note on each fade
+## Scene 3 — THE QUESTION (5s)
+**Visual:** All 5 tiles dim. A single question text appears centered: "¿Y bienes raíces?" The 5 tiles dim further while the question pulses.
+**Text on screen:** "¿Y bienes raíces?"
+**Voiceover:** "Pero ningún dato nombra al sector inmobiliario. Hospitalidad sí. Banca sí. Retail sí. Bienes raíces no aparece."
+**SFX:** Question pulse + soft kick
 
-## Scene 4 — THE INSIGHT (6s)
-**Visual:** A single "Inbox" pulse with five lines extending to: "Sitio web," "Bot WhatsApp," "App del agente," "Sitio Esmeralda," "Sitio Sable." All glow in sync.
-**Text on screen:** "Estar al día con 5 lugares no es disciplina. Es matemática imposible."
-**Voiceover:** "El problema no es laxitud. Cinco lugares desconectados — MLS, portales, sitio, WhatsApp, Instagram — no se mantienen al día con disciplina. Es matemática imposible. La fix arranca el día que su inventario tiene un solo dueño."
-**SFX:** Continuous glow pulse
+## Scene 4 — THE INSIGHT (4s)
+**Visual:** A single "Inbox" hub appears with the question above transforming into "1 fuente, no 5." Three lines extend to "Sitio web," "Bot interno," "App agente."
+**Text on screen:** "1 fuente. No cinco."
+**Voiceover:** "La pregunta arquitectónica del 2026 no es 'necesito IA'. Es 'mi sistema está en condiciones para que IA agregue valor'."
+**SFX:** Glow pulse
 
 ## Scene 5 — CTA (3s)
-**Visual:** Trochai logo + "trochai.com/sitios" + small text "Promo mayo: annual Inbox = sitio gratis"
-**Text on screen:** "trochai.com/sitios — promo mayo"
-**Voiceover:** "Trochai punto com diagonal sitios — agende su consulta gratuita."
+**Visual:** Trochai logo + "trochai.com/sitios" + small text "Sem. 19 — datos verificados"
+**Text on screen:** "trochai.com/sitios"
+**Voiceover:** "Trochai punto com diagonal sitios."
 **SFX:** Whoosh + kick
 
 ---
@@ -40,12 +47,12 @@
 
 ```json
 {
-  "statNumber": "1 / 20+",
-  "statLine": "una sola dueña sabía la respuesta exacta — y manejaba el inventario en un solo lugar. El resto, en 5 lugares.",
-  "problemLine1": "El cliente nota la deriva en 8 segundos cuando pregunta por WhatsApp por una propiedad que ya se vendió pero sigue en el sitio.",
-  "problemLine2": "Estar al día con 5 lugares no es disciplina. Es matemática imposible.",
-  "solutionLine": "Con Trochai Sites: el sitio comparte la base de datos del Inbox. Su inventario tiene un solo dueño.",
+  "statNumber": "5 datos",
+  "statLine": "publicados sobre transformación digital y pymes ticas — y ninguno nombra al sector inmobiliario.",
+  "problemLine1": "Hospitalidad, banca, retail, manufactura aparecen. Bienes raíces no.",
+  "problemLine2": "No por falta de adopción. Por arquitectura: el inventario vive en 5+ lugares desconectados.",
+  "solutionLine": "La pregunta de 2026 no es 'necesito IA'. Es '¿mi sistema está en condiciones para que IA agregue valor?'",
   "ctaLine": "Promo mayo — trochai.com/sitios",
-  "sourceLine": "Trochai — discovery calls Q1–Q2 2026 (n=20+)"
+  "sourceLine": "Microsoft 2023+2025 / ILIA 2025 / DataReportal 2026 / The Costa Rica News dic 2025"
 }
 ```

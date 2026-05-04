@@ -23,12 +23,12 @@ Mientras 53% de pymes ticas avanza en transformación digital y 50% ya usa IA, l
 
 Esta semana en Trochai Insights (Sem. 19):
 
-→ 📊 Microsoft / DPL News: 53% de pymes ticas avanza rápidamente en transformación digital, 78% se considera "en el journey". 42% prioriza datos para BI; 35% nueva tecnología.
-→ 🤖 Microsoft Source LATAM Encuesta 2025: 50% de pymes ticas ya usa IA en operaciones diarias. 62% del uso es servicio al cliente. La vara nueva del cliente costarricense.
-→ 🏘️ The Costa Rica News: PropTech 2026 = virtual tours + IA para predicción de precios + asset management. Tres tendencias que asumen un único origen de datos sobre el inventario.
-→ 🥇 ILIA 2025: CR es 5to en LATAM en preparación de IA con score 53.83/100. Lidera adopción PYME junto a Colombia, Ecuador, RD.
-→ ⚠️ Google study (vía Tico Times): IA en LATAM se acerca a EE.UU./Europa, pero solo 1% de líderes pymes en CR siente dominio total.
-→ 🏗️ Trochai discovery (n=20 agencias): inventario inmobiliario vive en MLS + portales nacionales + sitio propio + WhatsApp + IG = ~100 horas/año de doble carga + drift que el cliente detecta en 8 segundos.
+→ 📊 Microsoft 2023 (vía DPL News): 53% de pymes ticas avanza rápidamente en transformación digital, 78% se considera "en el journey". 42% prioriza datos para BI; 35% nueva tecnología.
+→ 🤖 Microsoft Source LATAM Encuesta 2025: 50% de pymes ticas ya usa IA en operaciones diarias. 62% del uso es servicio al cliente; 48% lo usa específicamente para mejorar servicio + satisfacción.
+→ 🏘️ The Costa Rica News (dic 2025): PropTech 2026 = virtual tours + IA para predicción de precios + asset management. Tres tendencias que asumen un único origen de datos sobre el inventario.
+→ 🥇 ILIA 2025: CR es 5to en LATAM en preparación de IA con score 53.83/100. Top 5: Chile, Brasil, Uruguay, Colombia, CR.
+→ ⚠️ Google vía Tico Times (sept 2025): IA en LATAM se acerca a EE.UU./Europa — 48% de personas y 56% de empresas. Pero el WEF estima que 1 de cada 6 trabajadores tendrá que reskillearse para 2027. Brecha de talento, no de adopción.
+→ 🏗️ El inventario inmobiliario en CR vive en 5+ lugares desconectados (MLS interno + portales nacionales + sitio propio + redes) → muchas horas al año de doble carga + drift que el cliente detecta en 8 segundos.
 
 La fix no es otra herramienta. Es arquitectónica: un único origen de datos sobre el inventario — el Inbox — y todas las superficies de salida (sitio web, bot, app del agente) leen de ahí.
 

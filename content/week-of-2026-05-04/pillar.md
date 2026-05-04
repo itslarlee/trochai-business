@@ -6,7 +6,7 @@
 
 ## Tesis
 
-Costa Rica está en un momento singular para una pyme: el 53% ya avanza rápidamente en transformación digital, el 78% se considera "en el journey", el 50% ya usa IA en operaciones diarias, y el país ranquea 5to en LATAM en preparación de IA con un score de 53.83/100 (ILIA 2025). El cliente costarricense ya está acostumbrado a recibir respuesta automatizada de su banco, su aerolínea, su hotel, su súper.
+Costa Rica está en un momento singular para una pyme: una encuesta Microsoft de 2023 (vía DPL News) reportó que el 53% ya avanzaba rápidamente en transformación digital y el 78% se consideraba "en el journey"; tres años después, la encuesta Microsoft Source LATAM 2025 confirma que el 50% ya usa IA en operaciones diarias. El país ranquea 5to en LATAM en preparación de IA con un score de 53.83/100 (ILIA 2025). El cliente costarricense ya está acostumbrado a recibir respuesta automatizada de su banco, su aerolínea, su hotel, su súper.
 
 **La excepción dentro de esa historia es bienes raíces.** El stack típico de una agencia con 3 a 20 agentes y 30 a 100 listings activos sigue siendo: un MLS o CRM interno (Excel o herramienta dedicada), los portales nacionales (Encuentra24, re.cr), el sitio propio (típicamente WordPress con un plugin de listings), el catálogo de WhatsApp Business, y las captions de Instagram. Cinco lugares como mínimo, ninguno sincroniza con los demás.
 
@@ -20,7 +20,7 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 
 ## El argumento (arco narrativo de la semana)
 
-1. **Costa Rica está digitalizando más rápido de lo que la gente cree.** 53% de pymes avanzan rápido en transformación digital, 78% se considera "en el journey", 50% ya usa IA, CR es 5to en LATAM en preparación de IA. El cliente tico ya internalizó esa expectativa.
+1. **Costa Rica está digitalizando más rápido de lo que la gente cree.** Microsoft 2023: 53% de pymes avanzaban rápido en transformación digital, 78% en el journey. Microsoft 2025: 50% ya usa IA. ILIA 2025: CR es 5to en LATAM en preparación de IA. El cliente tico ya internalizó esa expectativa.
 
 2. **Bienes raíces es la excepción dentro de esa historia.** Mientras hospitalidad, banca, retail y manufactura consolidan herramientas, las inmobiliarias siguen manteniendo el inventario en cinco o más lugares desconectados.
 
@@ -34,13 +34,15 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 
 ## Datos clave (con fuentes)
 
-- **53% de pymes ticas avanzan rápidamente en transformación digital; 78% se considera "en el journey".** Microsoft / DPL News.
-- **50% de pymes ticas ya usan IA en operaciones diarias. 62% del uso es servicio al cliente. 52% cita experiencia del cliente como beneficio principal.** Microsoft Source LATAM Encuesta 2025.
-- **CR es 5to en LATAM en preparación de IA — ILIA 2025 score 53.83/100.** Lidera adopción PYME junto a Colombia, Ecuador, RD. Tico Times (jul 2025).
-- **42% de pymes ticas prioriza usar datos para business intelligence; 35% prioriza adoptar nueva tecnología.** Microsoft / DPL News.
-- **Penetración de internet en CR: 92.6% (4.78M usuarios).** DataReportal Digital 2026 Costa Rica.
-- **Solo 1% de líderes de pymes en CR siente que ha "dominado completamente" la IA.** Trycore vía Tico Times.
-- **PropTech 2026 en CR: virtual tours, IA para predicción de precios, asset management automatizado.** The Costa Rica News.
+- **53% de pymes ticas avanzaban rápidamente en transformación digital; 78% se consideraba "en el journey".** Microsoft 2023 (vía DPL News).
+- **50% de pymes ticas ya usan IA en operaciones diarias. 62% del uso es servicio al cliente. 48% lo usa específicamente para mejorar servicio + satisfacción del cliente.** Microsoft Source LATAM Encuesta 2025 (vía La Prensa Libre).
+- **65% de líderes pymes reportan que la IA mejora la calidad del trabajo; 61% reporta más productividad.** Microsoft Source LATAM 2025.
+- **CR es 5to en LATAM en preparación de IA — ILIA 2025 score 53.83/100.** Top 5: Chile, Brasil, Uruguay, Colombia, CR. CR específicamente fuerte en talento humano (3er lugar regional). Tico Times (jul 2025) lo posiciona como líder regional en adopción PYME.
+- **42% de pymes ticas prioriza usar datos para business intelligence; 35% prioriza adoptar nueva tecnología.** Microsoft 2023 (vía DPL News).
+- **Penetración de internet en CR: 92.6% (4.78M usuarios).** DataReportal Digital 2026 Costa Rica (nov 2025).
+- **48% de personas y 56% de empresas en LATAM usan IA — cerca de EE.UU. y Europa.** Google vía Tico Times (sept 2025), Adriana Noreña.
+- **WEF: 1 de cada 6 trabajadores tendrá que reskillearse para 2027.** Citado en el mismo artículo de Tico Times — la brecha de talento es el riesgo principal de la curva de adopción.
+- **PropTech 2026 en CR: virtual tours, IA para predicción de precios, asset management automatizado.** The Costa Rica News (dic 2025).
 
 **Fuentes (URLs completas):**
 - https://dplnews.com/costa-rica-mas-de-la-mitad-de-pymes-ticas-avanza-hacia-transformacion-digital/
@@ -83,13 +85,13 @@ La pregunta para 2026 no es "¿qué herramienta agrego?" Es: "¿de qué arquitec
 
 | Día | Bucket | Formato | Ángulo | Promo |
 |---|---|---|---|---|
-| Lun 4 may | Authority | Newsletter + carousel + LinkedIn Newsletter | Sem. 19 — la macro/data: 53% DT + 50% IA + CR 5to LATAM. Wedge: "inmobiliarias siguen editando cada propiedad cinco veces" | Tease promo mayo |
+| Lun 4 may | Authority | Newsletter + carousel + LinkedIn Newsletter | Sem. 19 — la macro/data: 53% DT (2023) + 50% IA (2025) + CR 5to LATAM. Wedge: "inmobiliarias siguen editando cada propiedad cinco veces" | Tease promo mayo |
 | Mar 5 may | Growth | Brandjack/newsjack — infographic | Newsjack del estudio Microsoft sobre 50% de pymes con IA. Hot take: "Bienes raíces es la excepción de esa estadística — y por qué" | Mención promo mayo |
-| Mié 7 may | Personal | Founder reflection + infographic | Lo que vimos en 20+ discovery calls: "agentes que admiten que no saben cuántas de sus propiedades en el sitio web ya se vendieron" | Sin promo (Wed founder = humano, no venta) |
+| Mié 6 may | Personal | Founder commentary on data | Opinión del founder sobre los datos del mes — qué pregunta levantan para una agencia inmobiliaria. Sin historias inventadas, solo opinión sobre la data publicada. | Sin promo (Wed founder = voz humana, no venta) |
 | Jue 7 may | Growth | Hot take carousel — "Los 5 lugares" | Visual count-down: cada surface + tiempo invertido + cost real. Hot take: "Sin consolidar, no hay PropTech 2026 que valga" | Mención promo mayo |
 | Vie 8 may | Conversion | Product carousel | "Cómo se ve una sola edición": carousel mostrando flow Inbox → Sites + bot. Mecanismo concreto, no marketing | Promo mayo full CTA |
 | Sáb 9 may | Authority | Deep-dive carousel | "4 preguntas antes de hacer un sitio web inmobiliario en 2026" — filtro de discovery, sin venta directa | Mención promo mayo (sin urgencia) |
-| Dom 10 may | (skip) | — | — | — |
+| Dom 10 may | Authority/Recap | Weekly digest infographic | Resumen neutral de los 5 datos de la semana + pregunta de cierre. Sin opinión fuerte, sin venta. | Sin promo |
 
 ---
 

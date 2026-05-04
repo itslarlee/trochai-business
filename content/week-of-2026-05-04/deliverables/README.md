@@ -13,11 +13,11 @@
 | Mon May 4 | Newsletter carousel + LinkedIn Newsletter article | `linkedin/monday-newsletter/` | Authority | ✅ EN (`linkedin/monday-newsletter/personal-repost-en.txt`) | `../monday-newsletter.md` |
 | Tue May 5 **AM** | Microsoft AI study brandjack — growth infographic | `linkedin/tuesday-growth/` | Growth | — | `../tuesday-growth.md` |
 | Tue May 5 **PM** | **Hyperframes hero video** (cross-platform) | `hero-video/` | Authority/Hero | — | `hero-video/caption-linkedin.txt` (generated Tue AM) |
-| Wed May 6 | Founder reflection — discovery call insight | `linkedin/wednesday-personal/` | Personal | ✅ EN (`linkedin/wednesday-personal/personal-repost-en.txt`) | `../wednesday-personal.md` |
+| Wed May 6 | Founder commentary on the month's data (no fabricated stories) | `linkedin/wednesday-personal/` | Personal | ✅ EN (`linkedin/wednesday-personal/personal-repost-en.txt`) | `../wednesday-personal.md` |
 | Thu May 7 | "Los 5 lugares" — hot take carousel | `linkedin/thursday-growth/` | Growth | — | `../thursday-growth.md` |
 | Fri May 8 | Sites mechanism + promo — product carousel | `linkedin/friday-conversion/` | Conversion | — | `../friday-conversion.md` |
 | Sat May 9 | "4 preguntas antes de su sitio" — deep-dive carousel | `linkedin/saturday-authority/` | Authority | — | `../saturday-authority.md` |
-| Sun May 10 | (skip — no scheduled post) | — | — | — | — |
+| Sun May 10 | Weekly digest — neutral data summary, no sales | `linkedin/sunday-recap/` | Authority/Recap | — | `../sunday-recap.md` |
 
 ## Weekly Hero Video (Hyperframes — ships Tuesday PM)
 
@@ -84,6 +84,9 @@ cp -r trochai-videos/out/carousel/fri-sites-mechanism-w19/* \
 
 cp -r trochai-videos/out/carousel/sat-sites-checklist-w19/* \
    trochai-business/content/week-of-2026-05-04/deliverables/linkedin/saturday-authority/
+
+cp trochai-videos/out/linkedin/sun-w19.png \
+   trochai-business/content/week-of-2026-05-04/deliverables/linkedin/sunday-recap/infographic.png
 ```
 
 ## Posting Flow (Costa Rica timezone, GMT-6)
@@ -106,7 +109,7 @@ cp -r trochai-videos/out/carousel/sat-sites-checklist-w19/* \
 | Thu May 7 | 7:30–9:00 AM | "Los 5 lugares" carousel (caption from `../thursday-growth.md`); cross-post IG carousel |
 | Fri May 8 | 7:30–9:00 AM | Sites mechanism carousel + promo CTA (caption from `../friday-conversion.md`) |
 | Sat May 9 | 9:00–10:00 AM | "4 preguntas" deep-dive carousel (caption from `../saturday-authority.md`) |
-| Sun May 10 | — | (skip day) |
+| Sun May 10 | 10:00–11:00 AM | Weekly digest infographic (caption from `../sunday-recap.md`) — neutral, no sales |
 
 ## Comment Flywheel (critical, 30 min/day before posting)
 
@@ -119,6 +122,26 @@ cp -r trochai-videos/out/carousel/sat-sites-checklist-w19/* \
 - **Mon, Tue, Thu, Fri, Sat:** Can mention the May promo (Offer A or B).
 - **Wed (founder):** **NO promo mention.** Wed founder is human voice, not sales. Product mention OK; discount mention NOT OK.
 - **Fri (Conversion):** Full promo CTA with Offer A first, Offer B as fallback. Direct link to demo form.
+- **Sun (recap):** **NO promo mention.** Sunday is a neutral data digest — closing question is for reflection, not click.
+
+## ⚠️ Founder content rule (Wed) — added 2026-05-04
+
+Wednesday founder posts are **opinion grounded in real data**, NOT fabricated experience. The previous draft of this week's Wed post invented "20+ discovery calls with one specific question" — that didn't actually happen and was rewritten. Going forward (per skill update on 2026-05-04):
+
+- ✅ Allowed: opinion on a published study, summary of what stands out across the week's data, "if I were running an agency today, the question I'd be asking is..."
+- ❌ Forbidden: invented discovery calls, made-up customer quotes, specific numbers about meetings/conversations that didn't happen, anecdotes presented as the founder's lived experience when they weren't.
+
+## ⚠️ Fact corrections — applied 2026-05-04
+
+The first draft of this week shipped with several inaccuracies that were corrected after the user fact-checked:
+
+- **52% client experience benefit** → **48%** (Microsoft article actually says 48%, not 52%; verified directly)
+- **"Lidera junto a Colombia, Ecuador, RD"** → removed (Tico Times July 2025 only names CR; the others not mentioned)
+- **"1% de líderes siente dominio total / Trycore"** → removed (not in cited Tico Times Sept 2025 article); replaced with **WEF "1 in 6 reskill by 2027"** which IS in the article
+- **53% / 78% framed as recent** → tagged as **Microsoft 2023 (vía DPL News)** since the source article is from April 2023
+- **"futuro virtual tour, futura predicción de precios"** as Trochai surfaces → removed (those are macro PropTech trends, not Trochai-shipped features)
+
+The narrative wedge ("inventory in 5 places, real estate is the architectural exception") survives all corrections — the data is still solid, just dated correctly.
 
 ## Metrics This Week
 

@@ -18,7 +18,7 @@ Es un dato que cambia el cálculo. Costa Rica acaba de superar el promedio LATAM
 
 **Las inmobiliarias.**
 
-No porque no quieran. Porque la arquitectura no les ayuda.
+El estudio mide pymes ticas en general — no desglosa por sector — pero la lectura razonable es que los sectores con datos consolidados (hospitalidad, banca, retail, manufactura) capturan la mayoría de ese 50%. Bienes raíces queda en una situación distinta. No porque no quieran. Porque la arquitectura no les ayuda.
 
 Cuando una agencia con 3 a 20 agentes y 50 listings activos quiere "agregar un bot de WhatsApp", lo primero que descubre es que el bot necesita saber qué propiedades existen, qué precio tienen hoy, cuáles ya se vendieron. Y esa información vive en cinco lugares distintos:
 

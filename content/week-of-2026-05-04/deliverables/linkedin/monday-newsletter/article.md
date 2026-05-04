@@ -12,9 +12,9 @@ Noticias del sector inmobiliario, impulsado por IA. Semana del 27 de abril al 3 
 
 ## TL;DR (lo esencial en 60 segundos)
 
-- 🇨🇷 Microsoft confirma que el 53% de pymes ticas avanza rápidamente en transformación digital y el 78% se considera "en el journey". El 50% ya usa IA en operaciones diarias.
-- 🌎 Costa Rica ocupa el 5to lugar en LATAM en preparación de IA según el Índice ILIA 2025 (53.83/100), liderando en adopción PYME junto a Colombia, Ecuador y República Dominicana.
-- 🤖 La excepción dentro de esa historia: las inmobiliarias siguen editando cada propiedad en cinco o más lugares desconectados (MLS + Encuentra24 + re.cr + sitio propio + WhatsApp + IG). El costo: ~100 horas/año de doble carga, y un cliente que detecta el desfase antes que la agencia.
+- 🇨🇷 Encuesta Microsoft 2023 (vía DPL News): 53% de pymes ticas avanza rápidamente en transformación digital, 78% se considera "en el journey". Encuesta Microsoft Source LATAM 2025: 50% ya usa IA en operaciones diarias.
+- 🌎 Costa Rica ocupa el 5to lugar en LATAM en preparación de IA según el Índice ILIA 2025 (score 53.83/100). Top 5: Chile, Brasil, Uruguay, Colombia, Costa Rica.
+- 🤖 La excepción dentro de esa historia: las inmobiliarias siguen editando cada propiedad en cinco o más lugares desconectados. El costo: muchas horas al año de doble carga, y un cliente que detecta el desfase antes que la agencia.
 
 ---
 
@@ -22,11 +22,11 @@ Noticias del sector inmobiliario, impulsado por IA. Semana del 27 de abril al 3 
 
 ### 1. 📊 53% de pymes ticas avanza en transformación digital — pero la inmobiliaria queda en el rezago
 
-Un estudio publicado por Microsoft y reseñado por DPL News confirma que el 53% de las pymes en Costa Rica avanza rápidamente en su transformación digital, y el 78% se considera "en el journey". Las prioridades del segmento: 42% usar datos para business intelligence, 35% adoptar nueva tecnología. Costa Rica supera el promedio LATAM en ambas dimensiones.
+Una encuesta de Microsoft reseñada por DPL News (publicada en abril de 2023) confirma que el 53% de las pymes en Costa Rica avanza rápidamente en su transformación digital, y el 78% se considera "en el journey". Las prioridades del segmento: 42% usar datos para business intelligence, 35% adoptar nueva tecnología. Tres años después de ese estudio, los datos más recientes de Microsoft (2025) muestran que el 50% de las pymes ya usa IA en operaciones diarias — la curva de adopción siguió subiendo.
 
 **Fuentes:**
-- [DPL News — Más de la mitad de pymes ticas avanza hacia transformación digital](https://dplnews.com/costa-rica-mas-de-la-mitad-de-pymes-ticas-avanza-hacia-transformacion-digital/)
-- [Microsoft — 50% de las pymes en Costa Rica utilizan algún tipo de IA](https://news.microsoft.com/es-xl/50-de-las-pymes-en-costa-rica-utilizan-algun-tipo-de-ia/)
+- [DPL News — Más de la mitad de pymes ticas avanza hacia transformación digital (abr 2023)](https://dplnews.com/costa-rica-mas-de-la-mitad-de-pymes-ticas-avanza-hacia-transformacion-digital/)
+- [Microsoft — 50% de las pymes en Costa Rica utilizan algún tipo de IA (may 2025)](https://news.microsoft.com/es-xl/50-de-las-pymes-en-costa-rica-utilizan-algun-tipo-de-ia/)
 
 **Por qué importa:**
 - El contraste con bienes raíces es el wedge. Mientras pymes ticas en hospitalidad, retail, servicios y manufactura consolidan herramientas y limpian datos, las inmobiliarias siguen manteniendo el mismo inventario en cinco o más lugares: el MLS o CRM interno, Encuentra24, re.cr, el sitio propio (típicamente WordPress), el catálogo de WhatsApp y las captions de Instagram. Ninguno sincroniza con los demás.
@@ -35,7 +35,7 @@ Un estudio publicado por Microsoft y reseñado por DPL News confirma que el 53% 
 
 ### 2. 🤖 50% de pymes ticas ya usan IA — 62% del uso es servicio al cliente
 
-La Encuesta Microsoft Source LATAM 2025 (con cobertura en La Prensa Libre y la sala de prensa de Microsoft) confirma que el 50% de las pymes en Costa Rica ya usa algún tipo de inteligencia artificial en operaciones diarias. El 62% de ese uso se concentra en asistencia virtual al cliente; el 52% de los líderes cita la experiencia del cliente como el beneficio principal.
+La Encuesta Microsoft Source LATAM 2025 (con cobertura en La Prensa Libre y la sala de prensa de Microsoft) confirma que el 50% de las pymes en Costa Rica ya usa algún tipo de inteligencia artificial en operaciones diarias. El 62% de ese uso se concentra en asistencia virtual al cliente; el 48% lo usa específicamente para mejorar el servicio al cliente y la satisfacción. Otros usos relevantes: 59% para creación de productos generativos, 65% reporta que la IA mejora la calidad del trabajo y 61% reporta más productividad.
 
 **Fuentes:**
 - [La Prensa Libre — El 50% de las pymes en Costa Rica ya utiliza inteligencia artificial](https://www.laprensalibre.cr/el-50-de-las-pymes-en-costa-rica-ya-utiliza-inteligencia-artificial-segun-encuesta-de-microsoft/)
@@ -64,7 +64,7 @@ The Costa Rica News publicó su outlook 2026 sobre tendencias PropTech en Costa 
 
 ### 1. 🥇 CR es 5to en LATAM en preparación de IA — ILIA 2025 score 53.83/100
 
-El Índice Latinoamericano de Inteligencia Artificial 2025 (ILIA) ubica a Costa Rica en el quinto lugar regional con un score de 53.83/100. Tico Times reportó (julio 2025) que CR lidera la región en adopción de IA dentro del segmento PYME, junto a Colombia, Ecuador y República Dominicana.
+El Índice Latinoamericano de Inteligencia Artificial 2025 (ILIA) ubica a Costa Rica en el quinto lugar regional con un score de 53.83/100, dentro del grupo de países "adopters". El top 5 lo conforman Chile, Brasil, Uruguay, Colombia y Costa Rica. Tico Times reportó por separado (julio 2025) que CR se posiciona como líder regional en adopción de IA dentro del segmento PYME — específicamente, el sector mostró fortaleza en talento humano (3er lugar regional) y crecimiento de profesionales con habilidades en IA cercano al promedio global.
 
 **Fuentes:**
 - [Tico Times — Costa Rica leads AI adoption in small businesses across Latin America](https://ticotimes.net/2025/07/05/costa-rica-leads-ai-adoption-in-small-businesses-across-latin-america)
@@ -76,13 +76,13 @@ El Índice Latinoamericano de Inteligencia Artificial 2025 (ILIA) ubica a Costa 
 
 ### 2. ⚠️ IA en LATAM se acerca al uso de EE.UU./Europa — pero el talento queda atrás
 
-Un estudio de Google con cobertura de Tico Times (septiembre 2025) confirma que el uso de IA en LATAM se está acercando al promedio de EE.UU. y Europa, pero el talento técnico para ejecutarla se queda atrás. Trycore (vía Tico Times) reportó que solo el 1% de líderes de pymes en CR siente que ha "dominado completamente" la IA — una brecha de ejecución detrás de una curva de adopción acelerada.
+Un estudio de Google con cobertura de Tico Times (septiembre 2025) reporta que el uso de IA en LATAM se está acercando al promedio de EE.UU. y Europa: 48% de las personas y 56% de las empresas la están usando, una brecha de uno o dos puntos porcentuales con EE.UU. y similar a Europa según Adriana Noreña de Google. Pero el reporte advierte que el talento técnico se queda atrás — el Foro Económico Mundial estima que 1 de cada 6 trabajadores tendrá que reskillearse para 2027.
 
 **Fuentes:**
 - [Tico Times — AI in Latin America nears US/Europe use but talent lags, says Google](https://ticotimes.net/2025/09/25/ai-in-latin-america-nears-us-europe-use-but-talent-lags-says-google)
 
 **Por qué importa:**
-- Adoptar una herramienta es fácil. Ejecutarla bien es lo difícil. La brecha del 1% es el predictor real del próximo ciclo: las pymes que combinan adopción + ejecución capturan el upside; las que solo adoptan se quedan con suscripciones que nadie usa.
+- Adoptar una herramienta es fácil. Ejecutarla bien es lo difícil. La brecha de talento es el predictor real del próximo ciclo: las pymes que combinan adopción + ejecución capturan el upside; las que solo adoptan se quedan con suscripciones que nadie usa.
 - Para inmobiliarias en CR, la forma más rápida de cerrar la brecha no es contratar un científico de datos — es eliminar el problema arquitectónico que hace imposible ejecutar bien: la fragmentación del inventario en cinco lugares. Sin esa base, ninguna herramienta funciona; con esa base, herramientas modestas (un bot bien configurado, un sitio sincronizado) producen resultado desproporcionado.
 - El argumento no es "necesita IA"; es "necesita que su sistema esté en condiciones para que la IA funcione". Esa es la pregunta arquitectónica que la industria PropTech va a empujar durante 2026.
 
@@ -101,7 +101,7 @@ El stack típico de una inmobiliaria costarricense con 3 a 20 agentes y 30 a 100
 **Por qué importa:**
 - El costo medible: 30–60 minutos de doble carga por actualización × 50 listings activos × 4 actualizaciones/año = ~100 horas/año por agencia. Eso son 2.5 semanas de trabajo de un agente, gastadas en mover datos entre sistemas que no se hablan.
 - El costo invisible es peor: la deriva entre los 5 lugares siempre existe. Una propiedad que se vendió en abril sigue apareciendo en el sitio web hasta junio. Una rebaja de precio queda actualizada en Encuentra24 pero no en el catálogo de WhatsApp. Cuando un cliente pregunta por WhatsApp "vi esta casa en su sitio, ¿sigue disponible?", el bot — sin saberlo — responde con el catálogo de WhatsApp donde la propiedad ya no está. El cliente nota el desfase en 8 segundos. La confianza se pierde antes de que el agente humano se entere.
-- El fix no es otra herramienta. Es una decisión arquitectónica: un único origen de datos sobre el inventario, y todas las superficies de salida (sitio web, bot de WhatsApp, app del agente, futuro virtual tour, futura predicción de precios) leen de ahí. Edita una vez, aparece en todos lados. Esa es la pregunta que define quién compite en 2027.
+- El fix no es otra herramienta. Es una decisión arquitectónica: un único origen de datos sobre el inventario, y las superficies de salida que la agencia controla — el sitio web propio y el bot interno del Inbox — leen de ahí. Los portales nacionales y las redes seguirán requiriendo carga manual; lo que cambia es que el sitio y el bot dejan de ser un sexto y séptimo lugar de doble carga. Esa es la pregunta arquitectónica que define quién compite en 2027.
 
 ---
 

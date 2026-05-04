@@ -12,11 +12,11 @@
 |-----|-------|--------|---------|-------|----------------|
 | Lun | 4 may | Authority | Newsletter + carousel + LinkedIn Newsletter | `monday-newsletter.md` | `S19-*` (CarouselWeek) |
 | Mar | 5 may | Growth | Brandjack — Microsoft AI study + RE exception | `tuesday-growth.md` | `LI-Card-RealEstateException-W19` |
-| Mié | 6 may | Personal | Founder reflection — discovery call insight | `wednesday-personal.md` | `LI-Card-FounderFiveCopies-W19` |
+| Mié | 6 may | Personal | Founder commentary on the month's data (no fabricated stories) | `wednesday-personal.md` | `LI-Card-FounderFiveStats-W19` |
 | Jue | 7 may | Growth | Hot take carousel — "Los 5 lugares" countdown | `thursday-growth.md` | `Pillar-FivePlaces-W19` |
 | Vie | 8 may | Conversion | Product carousel — Sites mechanism + promo mayo | `friday-conversion.md` | `Pillar-SitesMechanism-W19` |
 | Sáb | 9 may | Authority | Deep-dive carousel — "4 preguntas antes de hacer su sitio" | `saturday-authority.md` | `Pillar-SitesChecklist-W19` |
-| Dom | 10 may | (skip) | — | — | — |
+| Dom | 10 may | Authority/Recap | Weekly digest — neutral data summary, sin venta | `sunday-recap.md` | `LI-Card-WeekRecap-W19` |
 
 ---
 
@@ -56,7 +56,7 @@ Brief completo: `weekly-hero-video.md`. Process: `trochai-videos/hyperframes/WEE
 | Jue | "5 lugares" carousel | Sí — IG carousel |
 | Vie | Sites mechanism carousel | No (foco LinkedIn — promo conversion) |
 | Sáb | Sites checklist carousel | Sí — IG carousel |
-| Dom | (skip) | — |
+| Dom | Weekly digest infographic | Opcional — IG single-image |
 
 ---
 
@@ -64,6 +64,7 @@ Brief completo: `weekly-hero-video.md`. Process: `trochai-videos/hyperframes/WEE
 
 - **Lun, Mar, Jue, Vie, Sáb:** 7:30–9:00 AM (mejor dwell time durante hora de oficina temprana)
 - **Mié (founder):** 12:00–1:00 PM (founder content rinde mejor en horario humano, no en commute)
+- **Dom (recap):** 10:00–11:00 AM (weekend reading window — la gente revisa LinkedIn más relajada el domingo)
 
 Hyperframes hero ships **Tue PM** específicamente para no competir con el growth infographic de Tue AM. La separación temporal protege el reach del primero.
 
